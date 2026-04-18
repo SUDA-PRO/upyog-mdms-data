@@ -43,7 +43,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -116,6 +116,14 @@
         {
           "code": "OWNER.TRANSFERREASONDOCUMENT.UNREGISTEREDWILLDEED",
           "active": true
+        },
+        {
+          "code": "OWNER.TRANSFERREASONDOCUMENT.CORRECTIONINNAME",
+          "active": true
+        },
+        {
+          "code": "OWNER.TRANSFERREASONDOCUMENT.CHANGEINOWNERSPECIALCATEGORY",
+          "active": true
         }
       ],
       "description": "OWNER.TRANSFERREASONDOCUMENT.TRANSFERREASONDOCUMENT_DESCRIPTION"
@@ -123,7 +131,7 @@
     {
       "code": "OWNER.SPECIALCATEGORYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "additionalDetails": {
@@ -168,6 +176,13 @@
           "active": true,
           "parentValue": [
             "WIDOW"
+          ]
+        },
+        {
+          "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
+          "active": true,
+          "parentValue": [
+            "GENERAL"
           ]
         }
       ],
