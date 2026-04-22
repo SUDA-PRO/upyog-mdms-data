@@ -372,6 +372,17 @@
       "name": "Fire NOC Approver",
       "description": "Approver for Fire NOC applications"
     },
+
+	{
+      "name": "Citizen Login OTP",
+      "code": "CITIZEN_LOGIN_OTP",
+      "description": "Allow OTP based citizen login",
+      "moduleName": "User",
+      "serviceName": "user",
+      "path": "/user/oauth/token",
+      "method": "POST",
+      "type": "PUBLIC"
+    },  
     {
       "name": "Citizen Login OTP",
       "code": "CITIZEN_LOGIN_OTP",
