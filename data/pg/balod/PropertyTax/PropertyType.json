@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pg.citya",
   "moduleName": "PropertyTax",
   "PropertyType": [
     {
@@ -10,7 +10,7 @@
     {
       "name": "Built Up",
       "code": "BUILTUP",
-      "active": false
+      "active": true
     },
     {
       "name": "Flat/Part of the building",
