@@ -6835,7 +6835,7 @@
       "serviceCode": "EDCR",
       "code": "null",
       "path": "eDCRScrutiny",
-      "navigationURL": "obpas/edcr/home",
+      "navigationURL": "/digit-ui/citizen/obps/edcr/inbox",
       "leftIcon": "custom:edcr",
       "rightIcon": ""
     },
@@ -7646,7 +7646,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "obpas/edcr/inbox",
+      "navigationURL": "/digit-ui/citizen/obps/edcr/inbox",
       "leftIcon": "custom:edcr",
       "rightIcon": "",
       "queryParams": ""
