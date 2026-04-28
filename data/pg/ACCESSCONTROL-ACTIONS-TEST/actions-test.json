@@ -6831,7 +6831,7 @@
       "displayName": "eDCR Scrutiny Home",
       "orderNumber": 1,
       "parentModule": "rainmaker-edcr",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": "eDCRScrutiny",
@@ -7642,7 +7642,7 @@
       "displayName": "eDCR Scrutiny",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "",
       "path": "",
@@ -9290,7 +9290,7 @@
       "parentModule": "",
       "displayName": "BPA Calculator",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
@@ -9301,7 +9301,7 @@
       "url": "/edcr/rest/dcr/scrutinize",
       "displayName": "Building Plan Scrutiny",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9312,7 +9312,7 @@
       "url": "/edcr/rest/dcr/scrutinydetails",
       "displayName": "Search Building Plan Scrutiny",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9323,7 +9323,7 @@
       "url": "/edcr/rest/dcr/downloadfile",
       "displayName": "Download Files",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9334,7 +9334,7 @@
       "url": "/edcr/rest/dcr/occomparison",
       "displayName": "Compare OC and Permit Plans",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
