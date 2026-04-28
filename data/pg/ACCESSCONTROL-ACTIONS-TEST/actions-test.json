@@ -6835,7 +6835,7 @@
       "serviceCode": "EDCR",
       "code": "null",
       "path": "eDCRScrutiny",
-      "navigationURL": "edcrscrutiny/home",
+      "navigationURL": "edcr/home",
       "leftIcon": "custom:edcr",
       "rightIcon": ""
     },
@@ -7646,7 +7646,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "edcrscrutiny/home",
+      "navigationURL": "edcr/inbox",
       "leftIcon": "custom:edcr",
       "rightIcon": "",
       "queryParams": ""
