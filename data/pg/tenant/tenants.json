@@ -399,39 +399,6 @@
           },
           "address": "Ram Nagar Near Railway Colony No. 21, Patiala, Punjab 140103",
           "contactNumber": "0177 280 2771"
-        },
-        {
-          "code": "pg.balod",
-          "name": "Balod",
-          "description": "Balod",
-          "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-          "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
-          "imageId": null,
-          "domainUrl": "https://www.upyog.niua.org",
-          "type": "CITY",
-          "twitterUrl": null,
-          "facebookUrl": null,
-          "emailId": "balod@gmail.com",
-          "OfficeTimings": {
-              "Mon - Fri": "9.00 AM - 6.00 PM"
-          },
-          "city": {
-              "name": "Balod",
-              "localName": null,
-              "districtCode": "BALOD",
-              "districtName": null,
-              "districtTenantCode": "pg.balod",
-              "regionName": null,
-              "ulbGrade": "Municipal Corporation",
-              "longitude": 81.2014,
-              "latitude": 20.7323,
-              "shapeFileLocation": null,
-              "captcha": null,
-              "code": "1513",
-              "ddrName": "Balod Municipal Corporation"
-          },
-          "address": "Balod Municipal Corporation, Balod, Chhattisgarh",
-          "contactNumber": "07748-222001"
         }
    ]
 }
