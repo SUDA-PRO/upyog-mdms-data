@@ -392,6 +392,71 @@
       "path": "/user/oauth/token",
       "method": "POST",
       "type": "PUBLIC"
-    }
+    },
+    {
+    "code": "BPA_VERIFIER",
+    "name": "BPA Verifier",
+    "description": "Verifies BPA applications"
+  },
+  {
+    "code": "BPA_FIELD_INSPECTOR",
+    "name": "BPA Field Inspector",
+    "description": "Inspects field for BPA applications"
+  },
+  {
+    "code": "BPA_NOC_VERIFIER",
+    "name": "BPA NOC Verifier",
+    "description": "Verifies NOC for BPA applications"
+  },
+  {
+    "code": "BPA_APPROVER",
+    "name": "BPA Approver",
+    "description": "Approves BPA applications"
+  },
+  {
+    "code": "BPAREG_DOC_VERIFIER",
+    "name": "BPAREG Document Verifier",
+    "description": "Verifies documents for stakeholder registration"
+  },
+  {
+    "code": "BPAREG_APPROVER",
+    "name": "BPAREG Approver",
+    "description": "Approves stakeholder registration"
+  },
+  {
+    "code": "BPA_ARCHITECT",
+    "name": "BPA Architect",
+    "description": "Registered Architect stakeholder"
+  },
+  {
+    "code": "BPA_BUILDER",
+    "name": "BPA Builder",
+    "description": "Registered Builder stakeholder"
+  },
+  {
+    "code": "BPA_ENGINEER",
+    "name": "BPA Engineer",
+    "description": "Registered Engineer stakeholder"
+  },
+  {
+    "code": "BPA_STRUCTURALENGINEER",
+    "name": "BPA Structural Engineer",
+    "description": "Registered Structural Engineer stakeholder"
+  },
+  {
+    "code": "BPA_TOWNPLANNER",
+    "name": "BPA Town Planner",
+    "description": "Registered Town Planner stakeholder"
+  },
+  {
+    "code": "BPA_SUPERVISOR",
+    "name": "BPA Supervisor",
+    "description": "Registered Supervisor stakeholder"
+  },
+  {
+    "code": "OBPS_REPORT_VIEWER",
+    "name": "OBPS Report Viewer",
+    "description": "Views OBPS reports and dashboard"
+  }
   ]
 }
