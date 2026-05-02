@@ -3157,7 +3157,7 @@
       "displayName": "PropertyTaxGetBill",
       "orderNumber": 2,
       "parentModule": null,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
@@ -4487,7 +4487,7 @@
       "parentModule": "",
       "displayName": "Get Bill",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "tl-calculator",
       "code": "null",
       "path": ""
@@ -6789,7 +6789,7 @@
       "parentModule": "",
       "displayName": "Get Bill BPA",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "tl-calculator",
       "code": "null",
       "path": ""
