@@ -20303,6 +20303,32 @@
       "navigationURL": ""
     },
     {
+      "id": 500032,
+      "name": "BPA PreApprovedPlan Create",
+      "url": "/bpa-services/v1/preapprovedplan/_create",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 500033,
+      "name": "BPA PreApprovedPlan Update",
+      "url": "/bpa-services/v1/preapprovedplan/_update",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
       "id": 2985,
       "name": "BPA Calculator",
       "url": "/bpa-calculator/_estimate",
