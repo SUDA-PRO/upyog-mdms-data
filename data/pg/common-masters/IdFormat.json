@@ -711,6 +711,10 @@
             "idname": "bpa.aplnumber"
         },
         {
+            "format": "PAP-[seq_eg_bpa_preapprovedplan]",
+            "idname": "bpa.drawingnumber"
+        },
+        {
             "format": "PG-BP-[CITY.CODE]-[SEQ_EG_BP_PN]",
             "idname": "bpa.permitnumber"
         },
