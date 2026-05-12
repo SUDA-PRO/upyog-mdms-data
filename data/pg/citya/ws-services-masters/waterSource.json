@@ -15,6 +15,16 @@
       "code": "CANALWATER",
       "name": "Canal Water",
       "active": true
+    },
+    {
+      "name": "Bulksupply-Raw",
+      "code": "BULKSUPPLY.RAW",
+      "active": true
+    },
+    {
+      "name": "Bulksupply-Treated",
+      "code": "BULKSUPPLY.TREATED",
+      "active": true
     }
   ]
 }
