@@ -179,6 +179,43 @@
       "helpLineNumber": "0654-8734567"
     },
     {
+      "code": "pg.birgaon",
+      "name": "Birgaon",
+      "description": "Birgaon Municipal Corporation",
+      "pincode": [492015, 492016, 492017],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "birgaon@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Birgaon",
+        "localName": "बिरगांव",
+        "districtCode": "BIRGAON",
+        "districtName": "Birgaon",
+        "districtTenantCode": "pg.birgaon",
+        "regionName": "Raipur",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 81.7337,
+        "latitude": 21.2514,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "111",
+        "ddrName": "DDR Birgaon"
+      },
+      "address": "Birgaon Municipal Corporation, Birgaon, Chhattisgarh",
+      "contactNumber": "0771-2345678",
+      "helpLineNumber": "0771-2345679"
+    },
+    {
       "code": "pg",
       "name": "State",
       "description": "State",
