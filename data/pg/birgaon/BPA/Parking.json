@@ -1,0 +1,81 @@
+{
+    "tenantId": "pg.birgaon",
+    "moduleName": "BPA",
+    "Parking": [
+        {
+            "id": 1,
+            "fromPlotArea": 100,
+            "toPlotArea": 200,
+            "state": "pg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "residential",
+            "riskType": "low",
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 25,
+            "active": true
+        },
+        {
+            "id": 2,
+            "fromPlotArea": 200,
+            "toPlotArea": 400,
+            "state": "pg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "residential",
+            "riskType": "low",
+            "isOpenParking": true,
+            "noOfParking": 2,
+            "permissible": 25,
+            "active": true
+        },
+        {
+            "id": 3,
+            "fromPlotArea": 400,
+            "toPlotArea": 999999,
+            "state": "pg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "residential",
+            "riskType": "low",
+            "isStiltParking": true,
+            "noOfParking": 3,
+            "permissible": 30,
+            "active": true
+        },
+        {
+            "id": 4,
+            "fromPlotArea": 0,
+            "toPlotArea": 999999,
+            "state": "pg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "commercial",
+            "riskType": "low",
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 150,
+            "active": true
+        },
+        {
+            "id": 5,
+            "fromPlotArea": 0,
+            "toPlotArea": 999999,
+            "state": "pg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "industrial",
+            "riskType": "low",
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 400,
+            "active": true
+        }
+    ]
+}
