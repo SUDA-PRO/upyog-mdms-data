@@ -14344,6 +14344,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "cg.citya"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 1944,
       "actioncode": "",
       "tenantId": "cg"
@@ -14359,6 +14365,12 @@
       "actionid": 1943,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "cg.citya"
     },
     {
       "rolecode": "PT_CEMP",
@@ -19199,6 +19211,12 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2090,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 605,
       "actioncode": "",
       "tenantId": "cg"
     },
