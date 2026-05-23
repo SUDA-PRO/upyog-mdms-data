@@ -1,0 +1,103 @@
+﻿{
+  "tenantId": "cg.birgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Birgaon",
+        "localname": "बिरगांव",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "cg.birgaon",
+        "children": [
+          {
+            "id": "b1a2c3d4-e5f6-7890-abcd-ef1234567890",
+            "boundaryNum": 1,
+            "name": "ZONE_CENTRAL",
+            "localname": "ZONE_CENTRAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BGN_Z1",
+            "children": [
+              {
+                "id": "c1d2e3f4-a5b6-7890-cdef-123456789abc",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BGN_W1",
+                "children": []
+              },
+              {
+                "id": "d1e2f3a4-b5c6-7890-def0-234567890bcd",
+                "boundaryNum": 2,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BGN_W2",
+                "children": []
+              },
+              {
+                "id": "e1f2a3b4-c5d6-7890-ef01-345678901cde",
+                "boundaryNum": 3,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BGN_W3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f1a2b3c4-d5e6-7890-f012-456789012def",
+            "boundaryNum": 2,
+            "name": "ZONE_NORTH",
+            "localname": "ZONE_NORTH",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BGN_Z2",
+            "children": [
+              {
+                "id": "a2b3c4d5-e6f7-8901-0123-567890123ef0",
+                "boundaryNum": 4,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BGN_W4",
+                "children": []
+              },
+              {
+                "id": "b2c3d4e5-f6a7-8901-1234-678901234f01",
+                "boundaryNum": 5,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BGN_W5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿{
+    "tenantId": "cg.cityb",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

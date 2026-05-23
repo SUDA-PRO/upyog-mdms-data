@@ -1,0 +1,18 @@
+﻿{
+  "tenantId": "cg",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "cg.cityb",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    },
+     {
+      "tenant": "cg.citya",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}

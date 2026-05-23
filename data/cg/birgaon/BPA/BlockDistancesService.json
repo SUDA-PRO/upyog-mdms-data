@@ -1,0 +1,39 @@
+﻿{
+    "tenantId": "cg.birgaon",
+    "moduleName": "BPA",
+    "BlockDistancesService": [
+        {
+            "id": 1,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "permissible": "3",
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "permissible": "5",
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "permissible": "9",
+            "active": true
+        }
+    ]
+}

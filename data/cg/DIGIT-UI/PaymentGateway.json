@@ -1,0 +1,18 @@
+﻿{
+    "tenantId": "cg",
+    "moduleName": "DIGIT-UI",
+    "PaymentGateway": [
+        {
+            "gateway": "MOCK",
+            "active": true
+        },
+        {
+            "gateway": "PAYGOV",
+            "active": true
+        },
+        {
+            "gateway": "NTTDATA",
+            "active": true
+        }
+    ]
+}
