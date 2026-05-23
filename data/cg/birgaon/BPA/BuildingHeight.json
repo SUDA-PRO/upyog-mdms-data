@@ -1,0 +1,42 @@
+﻿{
+    "tenantId": "cg.birgaon",
+    "moduleName": "BPA",
+    "BuildingHeight": [
+        {
+            "id": 1,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "buildingHeightMaximumDistancetoRoad": "12",
+            "buildingHeightMaxBuildingHeight": "10",
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "buildingHeightMaximumDistancetoRoad": "32",
+            "buildingHeightMaxBuildingHeight": "10",
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "buildingHeightMaximumDistancetoRoad": "1",
+            "buildingHeightMaxBuildingHeight": "10",
+            "active": true
+        }
+    ]
+}

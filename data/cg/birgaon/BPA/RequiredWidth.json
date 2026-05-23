@@ -1,0 +1,39 @@
+﻿{
+    "tenantId": "cg.birgaon",
+    "moduleName": "BPA",
+    "RequiredWidth": [
+        {
+            "id": 1,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "permissible": 0.76,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "permissible": 1.0,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "cg",
+            "city": "birgaon",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "permissible": 1.2,
+            "active": true
+        }
+    ]
+}
