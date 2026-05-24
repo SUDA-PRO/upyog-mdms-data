@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.tildanewra",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Tilda Newra",
+                                                "localname":  "Tilda Newra",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.tildanewra",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "42dc9711-f4d1-44d7-912e-da661a497b77",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "localname":  "Ward 1",
+                                                                     "longitude":  null,
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "code":  "TILD_W1",
+                                                                     "children":  [
+
+                                                                                  ]
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

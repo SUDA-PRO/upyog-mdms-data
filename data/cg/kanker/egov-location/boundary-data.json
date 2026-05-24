@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.kanker",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Kanker",
+                                                "localname":  "Kanker",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.kanker",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "652c155f-3d95-4316-b43c-960759152afb",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "localname":  "Ward 1",
+                                                                     "longitude":  null,
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "code":  "KANK_W1",
+                                                                     "children":  [
+
+                                                                                  ]
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

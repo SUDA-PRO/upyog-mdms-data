@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.arjunda",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Arjunda",
+                                                "localname":  "Arjunda",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.arjunda",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "237b379a-80d2-431c-b55b-7a1268445d4a",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "localname":  "Ward 1",
+                                                                     "longitude":  null,
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "code":  "ARJU_W1",
+                                                                     "children":  [
+
+                                                                                  ]
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.bhilaicharoda",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Bhilai Charoda",
+                                                "localname":  "Bhilai Charoda",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.bhilaicharoda",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "eacac3eb-3964-430b-b5a9-0894c231ba4c",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "localname":  "Ward 1",
+                                                                     "longitude":  null,
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "code":  "BHIL_W1",
+                                                                     "children":  [
+
+                                                                                  ]
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

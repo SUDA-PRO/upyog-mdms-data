@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.gunderdehi",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Gunderdehi",
+                                                "localname":  "Gunderdehi",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.gunderdehi",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "43ec6333-0785-46db-a5f7-95a6603102f5",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "localname":  "Ward 1",
+                                                                     "longitude":  null,
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "code":  "GUND_W1",
+                                                                     "children":  [
+
+                                                                                  ]
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

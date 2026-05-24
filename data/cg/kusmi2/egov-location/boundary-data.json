@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.kusmi2",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Kusmi",
+                                                "localname":  "Kusmi",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.kusmi2",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "5ab16a0c-76ec-4e89-ba4d-4d847e73bead",
+                                                                     "localname":  "Ward 1",
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "children":  [
+
+                                                                                  ],
+                                                                     "code":  "KUSM_W1",
+                                                                     "longitude":  null
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

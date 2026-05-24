@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.nawagarh2",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Nawagarh",
+                                                "localname":  "Nawagarh",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.nawagarh2",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "273fc443-0640-4d05-92f2-ae608bc2ea0b",
+                                                                     "localname":  "Ward 1",
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "children":  [
+
+                                                                                  ],
+                                                                     "code":  "NAWA_W1",
+                                                                     "longitude":  null
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

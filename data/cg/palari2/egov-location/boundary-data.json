@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.palari2",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Palari",
+                                                "localname":  "Palari",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.palari2",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "b80a1e3a-6864-4036-a33e-913831849c61",
+                                                                     "localname":  "Ward 1",
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "children":  [
+
+                                                                                  ],
+                                                                     "code":  "PALA_W1",
+                                                                     "longitude":  null
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}
