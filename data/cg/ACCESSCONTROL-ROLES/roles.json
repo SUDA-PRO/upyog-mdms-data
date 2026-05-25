@@ -457,6 +457,11 @@
     "code": "OBPS_REPORT_VIEWER",
     "name": "OBPS Report Viewer",
     "description": "Views OBPS reports and dashboard"
+  },
+  {
+    "code": "PT_APPROVER_PRIMARY",
+    "name": "Property Primary Approver",
+    "description": "In case of 4 user flow this is first approver"
   }
   ]
 }
