@@ -15,7 +15,7 @@
 	  {
         "businessService": "PT.CREATE",
         "active": "true",
-        "isStatelevel": "true"
+        "isStatelevel": "false"
       },
       {
         "businessService": "PGR",
@@ -30,7 +30,7 @@
       {
         "businessService": "PT.CREATE",
         "active": "true",
-        "isStatelevel": "true"
+        "isStatelevel": "false"
       }	    
         
     ]
