@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.kusmi",
+    "tenantId":  "cg.nawagarhbemetara",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,22 +10,22 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Kusmi",
-                                                "localname":  "Kusmi",
+                                                "name":  "Nawagarh(Bemetara)",
+                                                "localname":  "Nawagarh(Bemetara)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.kusmi",
+                                                "code":  "cg.nawagarhbemetara",
                                                 "children":  [
                                                                  {
-                                                                     "id":  "19714a4a-e3d4-466a-921c-9c8f8ac6a7b0",
+                                                                     "id":  "e478e51f-fad2-404a-b564-b00cf4aa6841",
                                                                      "boundaryNum":  1,
                                                                      "name":  "Ward 1",
                                                                      "localname":  "Ward 1",
                                                                      "longitude":  null,
                                                                      "latitude":  null,
                                                                      "label":  "Ward",
-                                                                     "code":  "KUSM_W1",
+                                                                     "code":  "NAWA_W1",
                                                                      "children":  [
 
                                                                                   ]
