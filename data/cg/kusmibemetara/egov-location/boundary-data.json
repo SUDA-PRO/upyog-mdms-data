@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.palari",
+    "tenantId":  "cg.kusmibemetara",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,22 +10,22 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Palari",
-                                                "localname":  "Palari",
+                                                "name":  "Kusmi(Bemetara)",
+                                                "localname":  "Kusmi(Bemetara)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.palari",
+                                                "code":  "cg.kusmibemetara",
                                                 "children":  [
                                                                  {
-                                                                     "id":  "24d3b2eb-8545-4613-a605-48e99d52ccf9",
+                                                                     "id":  "19714a4a-e3d4-466a-921c-9c8f8ac6a7b0",
                                                                      "boundaryNum":  1,
                                                                      "name":  "Ward 1",
                                                                      "localname":  "Ward 1",
                                                                      "longitude":  null,
                                                                      "latitude":  null,
                                                                      "label":  "Ward",
-                                                                     "code":  "PALA_W1",
+                                                                     "code":  "KUSM_W1",
                                                                      "children":  [
 
                                                                                   ]

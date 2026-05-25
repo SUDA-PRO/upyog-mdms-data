@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.palari2",
+    "tenantId":  "cg.kusmibalrampur",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,15 +10,15 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Palari",
-                                                "localname":  "Palari",
+                                                "name":  "Kusmi(Balrampur)",
+                                                "localname":  "Kusmi(Balrampur)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.palari2",
+                                                "code":  "cg.kusmibalrampur",
                                                 "children":  [
                                                                  {
-                                                                     "id":  "b80a1e3a-6864-4036-a33e-913831849c61",
+                                                                     "id":  "5ab16a0c-76ec-4e89-ba4d-4d847e73bead",
                                                                      "localname":  "Ward 1",
                                                                      "latitude":  null,
                                                                      "label":  "Ward",
@@ -27,7 +27,7 @@
                                                                      "children":  [
 
                                                                                   ],
-                                                                     "code":  "PALA_W1",
+                                                                     "code":  "KUSM_W1",
                                                                      "longitude":  null
                                                                  }
                                                              ]
