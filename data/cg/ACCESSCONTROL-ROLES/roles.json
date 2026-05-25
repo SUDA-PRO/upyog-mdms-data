@@ -462,6 +462,21 @@
     "code": "PT_APPROVER_PRIMARY",
     "name": "Property Primary Approver",
     "description": "In case of 4 user flow this is first approver"
+  },
+  {
+    "code": "ARO",
+    "name": "Assistant Revenue Officer",
+    "description": "Assistant Revenue Officer"
+  },
+  {
+    "code": "REVENUE_OFFICER",
+    "name": "Revenue Officer",
+    "description": "Revenue Officer"
+  },
+  {
+    "code": "COMMISSIONER",
+    "name": "Commissioner",
+    "description": "Commissioner"
   }
   ]
 }
