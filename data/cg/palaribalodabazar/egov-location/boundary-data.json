@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.kusmi2",
+    "tenantId":  "cg.palaribalodabazar",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,15 +10,15 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Kusmi",
-                                                "localname":  "Kusmi",
+                                                "name":  "Palari(Balodabazar)",
+                                                "localname":  "Palari(Balodabazar)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.kusmi2",
+                                                "code":  "cg.palaribalodabazar",
                                                 "children":  [
                                                                  {
-                                                                     "id":  "5ab16a0c-76ec-4e89-ba4d-4d847e73bead",
+                                                                     "id":  "b80a1e3a-6864-4036-a33e-913831849c61",
                                                                      "localname":  "Ward 1",
                                                                      "latitude":  null,
                                                                      "label":  "Ward",
@@ -27,7 +27,7 @@
                                                                      "children":  [
 
                                                                                   ],
-                                                                     "code":  "KUSM_W1",
+                                                                     "code":  "PALA_W1",
                                                                      "longitude":  null
                                                                  }
                                                              ]

@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.bhatgaon2",
+    "tenantId":  "cg.bhatgaonsb",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,25 +10,25 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Bhatgaon",
-                                                "localname":  "Bhatgaon",
+                                                "name":  "Bhatgaon(SB)",
+                                                "localname":  "Bhatgaon(SB)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.bhatgaon2",
+                                                "code":  "cg.bhatgaonsb",
                                                 "children":  [
                                                                  {
-                                                                     "id":  "139cad92-8ad7-4b2b-a68e-93270fc9d538",
-                                                                     "localname":  "Ward 1",
-                                                                     "latitude":  null,
-                                                                     "label":  "Ward",
+                                                                     "id":  "24ccb277-7471-4000-8cb1-8b2c88a0a0b9",
                                                                      "boundaryNum":  1,
                                                                      "name":  "Ward 1",
+                                                                     "localname":  "Ward 1",
+                                                                     "longitude":  null,
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "code":  "BHAT_W1",
                                                                      "children":  [
 
-                                                                                  ],
-                                                                     "code":  "BHAT_W1",
-                                                                     "longitude":  null
+                                                                                  ]
                                                                  }
                                                              ]
                                             }

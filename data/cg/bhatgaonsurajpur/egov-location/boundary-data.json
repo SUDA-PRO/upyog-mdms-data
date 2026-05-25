@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.nawagarh",
+    "tenantId":  "cg.bhatgaonsurajpur",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,25 +10,25 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Nawagarh",
-                                                "localname":  "Nawagarh",
+                                                "name":  "Bhatgaon(Surajpur)",
+                                                "localname":  "Bhatgaon(Surajpur)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.nawagarh",
+                                                "code":  "cg.bhatgaonsurajpur",
                                                 "children":  [
                                                                  {
-                                                                     "id":  "e478e51f-fad2-404a-b564-b00cf4aa6841",
-                                                                     "boundaryNum":  1,
-                                                                     "name":  "Ward 1",
+                                                                     "id":  "139cad92-8ad7-4b2b-a68e-93270fc9d538",
                                                                      "localname":  "Ward 1",
-                                                                     "longitude":  null,
                                                                      "latitude":  null,
                                                                      "label":  "Ward",
-                                                                     "code":  "NAWA_W1",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
                                                                      "children":  [
 
-                                                                                  ]
+                                                                                  ],
+                                                                     "code":  "BHAT_W1",
+                                                                     "longitude":  null
                                                                  }
                                                              ]
                                             }

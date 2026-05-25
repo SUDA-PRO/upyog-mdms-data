@@ -3551,9 +3551,9 @@
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.bhatgaon",
-                        "name":  "Bhatgaon",
-                        "description":  "Bhatgaon",
+                        "code":  "cg.bhatgaonsb",
+                        "name":  "Bhatgaon(SB)",
+                        "description":  "Bhatgaon(SB)",
                         "pincode":  [
 
                                     ],
@@ -3564,16 +3564,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "bhatgaon@cg.gov.in",
+                        "emailId":  "bhatgaonsb@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Bhatgaon",
+                                     "name":  "Bhatgaon(SB)",
                                      "localName":  null,
                                      "districtCode":  "BHATGAON",
-                                     "districtName":  "Bhatgaon",
-                                     "districtTenantCode":  "cg.bhatgaon",
+                                     "districtName":  "Bhatgaon(SB)",
+                                     "districtTenantCode":  "cg.bhatgaonsb",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  82.3167,
@@ -3581,9 +3581,9 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "287",
-                                     "ddrName":  "DDR Bhatgaon"
+                                     "ddrName":  "DDR Bhatgaon(SB)"
                                  },
-                        "address":  "Bhatgaon Nagar Panchayat",
+                        "address":  "Bhatgaon(SB) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
@@ -5351,9 +5351,9 @@
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.kusmi",
-                        "name":  "Kusmi",
-                        "description":  "Kusmi",
+                        "code":  "cg.kusmibemetara",
+                        "name":  "Kusmi(Bemetara)",
+                        "description":  "Kusmi(Bemetara)",
                         "pincode":  [
 
                                     ],
@@ -5364,16 +5364,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "kusmi@cg.gov.in",
+                        "emailId":  "kusmibemetara@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Kusmi",
+                                     "name":  "Kusmi(Bemetara)",
                                      "localName":  null,
-                                     "districtCode":  "KUSMI",
-                                     "districtName":  "Kusmi",
-                                     "districtTenantCode":  "cg.kusmi",
+                                     "districtCode":  "KUSMIBEM",
+                                     "districtName":  "Kusmi(Bemetara)",
+                                     "districtTenantCode":  "cg.kusmibemetara",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  83.9167,
@@ -5381,9 +5381,9 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "337",
-                                     "ddrName":  "DDR Kusmi"
+                                     "ddrName":  "DDR Kusmi(Bemetara)"
                                  },
-                        "address":  "Kusmi Nagar Panchayat",
+                        "address":  "Kusmi(Bemetara) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
@@ -5855,9 +5855,9 @@
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.nawagarh",
-                        "name":  "Nawagarh",
-                        "description":  "Nawagarh",
+                        "code":  "cg.nawagarhbemetara",
+                        "name":  "Nawagarh(Bemetara)",
+                        "description":  "Nawagarh(Bemetara)",
                         "pincode":  [
 
                                     ],
@@ -5868,16 +5868,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "nawagarh@cg.gov.in",
+                        "emailId":  "nawagarhbemetara@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Nawagarh",
+                                     "name":  "Nawagarh(Bemetara)",
                                      "localName":  null,
                                      "districtCode":  "NAWAGARH",
-                                     "districtName":  "Nawagarh",
-                                     "districtTenantCode":  "cg.nawagarh",
+                                     "districtName":  "Nawagarh(Bemetara)",
+                                     "districtTenantCode":  "cg.nawagarhbemetara",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  82.7833,
@@ -5885,9 +5885,9 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "351",
-                                     "ddrName":  "DDR Nawagarh"
+                                     "ddrName":  "DDR Nawagarh(Bemetara)"
                                  },
-                        "address":  "Nawagarh Nagar Panchayat",
+                        "address":  "Nawagarh(Bemetara) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
@@ -5963,9 +5963,9 @@
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.palari",
-                        "name":  "Palari",
-                        "description":  "Palari",
+                        "code":  "cg.palaribalod",
+                        "name":  "Palari(Balod)",
+                        "description":  "Palari(Balod)",
                         "pincode":  [
 
                                     ],
@@ -5976,16 +5976,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "palari@cg.gov.in",
+                        "emailId":  "palaribalod@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Palari",
+                                     "name":  "Palari(Balod)",
                                      "localName":  null,
-                                     "districtCode":  "PALARI",
-                                     "districtName":  "Palari",
-                                     "districtTenantCode":  "cg.palari",
+                                     "districtCode":  "PALARIBA",
+                                     "districtName":  "Palari(Balod)",
+                                     "districtTenantCode":  "cg.palaribalod",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  82.2167,
@@ -5993,9 +5993,9 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "354",
-                                     "ddrName":  "DDR Palari"
+                                     "ddrName":  "DDR Palari(Balod)"
                                  },
-                        "address":  "Palari Nagar Panchayat",
+                        "address":  "Palari(Balod) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
@@ -7223,9 +7223,9 @@
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.bhatgaon2",
-                        "name":  "Bhatgaon",
-                        "description":  "Bhatgaon",
+                        "code":  "cg.bhatgaonsurajpur",
+                        "name":  "Bhatgaon(Surajpur)",
+                        "description":  "Bhatgaon(Surajpur)",
                         "pincode":  [
 
                                     ],
@@ -7236,16 +7236,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "bhatgaon2@cg.gov.in",
+                        "emailId":  "bhatgaonsurajpur@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Bhatgaon",
+                                     "name":  "Bhatgaon(Surajpur)",
                                      "localName":  null,
                                      "districtCode":  "BHATGAON",
-                                     "districtName":  "Bhatgaon",
-                                     "districtTenantCode":  "cg.bhatgaon2",
+                                     "districtName":  "Bhatgaon(Surajpur)",
+                                     "districtTenantCode":  "cg.bhatgaonsurajpur",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  82.3167,
@@ -7253,15 +7253,15 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "389",
-                                     "ddrName":  "DDR Bhatgaon"
+                                     "ddrName":  "DDR Bhatgaon(Surajpur)"
                                  },
-                        "address":  "Bhatgaon Nagar Panchayat",
+                        "address":  "Bhatgaon(Surajpur) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.kusmi2",
-                        "name":  "Kusmi",
-                        "description":  "Kusmi",
+                        "code":  "cg.kusmibalrampur",
+                        "name":  "Kusmi(Balrampur)",
+                        "description":  "Kusmi(Balrampur)",
                         "pincode":  [
 
                                     ],
@@ -7272,16 +7272,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "kusmi2@cg.gov.in",
+                        "emailId":  "kusmibalrampur@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Kusmi",
+                                     "name":  "Kusmi(Balrampur)",
                                      "localName":  null,
-                                     "districtCode":  "KUSMI2",
-                                     "districtName":  "Kusmi",
-                                     "districtTenantCode":  "cg.kusmi2",
+                                     "districtCode":  "KUSMIBAL",
+                                     "districtName":  "Kusmi(Balrampur)",
+                                     "districtTenantCode":  "cg.kusmibalrampur",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  83.9167,
@@ -7289,15 +7289,15 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "390",
-                                     "ddrName":  "DDR Kusmi"
+                                     "ddrName":  "DDR Kusmi(Balrampur)"
                                  },
-                        "address":  "Kusmi Nagar Panchayat",
+                        "address":  "Kusmi(Balrampur) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.nawagarh2",
-                        "name":  "Nawagarh",
-                        "description":  "Nawagarh",
+                        "code":  "cg.nawagarhjanjgir",
+                        "name":  "Nawagarh(Janjgir-Champa)",
+                        "description":  "Nawagarh(Janjgir-Champa)",
                         "pincode":  [
 
                                     ],
@@ -7308,16 +7308,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "nawagarh2@cg.gov.in",
+                        "emailId":  "nawagarhjanjgir@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Nawagarh",
+                                     "name":  "Nawagarh(Janjgir-Champa)",
                                      "localName":  null,
                                      "districtCode":  "NAWAGARH",
-                                     "districtName":  "Nawagarh",
-                                     "districtTenantCode":  "cg.nawagarh2",
+                                     "districtName":  "Nawagarh(Janjgir-Champa)",
+                                     "districtTenantCode":  "cg.nawagarhjanjgir",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  82.7833,
@@ -7325,15 +7325,15 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "391",
-                                     "ddrName":  "DDR Nawagarh"
+                                     "ddrName":  "DDR Nawagarh(Janjgir-Champa)"
                                  },
-                        "address":  "Nawagarh Nagar Panchayat",
+                        "address":  "Nawagarh(Janjgir-Champa) Nagar Panchayat",
                         "contactNumber":  "NA"
                     },
                     {
-                        "code":  "cg.palari2",
-                        "name":  "Palari",
-                        "description":  "Palari",
+                        "code":  "cg.palaribalodabazar",
+                        "name":  "Palari(Balodabazar)",
+                        "description":  "Palari(Balodabazar)",
                         "pincode":  [
 
                                     ],
@@ -7344,16 +7344,16 @@
                         "type":  "CITY",
                         "twitterUrl":  null,
                         "facebookUrl":  null,
-                        "emailId":  "palari2@cg.gov.in",
+                        "emailId":  "palaribalodabazar@cg.gov.in",
                         "OfficeTimings":  {
                                               "Mon - Fri":  "9.00 AM - 6.00 PM"
                                           },
                         "city":  {
-                                     "name":  "Palari",
+                                     "name":  "Palari(Balodabazar)",
                                      "localName":  null,
-                                     "districtCode":  "PALARI2",
-                                     "districtName":  "Palari",
-                                     "districtTenantCode":  "cg.palari2",
+                                     "districtCode":  "PALARIBA",
+                                     "districtName":  "Palari(Balodabazar)",
+                                     "districtTenantCode":  "cg.palaribalodabazar",
                                      "regionName":  "Chhattisgarh",
                                      "ulbGrade":  "Nagar Panchayat",
                                      "longitude":  82.2167,
@@ -7361,9 +7361,9 @@
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
                                      "code":  "392",
-                                     "ddrName":  "DDR Palari"
+                                     "ddrName":  "DDR Palari(Balodabazar)"
                                  },
-                        "address":  "Palari Nagar Panchayat",
+                        "address":  "Palari(Balodabazar) Nagar Panchayat",
                         "contactNumber":  "NA"
                     }
                 ]

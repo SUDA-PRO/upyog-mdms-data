@@ -1,5 +1,5 @@
 ﻿{
-    "tenantId":  "cg.nawagarh2",
+    "tenantId":  "cg.nawagarhjanjgir",
     "moduleName":  "egov-location",
     "TenantBoundary":  [
                            {
@@ -10,12 +10,12 @@
                                "boundary":  {
                                                 "id":  1,
                                                 "boundaryNum":  1,
-                                                "name":  "Nawagarh",
-                                                "localname":  "Nawagarh",
+                                                "name":  "Nawagarh(Janjgir-Champa)",
+                                                "localname":  "Nawagarh(Janjgir-Champa)",
                                                 "longitude":  null,
                                                 "latitude":  null,
                                                 "label":  "City",
-                                                "code":  "cg.nawagarh2",
+                                                "code":  "cg.nawagarhjanjgir",
                                                 "children":  [
                                                                  {
                                                                      "id":  "273fc443-0640-4d05-92f2-ae608bc2ea0b",
