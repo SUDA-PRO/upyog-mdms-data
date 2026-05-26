@@ -1039,6 +1039,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
+                        "area":"JAGDLP_Z1_MR_PUCCA",
                         "code": "JAGD_W38",
                         "children": [
                             {
