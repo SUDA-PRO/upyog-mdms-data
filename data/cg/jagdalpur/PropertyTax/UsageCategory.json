@@ -419,7 +419,12 @@
       "name": "Religious",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUITION.RELIGIOUS",
       "active": true,
-      "fromFY": "2015-16"
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
       "name": "Historical Building",
@@ -489,7 +494,7 @@
       "active": "True",
       "fromFY": "2015-16",
       "exemption": {
-        "rate": 0,
+        "rate": 100,
         "maxAmount": 0,
         "flatAmount": 0
       }
@@ -640,7 +645,12 @@
       "name": "Religious",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUS.RELIGIOUS",
       "active": "True",
-      "fromFY": "2015-16"
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     },
     {
       "name": "Parks",
@@ -671,6 +681,50 @@
       "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVT.POLYTECHNICS",
       "active": "True",
       "fromFY": "2015-16"
+    },
+    {
+      "name": "Government Building",
+      "code": "NONRESIDENTIAL.GOVERNMENT",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Government - ULB Office",
+      "code": "NONRESIDENTIAL.GOVERNMENT.ULBOFFICE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Government - State Office",
+      "code": "NONRESIDENTIAL.GOVERNMENT.STATEOFFICE",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Religious Building",
+      "code": "NONRESIDENTIAL.RELIGIOUS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
   ]
 }

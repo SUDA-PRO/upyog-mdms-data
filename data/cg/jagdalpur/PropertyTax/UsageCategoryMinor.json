@@ -49,6 +49,30 @@
         "maxAmount": 0,
         "flatAmount": 0
       }
+    },
+    {
+      "name": "Government",
+      "code": "GOVERNMENT",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Religious",
+      "code": "RELIGIOUS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "NONRESIDENTIAL",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
   ]
 }

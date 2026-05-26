@@ -1,0 +1,48 @@
+{
+  "tenantId": "cg.jagdalpur",
+  "moduleName": "PropertyTax",
+  "DiscountType": [
+    {
+      "name": "Widow",
+      "code": "WIDOW",
+      "rate": 50,
+      "active": true,
+      "description": "50% rebate for widow property owners"
+    },
+    {
+      "name": "Self Independent Women",
+      "code": "SELF_INDEPENDENT_WOMEN",
+      "rate": 25,
+      "active": true,
+      "description": "25% rebate for self-independent women"
+    },
+    {
+      "name": "Freedom Fighter",
+      "code": "FREEDOM_FIGHTER",
+      "rate": 100,
+      "active": true,
+      "description": "100% exemption for freedom fighters"
+    },
+    {
+      "name": "Senior Citizen",
+      "code": "SENIOR_CITIZEN",
+      "rate": 25,
+      "active": true,
+      "description": "25% rebate for senior citizens (65+)"
+    },
+    {
+      "name": "Person with Mental Illness",
+      "code": "MENTAL_ILLNESS",
+      "rate": 50,
+      "active": true,
+      "description": "50% rebate for persons with mental illness"
+    },
+    {
+      "name": "Retired Indian Army",
+      "code": "RETIRED_ARMY",
+      "rate": 25,
+      "active": true,
+      "description": "25% rebate for retired Indian Army personnel"
+    }
+  ]
+}
