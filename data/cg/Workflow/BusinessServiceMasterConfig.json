@@ -28,10 +28,19 @@
         "isStatelevel": "true"
       },
       {
-        "businessService": "PT.CREATE",
+        "businessService": "PT.MUTATION",
         "active": "true",
         "isStatelevel": "false"
-      }	    
-        
+      },
+      {
+        "businessService": "PT.UPDATE",
+        "active": "true",
+        "isStatelevel": "false"
+      },
+      {
+        "businessService": "ASMT",
+        "active": "true",
+        "isStatelevel": "false"
+      }
     ]
   }
