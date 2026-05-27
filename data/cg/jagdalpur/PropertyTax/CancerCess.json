@@ -3,7 +3,7 @@
  "moduleName": "PropertyTax",
  "CancerCess": [
    {
-     "rate": 5,
+     "rate": 0,
      "minAmount": null,
      "flatAmount": null,
      "maxAmount" : null,
