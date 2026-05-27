@@ -1039,8 +1039,8 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "area":"JAGDLP_Z1_MR_PUCCA",
                         "code": "JAGD_W38",
+                        "area": "JAGDLP_Z4_MR_PUCCA",
                         "children": [
                             {
                                 "id": "b1000038-0003-0000-0000-000000000038",
@@ -1052,7 +1052,8 @@
                                 "id": "b1000038-0004-0000-0000-000000000038",
                                 "name": "Rate Zone 4",
                                 "label": "RateZone",
-                                "code": "JAGD_W38_RZ4"
+                                "code": "JAGD_W38_RZ4",
+                                "area":"JAGDLP_Z4_MR_PUCCA"
                             }
                         ]
                     },
