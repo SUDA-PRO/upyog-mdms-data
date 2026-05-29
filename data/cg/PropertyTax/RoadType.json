@@ -1,0 +1,16 @@
+{
+  "tenantId": "cg",
+  "moduleName": "PropertyTax",
+  "RoadType": [
+    {
+      "code": "MR",
+      "name": "Main Road / Main Market",
+      "active": true
+    },
+    {
+      "code": "OR",
+      "name": "Other Road / Away from Main Road",
+      "active": true
+    }
+  ]
+}
