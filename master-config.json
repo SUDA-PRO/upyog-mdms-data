@@ -572,6 +572,13 @@
         "$.code"
       ]
     },
+    "RoadType": {
+      "masterName": "RoadType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "FireCess": {
       "masterName": "FireCess",
       "isStateLevel": true,
