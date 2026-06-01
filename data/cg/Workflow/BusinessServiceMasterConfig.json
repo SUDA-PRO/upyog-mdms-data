@@ -15,7 +15,7 @@
 	  {
         "businessService": "PT.CREATE",
         "active": "true",
-        "isStatelevel": "true"
+        "isStatelevel": "false"
       },
       {
         "businessService": "PGR",
@@ -28,16 +28,19 @@
         "isStatelevel": "true"
       },
       {
-        "businessService": "PT.CREATE",
+        "businessService": "PT.MUTATION",
         "active": "true",
-        "isStatelevel": "true"
-      }	    
-        
+        "isStatelevel": "false"
+      },
       {
-        "businessService": "PT.CREATE",
+        "businessService": "PT.UPDATE",
         "active": "true",
-        "isStatelevel": "true"
-      }	    
-        
+        "isStatelevel": "false"
+      },
+      {
+        "businessService": "ASMT",
+        "active": "true",
+        "isStatelevel": "false"
+      }
     ]
   }
