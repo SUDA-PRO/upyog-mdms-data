@@ -1,4 +1,4 @@
-﻿{
+{
     "tenantId":  "cg",
     "moduleName":  "tenant",
     "tenants":  [
@@ -215,7 +215,7 @@
                         "isPopular":  true,
                         "city":  {
                                      "name":  "Birgaon",
-                                     "localName":  "बिरगांव",
+                                     "localName":  "???????",
                                      "districtCode":  "BIRGAON",
                                      "districtName":  "Birgaon",
                                      "districtTenantCode":  "cg.birgaon",
@@ -425,8 +425,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -461,8 +461,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -497,8 +497,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -533,8 +533,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -569,8 +569,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -605,8 +605,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -641,8 +641,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -677,8 +677,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -713,8 +713,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -749,8 +749,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -785,8 +785,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -821,8 +821,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -857,8 +857,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -893,8 +893,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -929,8 +929,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -965,8 +965,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1001,8 +1001,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1037,8 +1037,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1073,8 +1073,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1109,8 +1109,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1145,8 +1145,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1181,8 +1181,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1217,8 +1217,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1253,8 +1253,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1289,8 +1289,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1325,8 +1325,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1361,8 +1361,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1397,8 +1397,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1433,8 +1433,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1469,8 +1469,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1505,8 +1505,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1541,8 +1541,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1577,8 +1577,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1613,8 +1613,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1649,8 +1649,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1685,8 +1685,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1721,8 +1721,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1757,8 +1757,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1793,8 +1793,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1829,8 +1829,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1865,8 +1865,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1901,8 +1901,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1937,8 +1937,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -1973,8 +1973,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2009,8 +2009,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2045,8 +2045,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2081,8 +2081,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2117,8 +2117,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2153,8 +2153,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2189,8 +2189,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2225,8 +2225,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2261,8 +2261,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2297,8 +2297,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2333,8 +2333,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2369,8 +2369,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2405,8 +2405,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2441,8 +2441,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2477,8 +2477,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2513,8 +2513,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2549,8 +2549,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2585,8 +2585,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2621,8 +2621,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2657,8 +2657,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2693,8 +2693,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2729,8 +2729,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2765,8 +2765,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2801,8 +2801,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2837,8 +2837,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2873,8 +2873,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2909,8 +2909,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2945,8 +2945,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -2981,8 +2981,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3017,8 +3017,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3053,8 +3053,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3089,8 +3089,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3125,8 +3125,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3161,8 +3161,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3197,8 +3197,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3233,8 +3233,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3269,8 +3269,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3305,8 +3305,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3341,8 +3341,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3377,8 +3377,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3413,8 +3413,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3449,8 +3449,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3485,8 +3485,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3521,8 +3521,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3557,8 +3557,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3593,8 +3593,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3629,8 +3629,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3665,8 +3665,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3701,8 +3701,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3737,8 +3737,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3773,8 +3773,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3809,8 +3809,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3845,8 +3845,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3881,8 +3881,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3917,8 +3917,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3953,8 +3953,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -3989,8 +3989,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4025,8 +4025,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4061,8 +4061,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4097,8 +4097,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4133,8 +4133,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4169,8 +4169,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4205,8 +4205,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4241,8 +4241,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4277,8 +4277,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4313,8 +4313,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4349,8 +4349,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4385,8 +4385,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4421,8 +4421,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4457,8 +4457,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4493,8 +4493,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4529,8 +4529,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4565,8 +4565,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4601,8 +4601,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4637,8 +4637,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4673,8 +4673,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4709,8 +4709,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4745,8 +4745,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4781,8 +4781,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4817,8 +4817,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4853,8 +4853,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4889,8 +4889,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4925,8 +4925,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4961,8 +4961,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -4997,8 +4997,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5033,8 +5033,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5069,8 +5069,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5105,8 +5105,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5141,8 +5141,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5177,8 +5177,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5213,8 +5213,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5249,8 +5249,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5285,8 +5285,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5321,8 +5321,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5357,8 +5357,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5393,8 +5393,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5429,8 +5429,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5465,8 +5465,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5501,8 +5501,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5537,8 +5537,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5573,8 +5573,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5609,8 +5609,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5645,8 +5645,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5681,8 +5681,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5717,8 +5717,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5753,8 +5753,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5789,8 +5789,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5825,8 +5825,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5861,8 +5861,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5897,8 +5897,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5933,8 +5933,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -5969,8 +5969,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6005,8 +6005,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6041,8 +6041,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6077,8 +6077,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6113,8 +6113,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6149,8 +6149,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6185,8 +6185,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6221,8 +6221,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6257,8 +6257,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6293,8 +6293,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6329,8 +6329,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6365,8 +6365,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6401,8 +6401,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6437,8 +6437,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6473,8 +6473,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6509,8 +6509,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6545,8 +6545,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6581,8 +6581,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6617,8 +6617,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6653,8 +6653,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6689,8 +6689,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6725,8 +6725,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6761,8 +6761,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6797,8 +6797,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6833,8 +6833,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6869,8 +6869,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6905,8 +6905,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6941,8 +6941,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -6977,8 +6977,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7013,8 +7013,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7049,8 +7049,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7085,8 +7085,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7121,8 +7121,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7157,8 +7157,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7193,8 +7193,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7229,8 +7229,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7265,8 +7265,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7301,8 +7301,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
@@ -7337,8 +7337,8 @@
                         "pincode":  [
 
                                     ],
-                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
-                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/Coat_of_arms_of_Chhattisgarh.svg",
+                        "logoId":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
+                        "IdCardLogo":  "https://tfstatee8aog.blob.core.windows.net/filestore/cglogo%201.png",
                         "imageId":  null,
                         "domainUrl":  "https://www.upyog.niua.org",
                         "type":  "CITY",
