@@ -13963,6 +13963,18 @@
       "actionid": 1537,
       "actioncode": "",
       "tenantid": "default"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "PT_ADMIN",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantid": "default"
     }
   ]
 }
