@@ -19,7 +19,7 @@
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
-        "rate": null,
+        "rate": 50,
         "maxAmount": null,
         "flatAmount": 5000.0
       }
@@ -30,7 +30,7 @@
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
-        "rate": null,
+        "rate": 25,
         "maxAmount": null,
         "flatAmount": 5000.0
       }
@@ -53,6 +53,50 @@
       "fromFY": "2015-16",
       "exemption": {
         "rate": 100.0,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Person with Mental Illness",
+      "code": "MENTALILLNESS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 25,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Self Independent Women",
+      "code": "SELFINDEPENDENTWOMEN",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 25,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Senior Citizen",
+      "code": "SENIORCITIZEN",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 25,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Retired Indian Army",
+      "code": "RETIREDINDIANARMY",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 25,
         "maxAmount": null,
         "flatAmount": null
       }
