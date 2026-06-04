@@ -10753,6 +10753,30 @@
       "serviceCode": "Employee",
       "code": "null",
       "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
+    },
+    {
+      "id": 1536,
+      "name": "PTBulkDemandGeneration",
+      "url": "/pt-calculator-v2/assessment/_jobscheduler",
+      "displayName": "PT Bulk Demand Generation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": "Property Tax.Bulk Demand.PTBulkDemandGeneration"
+    },
+    {
+      "id": 1537,
+      "name": "PTBulkDemandCreate",
+      "url": "/pt-calculator-v2/assessment/_create",
+      "displayName": "PT Bulk Demand Create",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": "Property Tax.Bulk Demand.PTBulkDemandCreate"
     }
   ]
 }

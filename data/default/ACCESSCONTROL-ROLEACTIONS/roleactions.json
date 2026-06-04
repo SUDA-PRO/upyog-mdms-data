@@ -13927,6 +13927,42 @@
       "actionid": 1535,
       "actioncode": "",
       "tenantid": "default"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1536,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "PT_ADMIN",
+      "actionid": 1536,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1536,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "PT_ADMIN",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantid": "default"
     }
   ]
 }
