@@ -1,4 +1,4 @@
-{
+﻿{
     "tenantId":  "cg",
     "moduleName":  "tenant",
     "tenants":  [
@@ -216,7 +216,7 @@
                         "city":  {
                                      "name":  "Birgaon",
                                      "localName":  "???????",
-                                     "districtCode":  "BIRGAON",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Birgaon",
                                      "districtTenantCode":  "cg.birgaon",
                                      "regionName":  "Raipur",
@@ -225,7 +225,7 @@
                                      "latitude":  21.2514,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "111",
+                                     "code":  "BRG",
                                      "ddrName":  "DDR Birgaon"
                                  },
                         "address":  "Birgaon Municipal Corporation, Birgaon, Chhattisgarh",
@@ -439,7 +439,7 @@
                         "city":  {
                                      "name":  "Ambikapur",
                                      "localName":  null,
-                                     "districtCode":  "AMBIKAPU",
+                                     "districtCode":  "SGJ",
                                      "districtName":  "Ambikapur",
                                      "districtTenantCode":  "cg.ambikapur",
                                      "regionName":  "Chhattisgarh",
@@ -448,7 +448,7 @@
                                      "latitude":  23.119,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "200",
+                                     "code":  "AMB",
                                      "ddrName":  "DDR Ambikapur"
                                  },
                         "address":  "Ambikapur Municipal Corporation",
@@ -475,7 +475,7 @@
                         "city":  {
                                      "name":  "Bhilai",
                                      "localName":  null,
-                                     "districtCode":  "BHILAI",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Bhilai",
                                      "districtTenantCode":  "cg.bhilai",
                                      "regionName":  "Chhattisgarh",
@@ -484,7 +484,7 @@
                                      "latitude":  21.1938,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "201",
+                                     "code":  "BHI",
                                      "ddrName":  "DDR Bhilai"
                                  },
                         "address":  "Bhilai Municipal Corporation",
@@ -511,7 +511,7 @@
                         "city":  {
                                      "name":  "Bhilai Charoda",
                                      "localName":  null,
-                                     "districtCode":  "BHILAICH",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Bhilai Charoda",
                                      "districtTenantCode":  "cg.bhilaicharoda",
                                      "regionName":  "Chhattisgarh",
@@ -520,7 +520,7 @@
                                      "latitude":  21.2167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "202",
+                                     "code":  "BCH",
                                      "ddrName":  "DDR Bhilai Charoda"
                                  },
                         "address":  "Bhilai Charoda Municipal Corporation",
@@ -547,7 +547,7 @@
                         "city":  {
                                      "name":  "Bilaspur",
                                      "localName":  null,
-                                     "districtCode":  "BILASPUR",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Bilaspur",
                                      "districtTenantCode":  "cg.bilaspur",
                                      "regionName":  "Chhattisgarh",
@@ -556,7 +556,7 @@
                                      "latitude":  22.0797,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "203",
+                                     "code":  "BSP",
                                      "ddrName":  "DDR Bilaspur"
                                  },
                         "address":  "Bilaspur Municipal Corporation",
@@ -583,7 +583,7 @@
                         "city":  {
                                      "name":  "Chirimiri",
                                      "localName":  null,
-                                     "districtCode":  "CHIRIMIR",
+                                     "districtCode":  "KOR",
                                      "districtName":  "Chirimiri",
                                      "districtTenantCode":  "cg.chirimiri",
                                      "regionName":  "Chhattisgarh",
@@ -592,7 +592,7 @@
                                      "latitude":  23.2333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "204",
+                                     "code":  "CHR",
                                      "ddrName":  "DDR Chirimiri"
                                  },
                         "address":  "Chirimiri Municipal Corporation",
@@ -619,7 +619,7 @@
                         "city":  {
                                      "name":  "Dhamtari",
                                      "localName":  null,
-                                     "districtCode":  "DHAMTARI",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Dhamtari",
                                      "districtTenantCode":  "cg.dhamtari",
                                      "regionName":  "Chhattisgarh",
@@ -628,7 +628,7 @@
                                      "latitude":  20.7081,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "205",
+                                     "code":  "DHM",
                                      "ddrName":  "DDR Dhamtari"
                                  },
                         "address":  "Dhamtari Municipal Corporation",
@@ -655,7 +655,7 @@
                         "city":  {
                                      "name":  "Durg",
                                      "localName":  null,
-                                     "districtCode":  "DURG",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Durg",
                                      "districtTenantCode":  "cg.durg",
                                      "regionName":  "Chhattisgarh",
@@ -664,7 +664,7 @@
                                      "latitude":  21.1904,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "206",
+                                     "code":  "DRG",
                                      "ddrName":  "DDR Durg"
                                  },
                         "address":  "Durg Municipal Corporation",
@@ -691,7 +691,7 @@
                         "city":  {
                                      "name":  "Jagdalpur",
                                      "localName":  null,
-                                     "districtCode":  "BSR",
+                                     "districtCode":  "BAS",
                                      "districtName":  "Jagdalpur",
                                      "districtTenantCode":  "cg.jagdalpur",
                                      "regionName":  "Chhattisgarh",
@@ -700,7 +700,7 @@
                                      "latitude":  19.0748,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "JGD",
+                                     "code":  "JDP",
                                      "ddrName":  "DDR Jagdalpur"
                                  },
                         "address":  "Jagdalpur Municipal Corporation",
@@ -727,7 +727,7 @@
                         "city":  {
                                      "name":  "Korba",
                                      "localName":  null,
-                                     "districtCode":  "KORBA",
+                                     "districtCode":  "KRB",
                                      "districtName":  "Korba",
                                      "districtTenantCode":  "cg.korba",
                                      "regionName":  "Chhattisgarh",
@@ -736,7 +736,7 @@
                                      "latitude":  22.3595,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "208",
+                                     "code":  "KRB",
                                      "ddrName":  "DDR Korba"
                                  },
                         "address":  "Korba Municipal Corporation",
@@ -763,7 +763,7 @@
                         "city":  {
                                      "name":  "Raigarh",
                                      "localName":  null,
-                                     "districtCode":  "RAIGARH",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Raigarh",
                                      "districtTenantCode":  "cg.raigarh",
                                      "regionName":  "Chhattisgarh",
@@ -772,7 +772,7 @@
                                      "latitude":  21.8974,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "209",
+                                     "code":  "RGH",
                                      "ddrName":  "DDR Raigarh"
                                  },
                         "address":  "Raigarh Municipal Corporation",
@@ -799,7 +799,7 @@
                         "city":  {
                                      "name":  "Raipur",
                                      "localName":  null,
-                                     "districtCode":  "RAIPUR",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Raipur",
                                      "districtTenantCode":  "cg.raipur",
                                      "regionName":  "Chhattisgarh",
@@ -808,7 +808,7 @@
                                      "latitude":  21.2514,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "210",
+                                     "code":  "RPR",
                                      "ddrName":  "DDR Raipur"
                                  },
                         "address":  "Raipur Municipal Corporation",
@@ -835,7 +835,7 @@
                         "city":  {
                                      "name":  "Rajnandgaon",
                                      "localName":  null,
-                                     "districtCode":  "RAJNANDG",
+                                     "districtCode":  "RJN",
                                      "districtName":  "Rajnandgaon",
                                      "districtTenantCode":  "cg.rajnandgaon",
                                      "regionName":  "Chhattisgarh",
@@ -844,7 +844,7 @@
                                      "latitude":  21.0971,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "211",
+                                     "code":  "RND",
                                      "ddrName":  "DDR Rajnandgaon"
                                  },
                         "address":  "Rajnandgaon Municipal Corporation",
@@ -871,7 +871,7 @@
                         "city":  {
                                      "name":  "Risali",
                                      "localName":  null,
-                                     "districtCode":  "RISALI",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Risali",
                                      "districtTenantCode":  "cg.risali",
                                      "regionName":  "Chhattisgarh",
@@ -880,7 +880,7 @@
                                      "latitude":  21.2167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "212",
+                                     "code":  "RSL",
                                      "ddrName":  "DDR Risali"
                                  },
                         "address":  "Risali Municipal Corporation",
@@ -907,7 +907,7 @@
                         "city":  {
                                      "name":  "Abhanpur",
                                      "localName":  null,
-                                     "districtCode":  "ABHANPUR",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Abhanpur",
                                      "districtTenantCode":  "cg.abhanpur",
                                      "regionName":  "Chhattisgarh",
@@ -916,7 +916,7 @@
                                      "latitude":  20.85,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "213",
+                                     "code":  "ABH",
                                      "ddrName":  "DDR Abhanpur"
                                  },
                         "address":  "Abhanpur Municipal Council",
@@ -943,7 +943,7 @@
                         "city":  {
                                      "name":  "Ahiwara",
                                      "localName":  null,
-                                     "districtCode":  "AHIWARA",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Ahiwara",
                                      "districtTenantCode":  "cg.ahiwara",
                                      "regionName":  "Chhattisgarh",
@@ -952,7 +952,7 @@
                                      "latitude":  21.55,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "214",
+                                     "code":  "AHI",
                                      "ddrName":  "DDR Ahiwara"
                                  },
                         "address":  "Ahiwara Municipal Council",
@@ -979,7 +979,7 @@
                         "city":  {
                                      "name":  "Akaltara",
                                      "localName":  null,
-                                     "districtCode":  "AKALTARA",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Akaltara",
                                      "districtTenantCode":  "cg.akaltara",
                                      "regionName":  "Chhattisgarh",
@@ -988,7 +988,7 @@
                                      "latitude":  22.0167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "215",
+                                     "code":  "AKL",
                                      "ddrName":  "DDR Akaltara"
                                  },
                         "address":  "Akaltara Municipal Council",
@@ -1015,7 +1015,7 @@
                         "city":  {
                                      "name":  "Amleshwar",
                                      "localName":  null,
-                                     "districtCode":  "AMLESHWA",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Amleshwar",
                                      "districtTenantCode":  "cg.amleshwar",
                                      "regionName":  "Chhattisgarh",
@@ -1024,7 +1024,7 @@
                                      "latitude":  21.1833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "216",
+                                     "code":  "AML",
                                      "ddrName":  "DDR Amleshwar"
                                  },
                         "address":  "Amleshwar Municipal Council",
@@ -1051,7 +1051,7 @@
                         "city":  {
                                      "name":  "Arang",
                                      "localName":  null,
-                                     "districtCode":  "ARANG",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Arang",
                                      "districtTenantCode":  "cg.arang",
                                      "regionName":  "Chhattisgarh",
@@ -1060,7 +1060,7 @@
                                      "latitude":  21.1833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "217",
+                                     "code":  "ARG",
                                      "ddrName":  "DDR Arang"
                                  },
                         "address":  "Arang Municipal Council",
@@ -1087,7 +1087,7 @@
                         "city":  {
                                      "name":  "Bade Bacheli",
                                      "localName":  null,
-                                     "districtCode":  "BADEBACH",
+                                     "districtCode":  "DAN",
                                      "districtName":  "Bade Bacheli",
                                      "districtTenantCode":  "cg.badebacheli",
                                      "regionName":  "Chhattisgarh",
@@ -1096,7 +1096,7 @@
                                      "latitude":  19,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "218",
+                                     "code":  "BBA",
                                      "ddrName":  "DDR Bade Bacheli"
                                  },
                         "address":  "Bade Bacheli Municipal Council",
@@ -1123,7 +1123,7 @@
                         "city":  {
                                      "name":  "Bagbahara",
                                      "localName":  null,
-                                     "districtCode":  "BAGBAHAR",
+                                     "districtCode":  "MHS",
                                      "districtName":  "Bagbahara",
                                      "districtTenantCode":  "cg.bagbahara",
                                      "regionName":  "Chhattisgarh",
@@ -1132,7 +1132,7 @@
                                      "latitude":  20.7333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "219",
+                                     "code":  "BAG",
                                      "ddrName":  "DDR Bagbahara"
                                  },
                         "address":  "Bagbahara Municipal Council",
@@ -1159,7 +1159,7 @@
                         "city":  {
                                      "name":  "Baikunthpur",
                                      "localName":  null,
-                                     "districtCode":  "BAIKUNTH",
+                                     "districtCode":  "KOR",
                                      "districtName":  "Baikunthpur",
                                      "districtTenantCode":  "cg.baikunthpur",
                                      "regionName":  "Chhattisgarh",
@@ -1168,7 +1168,7 @@
                                      "latitude":  23.2667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "220",
+                                     "code":  "BAI",
                                      "ddrName":  "DDR Baikunthpur"
                                  },
                         "address":  "Baikunthpur Municipal Council",
@@ -1195,7 +1195,7 @@
                         "city":  {
                                      "name":  "Balod",
                                      "localName":  null,
-                                     "districtCode":  "BALOD",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Balod",
                                      "districtTenantCode":  "cg.balod",
                                      "regionName":  "Chhattisgarh",
@@ -1204,7 +1204,7 @@
                                      "latitude":  20.7333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "221",
+                                     "code":  "BAL",
                                      "ddrName":  "DDR Balod"
                                  },
                         "address":  "Balod Municipal Council",
@@ -1231,7 +1231,7 @@
                         "city":  {
                                      "name":  "Baloda Bazar",
                                      "localName":  null,
-                                     "districtCode":  "BALODABA",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Baloda Bazar",
                                      "districtTenantCode":  "cg.balodabazar",
                                      "regionName":  "Chhattisgarh",
@@ -1240,7 +1240,7 @@
                                      "latitude":  21.6563,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "222",
+                                     "code":  "BLB",
                                      "ddrName":  "DDR Baloda Bazar"
                                  },
                         "address":  "Baloda Bazar Municipal Council",
@@ -1267,7 +1267,7 @@
                         "city":  {
                                      "name":  "Balrampur",
                                      "localName":  null,
-                                     "districtCode":  "BALRAMPU",
+                                     "districtCode":  "BRP",
                                      "districtName":  "Balrampur",
                                      "districtTenantCode":  "cg.balrampur",
                                      "regionName":  "Chhattisgarh",
@@ -1276,7 +1276,7 @@
                                      "latitude":  23.65,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "223",
+                                     "code":  "BRP",
                                      "ddrName":  "DDR Balrampur"
                                  },
                         "address":  "Balrampur Municipal Council",
@@ -1303,7 +1303,7 @@
                         "city":  {
                                      "name":  "Banki Mongra",
                                      "localName":  null,
-                                     "districtCode":  "BANKIMON",
+                                     "districtCode":  "KRB",
                                      "districtName":  "Banki Mongra",
                                      "districtTenantCode":  "cg.bankimongra",
                                      "regionName":  "Chhattisgarh",
@@ -1312,7 +1312,7 @@
                                      "latitude":  22.0167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "224",
+                                     "code":  "BMG",
                                      "ddrName":  "DDR Banki Mongra"
                                  },
                         "address":  "Banki Mongra Municipal Council",
@@ -1339,7 +1339,7 @@
                         "city":  {
                                      "name":  "Bemetara",
                                      "localName":  null,
-                                     "districtCode":  "BEMETARA",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Bemetara",
                                      "districtTenantCode":  "cg.bemetara",
                                      "regionName":  "Chhattisgarh",
@@ -1348,7 +1348,7 @@
                                      "latitude":  21.7167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "225",
+                                     "code":  "BEM",
                                      "ddrName":  "DDR Bemetara"
                                  },
                         "address":  "Bemetara Municipal Council",
@@ -1375,7 +1375,7 @@
                         "city":  {
                                      "name":  "Bhatapara",
                                      "localName":  null,
-                                     "districtCode":  "BHATAPAR",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Bhatapara",
                                      "districtTenantCode":  "cg.bhatapara",
                                      "regionName":  "Chhattisgarh",
@@ -1384,7 +1384,7 @@
                                      "latitude":  21.7167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "226",
+                                     "code":  "BHA",
                                      "ddrName":  "DDR Bhatapara"
                                  },
                         "address":  "Bhatapara Municipal Council",
@@ -1411,7 +1411,7 @@
                         "city":  {
                                      "name":  "Bijapur",
                                      "localName":  null,
-                                     "districtCode":  "BIJAPUR",
+                                     "districtCode":  "BJP",
                                      "districtName":  "Bijapur",
                                      "districtTenantCode":  "cg.bijapur",
                                      "regionName":  "Chhattisgarh",
@@ -1420,7 +1420,7 @@
                                      "latitude":  18.8333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "227",
+                                     "code":  "BIJ",
                                      "ddrName":  "DDR Bijapur"
                                  },
                         "address":  "Bijapur Municipal Council",
@@ -1447,7 +1447,7 @@
                         "city":  {
                                      "name":  "Bodri",
                                      "localName":  null,
-                                     "districtCode":  "BODRI",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Bodri",
                                      "districtTenantCode":  "cg.bodri",
                                      "regionName":  "Chhattisgarh",
@@ -1456,7 +1456,7 @@
                                      "latitude":  21.85,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "228",
+                                     "code":  "BOD",
                                      "ddrName":  "DDR Bodri"
                                  },
                         "address":  "Bodri Municipal Council",
@@ -1483,7 +1483,7 @@
                         "city":  {
                                      "name":  "Champa",
                                      "localName":  null,
-                                     "districtCode":  "CHAMPA",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Champa",
                                      "districtTenantCode":  "cg.champa",
                                      "regionName":  "Chhattisgarh",
@@ -1492,7 +1492,7 @@
                                      "latitude":  22.0333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "229",
+                                     "code":  "CHM",
                                      "ddrName":  "DDR Champa"
                                  },
                         "address":  "Champa Municipal Council",
@@ -1519,7 +1519,7 @@
                         "city":  {
                                      "name":  "Dalli Rajhara",
                                      "localName":  null,
-                                     "districtCode":  "DALLIRAJ",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Dalli Rajhara",
                                      "districtTenantCode":  "cg.dallirajhara",
                                      "regionName":  "Chhattisgarh",
@@ -1528,7 +1528,7 @@
                                      "latitude":  20.5667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "230",
+                                     "code":  "DRA",
                                      "ddrName":  "DDR Dalli Rajhara"
                                  },
                         "address":  "Dalli Rajhara Municipal Council",
@@ -1555,7 +1555,7 @@
                         "city":  {
                                      "name":  "Dantewada",
                                      "localName":  null,
-                                     "districtCode":  "DANTEWAD",
+                                     "districtCode":  "DAN",
                                      "districtName":  "Dantewada",
                                      "districtTenantCode":  "cg.dantewada",
                                      "regionName":  "Chhattisgarh",
@@ -1564,7 +1564,7 @@
                                      "latitude":  18.8956,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "231",
+                                     "code":  "DAN",
                                      "ddrName":  "DDR Dantewada"
                                  },
                         "address":  "Dantewada Municipal Council",
@@ -1591,7 +1591,7 @@
                         "city":  {
                                      "name":  "Dipka",
                                      "localName":  null,
-                                     "districtCode":  "DIPKA",
+                                     "districtCode":  "KRB",
                                      "districtName":  "Dipka",
                                      "districtTenantCode":  "cg.dipka",
                                      "regionName":  "Chhattisgarh",
@@ -1600,7 +1600,7 @@
                                      "latitude":  22.3167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "232",
+                                     "code":  "DPK",
                                      "ddrName":  "DDR Dipka"
                                  },
                         "address":  "Dipka Municipal Council",
@@ -1627,7 +1627,7 @@
                         "city":  {
                                      "name":  "Dongargarh",
                                      "localName":  null,
-                                     "districtCode":  "DONGARGA",
+                                     "districtCode":  "RJN",
                                      "districtName":  "Dongargarh",
                                      "districtTenantCode":  "cg.dongargarh",
                                      "regionName":  "Chhattisgarh",
@@ -1636,7 +1636,7 @@
                                      "latitude":  21.1833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "233",
+                                     "code":  "DON",
                                      "ddrName":  "DDR Dongargarh"
                                  },
                         "address":  "Dongargarh Municipal Council",
@@ -1663,7 +1663,7 @@
                         "city":  {
                                      "name":  "Gariabandh",
                                      "localName":  null,
-                                     "districtCode":  "GARIABAN",
+                                     "districtCode":  "GRB",
                                      "districtName":  "Gariabandh",
                                      "districtTenantCode":  "cg.gariabandh",
                                      "regionName":  "Chhattisgarh",
@@ -1672,7 +1672,7 @@
                                      "latitude":  20.6333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "234",
+                                     "code":  "GAR",
                                      "ddrName":  "DDR Gariabandh"
                                  },
                         "address":  "Gariabandh Municipal Council",
@@ -1699,7 +1699,7 @@
                         "city":  {
                                      "name":  "Gaurella",
                                      "localName":  null,
-                                     "districtCode":  "GAURELLA",
+                                     "districtCode":  "GPM",
                                      "districtName":  "Gaurella",
                                      "districtTenantCode":  "cg.gaurella",
                                      "regionName":  "Chhattisgarh",
@@ -1708,7 +1708,7 @@
                                      "latitude":  22.75,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "235",
+                                     "code":  "GAU",
                                      "ddrName":  "DDR Gaurella"
                                  },
                         "address":  "Gaurella Municipal Council",
@@ -1735,7 +1735,7 @@
                         "city":  {
                                      "name":  "Gobra Nawapara",
                                      "localName":  null,
-                                     "districtCode":  "GOBRANAW",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Gobra Nawapara",
                                      "districtTenantCode":  "cg.gobranawapara",
                                      "regionName":  "Chhattisgarh",
@@ -1744,7 +1744,7 @@
                                      "latitude":  20.9667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "236",
+                                     "code":  "GNP",
                                      "ddrName":  "DDR Gobra Nawapara"
                                  },
                         "address":  "Gobra Nawapara Municipal Council",
@@ -1771,7 +1771,7 @@
                         "city":  {
                                      "name":  "Jamul",
                                      "localName":  null,
-                                     "districtCode":  "JAMUL",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Jamul",
                                      "districtTenantCode":  "cg.jamul",
                                      "regionName":  "Chhattisgarh",
@@ -1780,7 +1780,7 @@
                                      "latitude":  21.2333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "237",
+                                     "code":  "JAM",
                                      "ddrName":  "DDR Jamul"
                                  },
                         "address":  "Jamul Municipal Council",
@@ -1807,7 +1807,7 @@
                         "city":  {
                                      "name":  "Jashpur Nagar",
                                      "localName":  null,
-                                     "districtCode":  "JASHPURN",
+                                     "districtCode":  "JAS",
                                      "districtName":  "Jashpur Nagar",
                                      "districtTenantCode":  "cg.jashpurnagar",
                                      "regionName":  "Chhattisgarh",
@@ -1816,7 +1816,7 @@
                                      "latitude":  22.8935,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "238",
+                                     "code":  "JNA",
                                      "ddrName":  "DDR Jashpur Nagar"
                                  },
                         "address":  "Jashpur Nagar Municipal Council",
@@ -1843,7 +1843,7 @@
                         "city":  {
                                      "name":  "Kanker",
                                      "localName":  null,
-                                     "districtCode":  "KANKER",
+                                     "districtCode":  "KKR",
                                      "districtName":  "Kanker",
                                      "districtTenantCode":  "cg.kanker",
                                      "regionName":  "Chhattisgarh",
@@ -1852,7 +1852,7 @@
                                      "latitude":  20.2667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "239",
+                                     "code":  "KAN",
                                      "ddrName":  "DDR Kanker"
                                  },
                         "address":  "Kanker Municipal Council",
@@ -1879,7 +1879,7 @@
                         "city":  {
                                      "name":  "Katghora",
                                      "localName":  null,
-                                     "districtCode":  "KATGHORA",
+                                     "districtCode":  "KRB",
                                      "districtName":  "Katghora",
                                      "districtTenantCode":  "cg.katghora",
                                      "regionName":  "Chhattisgarh",
@@ -1888,7 +1888,7 @@
                                      "latitude":  22.5,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "240",
+                                     "code":  "KAT",
                                      "ddrName":  "DDR Katghora"
                                  },
                         "address":  "Katghora Municipal Council",
@@ -1915,7 +1915,7 @@
                         "city":  {
                                      "name":  "Kawardha",
                                      "localName":  null,
-                                     "districtCode":  "KAWARDHA",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Kawardha",
                                      "districtTenantCode":  "cg.kawardha",
                                      "regionName":  "Chhattisgarh",
@@ -1924,7 +1924,7 @@
                                      "latitude":  22.0167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "241",
+                                     "code":  "KAW",
                                      "ddrName":  "DDR Kawardha"
                                  },
                         "address":  "Kawardha Municipal Council",
@@ -1951,7 +1951,7 @@
                         "city":  {
                                      "name":  "Khairagarh Municipality",
                                      "localName":  null,
-                                     "districtCode":  "KHAIRAGA",
+                                     "districtCode":  "KCG",
                                      "districtName":  "Khairagarh Municipality",
                                      "districtTenantCode":  "cg.khairagarh",
                                      "regionName":  "Chhattisgarh",
@@ -1960,7 +1960,7 @@
                                      "latitude":  21.4167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "242",
+                                     "code":  "KGH",
                                      "ddrName":  "DDR Khairagarh Municipality"
                                  },
                         "address":  "Khairagarh Municipality Municipal Council",
@@ -1987,7 +1987,7 @@
                         "city":  {
                                      "name":  "Kharsia",
                                      "localName":  null,
-                                     "districtCode":  "KHARSIA",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Kharsia",
                                      "districtTenantCode":  "cg.kharsia",
                                      "regionName":  "Chhattisgarh",
@@ -1996,7 +1996,7 @@
                                      "latitude":  21.95,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "243",
+                                     "code":  "KHA",
                                      "ddrName":  "DDR Kharsia"
                                  },
                         "address":  "Kharsia Municipal Council",
@@ -2023,7 +2023,7 @@
                         "city":  {
                                      "name":  "Kirandul",
                                      "localName":  null,
-                                     "districtCode":  "KIRANDUL",
+                                     "districtCode":  "DAN",
                                      "districtName":  "Kirandul",
                                      "districtTenantCode":  "cg.kirandul",
                                      "regionName":  "Chhattisgarh",
@@ -2032,7 +2032,7 @@
                                      "latitude":  18.6333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "244",
+                                     "code":  "KIR",
                                      "ddrName":  "DDR Kirandul"
                                  },
                         "address":  "Kirandul Municipal Council",
@@ -2059,7 +2059,7 @@
                         "city":  {
                                      "name":  "Kondagaon",
                                      "localName":  null,
-                                     "districtCode":  "KONDAGAO",
+                                     "districtCode":  "KDG",
                                      "districtName":  "Kondagaon",
                                      "districtTenantCode":  "cg.kondagaon",
                                      "regionName":  "Chhattisgarh",
@@ -2068,7 +2068,7 @@
                                      "latitude":  19.5983,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "245",
+                                     "code":  "KON",
                                      "ddrName":  "DDR Kondagaon"
                                  },
                         "address":  "Kondagaon Municipal Council",
@@ -2095,7 +2095,7 @@
                         "city":  {
                                      "name":  "Kumhari",
                                      "localName":  null,
-                                     "districtCode":  "KUMHARI",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Kumhari",
                                      "districtTenantCode":  "cg.kumhari",
                                      "regionName":  "Chhattisgarh",
@@ -2104,7 +2104,7 @@
                                      "latitude":  21.2833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "246",
+                                     "code":  "KUM",
                                      "ddrName":  "DDR Kumhari"
                                  },
                         "address":  "Kumhari Municipal Council",
@@ -2131,7 +2131,7 @@
                         "city":  {
                                      "name":  "Kurud",
                                      "localName":  null,
-                                     "districtCode":  "KURUD",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Kurud",
                                      "districtTenantCode":  "cg.kurud",
                                      "regionName":  "Chhattisgarh",
@@ -2140,7 +2140,7 @@
                                      "latitude":  20.7833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "247",
+                                     "code":  "KUR",
                                      "ddrName":  "DDR Kurud"
                                  },
                         "address":  "Kurud Municipal Council",
@@ -2167,7 +2167,7 @@
                         "city":  {
                                      "name":  "Lormi",
                                      "localName":  null,
-                                     "districtCode":  "LORMI",
+                                     "districtCode":  "MUN",
                                      "districtName":  "Lormi",
                                      "districtTenantCode":  "cg.lormi",
                                      "regionName":  "Chhattisgarh",
@@ -2176,7 +2176,7 @@
                                      "latitude":  22.2667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "248",
+                                     "code":  "LOR",
                                      "ddrName":  "DDR Lormi"
                                  },
                         "address":  "Lormi Municipal Council",
@@ -2203,7 +2203,7 @@
                         "city":  {
                                      "name":  "Mahasamund",
                                      "localName":  null,
-                                     "districtCode":  "MAHASAMU",
+                                     "districtCode":  "MHS",
                                      "districtName":  "Mahasamund",
                                      "districtTenantCode":  "cg.mahasamund",
                                      "regionName":  "Chhattisgarh",
@@ -2212,7 +2212,7 @@
                                      "latitude":  21.1081,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "249",
+                                     "code":  "MAH",
                                      "ddrName":  "DDR Mahasamund"
                                  },
                         "address":  "Mahasamund Municipal Council",
@@ -2239,7 +2239,7 @@
                         "city":  {
                                      "name":  "Mandir Hasod",
                                      "localName":  null,
-                                     "districtCode":  "MANDIRHA",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Mandir Hasod",
                                      "districtTenantCode":  "cg.mandirhasod",
                                      "regionName":  "Chhattisgarh",
@@ -2248,7 +2248,7 @@
                                      "latitude":  21.3333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "250",
+                                     "code":  "MHA",
                                      "ddrName":  "DDR Mandir Hasod"
                                  },
                         "address":  "Mandir Hasod Municipal Council",
@@ -2275,7 +2275,7 @@
                         "city":  {
                                      "name":  "Manendragarh",
                                      "localName":  null,
-                                     "districtCode":  "MANENDRA",
+                                     "districtCode":  "MCB",
                                      "districtName":  "Manendragarh",
                                      "districtTenantCode":  "cg.manendragarh",
                                      "regionName":  "Chhattisgarh",
@@ -2284,7 +2284,7 @@
                                      "latitude":  23.2,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "251",
+                                     "code":  "MAN",
                                      "ddrName":  "DDR Manendragarh"
                                  },
                         "address":  "Manendragarh Municipal Council",
@@ -2311,7 +2311,7 @@
                         "city":  {
                                      "name":  "Mungeli",
                                      "localName":  null,
-                                     "districtCode":  "MUNGELI",
+                                     "districtCode":  "MUN",
                                      "districtName":  "Mungeli",
                                      "districtTenantCode":  "cg.mungeli",
                                      "regionName":  "Chhattisgarh",
@@ -2320,7 +2320,7 @@
                                      "latitude":  22.0667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "252",
+                                     "code":  "MUN",
                                      "ddrName":  "DDR Mungeli"
                                  },
                         "address":  "Mungeli Municipal Council",
@@ -2347,7 +2347,7 @@
                         "city":  {
                                      "name":  "Naila Janjgir",
                                      "localName":  null,
-                                     "districtCode":  "NAILAJAN",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Naila Janjgir",
                                      "districtTenantCode":  "cg.nailajanjgir",
                                      "regionName":  "Chhattisgarh",
@@ -2356,7 +2356,7 @@
                                      "latitude":  22.0167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "253",
+                                     "code":  "NJA",
                                      "ddrName":  "DDR Naila Janjgir"
                                  },
                         "address":  "Naila Janjgir Municipal Council",
@@ -2383,7 +2383,7 @@
                         "city":  {
                                      "name":  "Narayanpur",
                                      "localName":  null,
-                                     "districtCode":  "NARAYANP",
+                                     "districtCode":  "NAR",
                                      "districtName":  "Narayanpur",
                                      "districtTenantCode":  "cg.narayanpur",
                                      "regionName":  "Chhattisgarh",
@@ -2392,7 +2392,7 @@
                                      "latitude":  19.7333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "254",
+                                     "code":  "NAR",
                                      "ddrName":  "DDR Narayanpur"
                                  },
                         "address":  "Narayanpur Municipal Council",
@@ -2419,7 +2419,7 @@
                         "city":  {
                                      "name":  "Pandariya",
                                      "localName":  null,
-                                     "districtCode":  "PANDARIY",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Pandariya",
                                      "districtTenantCode":  "cg.pandariya",
                                      "regionName":  "Chhattisgarh",
@@ -2428,7 +2428,7 @@
                                      "latitude":  22.15,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "255",
+                                     "code":  "PAN",
                                      "ddrName":  "DDR Pandariya"
                                  },
                         "address":  "Pandariya Municipal Council",
@@ -2455,7 +2455,7 @@
                         "city":  {
                                      "name":  "Pathalgaon",
                                      "localName":  null,
-                                     "districtCode":  "PATHALGA",
+                                     "districtCode":  "JAS",
                                      "districtName":  "Pathalgaon",
                                      "districtTenantCode":  "cg.pathalgaon",
                                      "regionName":  "Chhattisgarh",
@@ -2464,7 +2464,7 @@
                                      "latitude":  22.55,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "256",
+                                     "code":  "PAT",
                                      "ddrName":  "DDR Pathalgaon"
                                  },
                         "address":  "Pathalgaon Municipal Council",
@@ -2491,7 +2491,7 @@
                         "city":  {
                                      "name":  "Pendra",
                                      "localName":  null,
-                                     "districtCode":  "PENDRA",
+                                     "districtCode":  "GPM",
                                      "districtName":  "Pendra",
                                      "districtTenantCode":  "cg.pendra",
                                      "regionName":  "Chhattisgarh",
@@ -2500,7 +2500,7 @@
                                      "latitude":  22.7667,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "257",
+                                     "code":  "PEN",
                                      "ddrName":  "DDR Pendra"
                                  },
                         "address":  "Pendra Municipal Council",
@@ -2527,7 +2527,7 @@
                         "city":  {
                                      "name":  "Ramanujganj",
                                      "localName":  null,
-                                     "districtCode":  "RAMANUJG",
+                                     "districtCode":  "BRP",
                                      "districtName":  "Ramanujganj",
                                      "districtTenantCode":  "cg.ramanujganj",
                                      "regionName":  "Chhattisgarh",
@@ -2536,7 +2536,7 @@
                                      "latitude":  23.8,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "258",
+                                     "code":  "RAM",
                                      "ddrName":  "DDR Ramanujganj"
                                  },
                         "address":  "Ramanujganj Municipal Council",
@@ -2563,7 +2563,7 @@
                         "city":  {
                                      "name":  "Ratanpur",
                                      "localName":  null,
-                                     "districtCode":  "RATANPUR",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Ratanpur",
                                      "districtTenantCode":  "cg.ratanpur",
                                      "regionName":  "Chhattisgarh",
@@ -2572,7 +2572,7 @@
                                      "latitude":  22.2833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "259",
+                                     "code":  "RAT",
                                      "ddrName":  "DDR Ratanpur"
                                  },
                         "address":  "Ratanpur Municipal Council",
@@ -2599,7 +2599,7 @@
                         "city":  {
                                      "name":  "Sakti",
                                      "localName":  null,
-                                     "districtCode":  "SAKTI",
+                                     "districtCode":  "SKT",
                                      "districtName":  "Sakti",
                                      "districtTenantCode":  "cg.sakti",
                                      "regionName":  "Chhattisgarh",
@@ -2608,7 +2608,7 @@
                                      "latitude":  22.0333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "260",
+                                     "code":  "SAK",
                                      "ddrName":  "DDR Sakti"
                                  },
                         "address":  "Sakti Municipal Council",
@@ -2635,7 +2635,7 @@
                         "city":  {
                                      "name":  "Saraipali",
                                      "localName":  null,
-                                     "districtCode":  "SARAIPAL",
+                                     "districtCode":  "MHS",
                                      "districtName":  "Saraipali",
                                      "districtTenantCode":  "cg.saraipali",
                                      "regionName":  "Chhattisgarh",
@@ -2644,7 +2644,7 @@
                                      "latitude":  21.3333,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "261",
+                                     "code":  "SAR",
                                      "ddrName":  "DDR Saraipali"
                                  },
                         "address":  "Saraipali Municipal Council",
@@ -2671,7 +2671,7 @@
                         "city":  {
                                      "name":  "Sarangarh",
                                      "localName":  null,
-                                     "districtCode":  "SARANGAR",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Sarangarh",
                                      "districtTenantCode":  "cg.sarangarh",
                                      "regionName":  "Chhattisgarh",
@@ -2680,7 +2680,7 @@
                                      "latitude":  21.5833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "262",
+                                     "code":  "SRN",
                                      "ddrName":  "DDR Sarangarh"
                                  },
                         "address":  "Sarangarh Municipal Council",
@@ -2707,7 +2707,7 @@
                         "city":  {
                                      "name":  "Shivpur Charcha",
                                      "localName":  null,
-                                     "districtCode":  "SHIVPURC",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Shivpur Charcha",
                                      "districtTenantCode":  "cg.shivpurcharcha",
                                      "regionName":  "Chhattisgarh",
@@ -2716,7 +2716,7 @@
                                      "latitude":  23.3,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "263",
+                                     "code":  "SCH",
                                      "ddrName":  "DDR Shivpur Charcha"
                                  },
                         "address":  "Shivpur Charcha Municipal Council",
@@ -2743,7 +2743,7 @@
                         "city":  {
                                      "name":  "Simga",
                                      "localName":  null,
-                                     "districtCode":  "SIMGA",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Simga",
                                      "districtTenantCode":  "cg.simga",
                                      "regionName":  "Chhattisgarh",
@@ -2752,7 +2752,7 @@
                                      "latitude":  21.6167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "264",
+                                     "code":  "SIM",
                                      "ddrName":  "DDR Simga"
                                  },
                         "address":  "Simga Municipal Council",
@@ -2779,7 +2779,7 @@
                         "city":  {
                                      "name":  "Sukma",
                                      "localName":  null,
-                                     "districtCode":  "SUKMA",
+                                     "districtCode":  "SKM",
                                      "districtName":  "Sukma",
                                      "districtTenantCode":  "cg.sukma",
                                      "regionName":  "Chhattisgarh",
@@ -2788,7 +2788,7 @@
                                      "latitude":  18.3833,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "265",
+                                     "code":  "SUK",
                                      "ddrName":  "DDR Sukma"
                                  },
                         "address":  "Sukma Municipal Council",
@@ -2815,7 +2815,7 @@
                         "city":  {
                                      "name":  "Surajpur",
                                      "localName":  null,
-                                     "districtCode":  "SURAJPUR",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Surajpur",
                                      "districtTenantCode":  "cg.surajpur",
                                      "regionName":  "Chhattisgarh",
@@ -2824,7 +2824,7 @@
                                      "latitude":  23.2167,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "266",
+                                     "code":  "SUR",
                                      "ddrName":  "DDR Surajpur"
                                  },
                         "address":  "Surajpur Municipal Council",
@@ -2851,7 +2851,7 @@
                         "city":  {
                                      "name":  "Takhatpur",
                                      "localName":  null,
-                                     "districtCode":  "TAKHATPU",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Takhatpur",
                                      "districtTenantCode":  "cg.takhatpur",
                                      "regionName":  "Chhattisgarh",
@@ -2860,7 +2860,7 @@
                                      "latitude":  22.1,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "267",
+                                     "code":  "TKH",
                                      "ddrName":  "DDR Takhatpur"
                                  },
                         "address":  "Takhatpur Municipal Council",
@@ -2887,7 +2887,7 @@
                         "city":  {
                                      "name":  "Tilda Newra",
                                      "localName":  null,
-                                     "districtCode":  "TILDANEW",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Tilda Newra",
                                      "districtTenantCode":  "cg.tildanewra",
                                      "regionName":  "Chhattisgarh",
@@ -2896,7 +2896,7 @@
                                      "latitude":  21.4,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "268",
+                                     "code":  "TLD",
                                      "ddrName":  "DDR Tilda Newra"
                                  },
                         "address":  "Tilda Newra Municipal Council",
@@ -2923,7 +2923,7 @@
                         "city":  {
                                      "name":  "Aamdi",
                                      "localName":  null,
-                                     "districtCode":  "AAMDI",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Aamdi",
                                      "districtTenantCode":  "cg.aamdi",
                                      "regionName":  "Chhattisgarh",
@@ -2959,7 +2959,7 @@
                         "city":  {
                                      "name":  "Adbhar",
                                      "localName":  null,
-                                     "districtCode":  "ADBHAR",
+                                     "districtCode":  "SKT",
                                      "districtName":  "Adbhar",
                                      "districtTenantCode":  "cg.adbhar",
                                      "regionName":  "Chhattisgarh",
@@ -2995,7 +2995,7 @@
                         "city":  {
                                      "name":  "Ambagarh Chowki",
                                      "localName":  null,
-                                     "districtCode":  "AMBAGARH",
+                                     "districtCode":  "MMA",
                                      "districtName":  "Ambagarh Chowki",
                                      "districtTenantCode":  "cg.ambagarhchowki",
                                      "regionName":  "Chhattisgarh",
@@ -3031,7 +3031,7 @@
                         "city":  {
                                      "name":  "Antagarh",
                                      "localName":  null,
-                                     "districtCode":  "ANTAGARH",
+                                     "districtCode":  "KKR",
                                      "districtName":  "Antagarh",
                                      "districtTenantCode":  "cg.antagarh",
                                      "regionName":  "Chhattisgarh",
@@ -3067,7 +3067,7 @@
                         "city":  {
                                      "name":  "Arjunda",
                                      "localName":  null,
-                                     "districtCode":  "ARJUNDA",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Arjunda",
                                      "districtTenantCode":  "cg.arjunda",
                                      "regionName":  "Chhattisgarh",
@@ -3103,7 +3103,7 @@
                         "city":  {
                                      "name":  "Badekareli",
                                      "localName":  null,
-                                     "districtCode":  "BADEKARE",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Badekareli",
                                      "districtTenantCode":  "cg.badekareli",
                                      "regionName":  "Chhattisgarh",
@@ -3139,7 +3139,7 @@
                         "city":  {
                                      "name":  "Bagicha",
                                      "localName":  null,
-                                     "districtCode":  "BAGICHA",
+                                     "districtCode":  "JAS",
                                      "districtName":  "Bagicha",
                                      "districtTenantCode":  "cg.bagicha",
                                      "regionName":  "Chhattisgarh",
@@ -3175,7 +3175,7 @@
                         "city":  {
                                      "name":  "Baloda",
                                      "localName":  null,
-                                     "districtCode":  "BALODA",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Baloda",
                                      "districtTenantCode":  "cg.baloda",
                                      "regionName":  "Chhattisgarh",
@@ -3211,7 +3211,7 @@
                         "city":  {
                                      "name":  "Bamhanidih",
                                      "localName":  null,
-                                     "districtCode":  "BAMHANID",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Bamhanidih",
                                      "districtTenantCode":  "cg.bamhanidih",
                                      "regionName":  "Chhattisgarh",
@@ -3247,7 +3247,7 @@
                         "city":  {
                                      "name":  "Baramkela",
                                      "localName":  null,
-                                     "districtCode":  "BARAMKEL",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Baramkela",
                                      "districtTenantCode":  "cg.baramkela",
                                      "regionName":  "Chhattisgarh",
@@ -3283,7 +3283,7 @@
                         "city":  {
                                      "name":  "Barela",
                                      "localName":  null,
-                                     "districtCode":  "BARELA",
+                                     "districtCode":  "MUN",
                                      "districtName":  "Barela",
                                      "districtTenantCode":  "cg.barela",
                                      "regionName":  "Chhattisgarh",
@@ -3319,7 +3319,7 @@
                         "city":  {
                                      "name":  "Barsoor",
                                      "localName":  null,
-                                     "districtCode":  "BARSOOR",
+                                     "districtCode":  "DAN",
                                      "districtName":  "Barsoor",
                                      "districtTenantCode":  "cg.barsoor",
                                      "regionName":  "Chhattisgarh",
@@ -3355,7 +3355,7 @@
                         "city":  {
                                      "name":  "Basna",
                                      "localName":  null,
-                                     "districtCode":  "BASNA",
+                                     "districtCode":  "MHS",
                                      "districtName":  "Basna",
                                      "districtTenantCode":  "cg.basna",
                                      "regionName":  "Chhattisgarh",
@@ -3391,7 +3391,7 @@
                         "city":  {
                                      "name":  "Bastar",
                                      "localName":  null,
-                                     "districtCode":  "BASTAR",
+                                     "districtCode":  "BAS",
                                      "districtName":  "Bastar",
                                      "districtTenantCode":  "cg.bastar",
                                      "regionName":  "Chhattisgarh",
@@ -3427,7 +3427,7 @@
                         "city":  {
                                      "name":  "Berla",
                                      "localName":  null,
-                                     "districtCode":  "BERLA",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Berla",
                                      "districtTenantCode":  "cg.berla",
                                      "regionName":  "Chhattisgarh",
@@ -3463,7 +3463,7 @@
                         "city":  {
                                      "name":  "Bhairamgarh",
                                      "localName":  null,
-                                     "districtCode":  "BHAIRAMG",
+                                     "districtCode":  "BJP",
                                      "districtName":  "Bhairamgarh",
                                      "districtTenantCode":  "cg.bhairamgarh",
                                      "regionName":  "Chhattisgarh",
@@ -3499,7 +3499,7 @@
                         "city":  {
                                      "name":  "Bhakhara",
                                      "localName":  null,
-                                     "districtCode":  "BHAKHARA",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Bhakhara",
                                      "districtTenantCode":  "cg.bhakhara",
                                      "regionName":  "Chhattisgarh",
@@ -3535,7 +3535,7 @@
                         "city":  {
                                      "name":  "Bhanupratappur",
                                      "localName":  null,
-                                     "districtCode":  "BHANUPRA",
+                                     "districtCode":  "KKR",
                                      "districtName":  "Bhanupratappur",
                                      "districtTenantCode":  "cg.bhanupratappur",
                                      "regionName":  "Chhattisgarh",
@@ -3571,7 +3571,7 @@
                         "city":  {
                                      "name":  "Bhatgaon(SB)",
                                      "localName":  null,
-                                     "districtCode":  "BHATGAON",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Bhatgaon(SB)",
                                      "districtTenantCode":  "cg.bhatgaonsb",
                                      "regionName":  "Chhattisgarh",
@@ -3607,7 +3607,7 @@
                         "city":  {
                                      "name":  "Bhinbhouree",
                                      "localName":  null,
-                                     "districtCode":  "BHINBHOU",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Bhinbhouree",
                                      "districtTenantCode":  "cg.bhinbhouree",
                                      "regionName":  "Chhattisgarh",
@@ -3643,7 +3643,7 @@
                         "city":  {
                                      "name":  "Bhopalpatnam",
                                      "localName":  null,
-                                     "districtCode":  "BHOPALPA",
+                                     "districtCode":  "BJP",
                                      "districtName":  "Bhopalpatnam",
                                      "districtTenantCode":  "cg.bhopalpatnam",
                                      "regionName":  "Chhattisgarh",
@@ -3679,7 +3679,7 @@
                         "city":  {
                                      "name":  "Bilaigarh",
                                      "localName":  null,
-                                     "districtCode":  "BILAIGAR",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Bilaigarh",
                                      "districtTenantCode":  "cg.bilaigarh",
                                      "regionName":  "Chhattisgarh",
@@ -3715,7 +3715,7 @@
                         "city":  {
                                      "name":  "Bilha",
                                      "localName":  null,
-                                     "districtCode":  "BILHA",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Bilha",
                                      "districtTenantCode":  "cg.bilha",
                                      "regionName":  "Chhattisgarh",
@@ -3751,7 +3751,7 @@
                         "city":  {
                                      "name":  "Bodla",
                                      "localName":  null,
-                                     "districtCode":  "BODLA",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Bodla",
                                      "districtTenantCode":  "cg.bodla",
                                      "regionName":  "Chhattisgarh",
@@ -3787,7 +3787,7 @@
                         "city":  {
                                      "name":  "Chandkhuri",
                                      "localName":  null,
-                                     "districtCode":  "CHANDKHU",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Chandkhuri",
                                      "districtTenantCode":  "cg.chandkhuri",
                                      "regionName":  "Chhattisgarh",
@@ -3823,7 +3823,7 @@
                         "city":  {
                                      "name":  "Chandrapur",
                                      "localName":  null,
-                                     "districtCode":  "CHANDRAP",
+                                     "districtCode":  "SKT",
                                      "districtName":  "Chandrapur",
                                      "districtTenantCode":  "cg.chandrapur",
                                      "regionName":  "Chhattisgarh",
@@ -3859,7 +3859,7 @@
                         "city":  {
                                      "name":  "Charama",
                                      "localName":  null,
-                                     "districtCode":  "CHARAMA",
+                                     "districtCode":  "KKR",
                                      "districtName":  "Charama",
                                      "districtTenantCode":  "cg.charama",
                                      "regionName":  "Chhattisgarh",
@@ -3895,7 +3895,7 @@
                         "city":  {
                                      "name":  "Chhuikhadan",
                                      "localName":  null,
-                                     "districtCode":  "CHHUIKHA",
+                                     "districtCode":  "KCG",
                                      "districtName":  "Chhuikhadan",
                                      "districtTenantCode":  "cg.chhuikhadan",
                                      "regionName":  "Chhattisgarh",
@@ -3931,7 +3931,7 @@
                         "city":  {
                                      "name":  "Chhuriya",
                                      "localName":  null,
-                                     "districtCode":  "CHHURIYA",
+                                     "districtCode":  "RJN",
                                      "districtName":  "Chhuriya",
                                      "districtTenantCode":  "cg.chhuriya",
                                      "regionName":  "Chhattisgarh",
@@ -3967,7 +3967,7 @@
                         "city":  {
                                      "name":  "Chikhlakasa",
                                      "localName":  null,
-                                     "districtCode":  "CHIKHLAK",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Chikhlakasa",
                                      "districtTenantCode":  "cg.chikhlakasa",
                                      "regionName":  "Chhattisgarh",
@@ -4003,7 +4003,7 @@
                         "city":  {
                                      "name":  "Churikala",
                                      "localName":  null,
-                                     "districtCode":  "CHURIKAL",
+                                     "districtCode":  "KRB",
                                      "districtName":  "Churikala",
                                      "districtTenantCode":  "cg.churikala",
                                      "regionName":  "Chhattisgarh",
@@ -4039,7 +4039,7 @@
                         "city":  {
                                      "name":  "Churra",
                                      "localName":  null,
-                                     "districtCode":  "CHURRA",
+                                     "districtCode":  "GRB",
                                      "districtName":  "Churra",
                                      "districtTenantCode":  "cg.churra",
                                      "regionName":  "Chhattisgarh",
@@ -4075,7 +4075,7 @@
                         "city":  {
                                      "name":  "Dadhi",
                                      "localName":  null,
-                                     "districtCode":  "DADHI",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Dadhi",
                                      "districtTenantCode":  "cg.dadhi",
                                      "regionName":  "Chhattisgarh",
@@ -4111,7 +4111,7 @@
                         "city":  {
                                      "name":  "Devbhog",
                                      "localName":  null,
-                                     "districtCode":  "DEVBHOG",
+                                     "districtCode":  "GRB",
                                      "districtName":  "Devbhog",
                                      "districtTenantCode":  "cg.devbhog",
                                      "regionName":  "Chhattisgarh",
@@ -4147,7 +4147,7 @@
                         "city":  {
                                      "name":  "Devkar",
                                      "localName":  null,
-                                     "districtCode":  "DEVKAR",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Devkar",
                                      "districtTenantCode":  "cg.devkar",
                                      "regionName":  "Chhattisgarh",
@@ -4183,7 +4183,7 @@
                         "city":  {
                                      "name":  "Dhabhara",
                                      "localName":  null,
-                                     "districtCode":  "DHABHARA",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Dhabhara",
                                      "districtTenantCode":  "cg.dhabhara",
                                      "regionName":  "Chhattisgarh",
@@ -4219,7 +4219,7 @@
                         "city":  {
                                      "name":  "Dhamdha",
                                      "localName":  null,
-                                     "districtCode":  "DHAMDHA",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Dhamdha",
                                      "districtTenantCode":  "cg.dhamdha",
                                      "regionName":  "Chhattisgarh",
@@ -4255,7 +4255,7 @@
                         "city":  {
                                      "name":  "Dharamjaigarh",
                                      "localName":  null,
-                                     "districtCode":  "DHARAMJA",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Dharamjaigarh",
                                      "districtTenantCode":  "cg.dharamjaigarh",
                                      "regionName":  "Chhattisgarh",
@@ -4291,7 +4291,7 @@
                         "city":  {
                                      "name":  "Dondi",
                                      "localName":  null,
-                                     "districtCode":  "DONDI",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Dondi",
                                      "districtTenantCode":  "cg.dondi",
                                      "regionName":  "Chhattisgarh",
@@ -4327,7 +4327,7 @@
                         "city":  {
                                      "name":  "Dondilohara",
                                      "localName":  null,
-                                     "districtCode":  "DONDILOH",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Dondilohara",
                                      "districtTenantCode":  "cg.dondilohara",
                                      "regionName":  "Chhattisgarh",
@@ -4363,7 +4363,7 @@
                         "city":  {
                                      "name":  "Dongargaon",
                                      "localName":  null,
-                                     "districtCode":  "DONGARGA",
+                                     "districtCode":  "RJN",
                                      "districtName":  "Dongargaon",
                                      "districtTenantCode":  "cg.dongargaon",
                                      "regionName":  "Chhattisgarh",
@@ -4399,7 +4399,7 @@
                         "city":  {
                                      "name":  "Dornapal",
                                      "localName":  null,
-                                     "districtCode":  "DORNAPAL",
+                                     "districtCode":  "SKM",
                                      "districtName":  "Dornapal",
                                      "districtTenantCode":  "cg.dornapal",
                                      "regionName":  "Chhattisgarh",
@@ -4435,7 +4435,7 @@
                         "city":  {
                                      "name":  "Farasgaon",
                                      "localName":  null,
-                                     "districtCode":  "FARASGAO",
+                                     "districtCode":  "KDG",
                                      "districtName":  "Farasgaon",
                                      "districtTenantCode":  "cg.farasgaon",
                                      "regionName":  "Chhattisgarh",
@@ -4471,7 +4471,7 @@
                         "city":  {
                                      "name":  "Fingeswar",
                                      "localName":  null,
-                                     "districtCode":  "FINGESWA",
+                                     "districtCode":  "GRB",
                                      "districtName":  "Fingeswar",
                                      "districtTenantCode":  "cg.fingeswar",
                                      "regionName":  "Chhattisgarh",
@@ -4507,7 +4507,7 @@
                         "city":  {
                                      "name":  "Gandai",
                                      "localName":  null,
-                                     "districtCode":  "GANDAI",
+                                     "districtCode":  "KCG",
                                      "districtName":  "Gandai",
                                      "districtTenantCode":  "cg.gandai",
                                      "regionName":  "Chhattisgarh",
@@ -4543,7 +4543,7 @@
                         "city":  {
                                      "name":  "Geedam",
                                      "localName":  null,
-                                     "districtCode":  "GEEDAM",
+                                     "districtCode":  "DAN",
                                      "districtName":  "Geedam",
                                      "districtTenantCode":  "cg.geedam",
                                      "regionName":  "Chhattisgarh",
@@ -4579,7 +4579,7 @@
                         "city":  {
                                      "name":  "Gharghoda",
                                      "localName":  null,
-                                     "districtCode":  "GHARGHOD",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Gharghoda",
                                      "districtTenantCode":  "cg.gharghoda",
                                      "regionName":  "Chhattisgarh",
@@ -4615,7 +4615,7 @@
                         "city":  {
                                      "name":  "Ghumka",
                                      "localName":  null,
-                                     "districtCode":  "GHUMKA",
+                                     "districtCode":  "RJN",
                                      "districtName":  "Ghumka",
                                      "districtTenantCode":  "cg.ghumka",
                                      "regionName":  "Chhattisgarh",
@@ -4651,7 +4651,7 @@
                         "city":  {
                                      "name":  "Gunderdehi",
                                      "localName":  null,
-                                     "districtCode":  "GUNDERDE",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Gunderdehi",
                                      "districtTenantCode":  "cg.gunderdehi",
                                      "regionName":  "Chhattisgarh",
@@ -4687,7 +4687,7 @@
                         "city":  {
                                      "name":  "Gurur",
                                      "localName":  null,
-                                     "districtCode":  "GURUR",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Gurur",
                                      "districtTenantCode":  "cg.gurur",
                                      "regionName":  "Chhattisgarh",
@@ -4723,7 +4723,7 @@
                         "city":  {
                                      "name":  "Indouri",
                                      "localName":  null,
-                                     "districtCode":  "INDOURI",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Indouri",
                                      "districtTenantCode":  "cg.indouri",
                                      "regionName":  "Chhattisgarh",
@@ -4759,7 +4759,7 @@
                         "city":  {
                                      "name":  "Jaijaipur",
                                      "localName":  null,
-                                     "districtCode":  "JAIJAIPU",
+                                     "districtCode":  "SKT",
                                      "districtName":  "Jaijaipur",
                                      "districtTenantCode":  "cg.jaijaipur",
                                      "regionName":  "Chhattisgarh",
@@ -4795,7 +4795,7 @@
                         "city":  {
                                      "name":  "Janakpur",
                                      "localName":  null,
-                                     "districtCode":  "JANAKPUR",
+                                     "districtCode":  "MCB",
                                      "districtName":  "Janakpur",
                                      "districtTenantCode":  "cg.janakpur",
                                      "regionName":  "Chhattisgarh",
@@ -4831,7 +4831,7 @@
                         "city":  {
                                      "name":  "Jarhagaon",
                                      "localName":  null,
-                                     "districtCode":  "JARHAGAO",
+                                     "districtCode":  "MUN",
                                      "districtName":  "Jarhagaon",
                                      "districtTenantCode":  "cg.jarhagaon",
                                      "regionName":  "Chhattisgarh",
@@ -4867,7 +4867,7 @@
                         "city":  {
                                      "name":  "Jarhi",
                                      "localName":  null,
-                                     "districtCode":  "JARHI",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Jarhi",
                                      "districtTenantCode":  "cg.jarhi",
                                      "regionName":  "Chhattisgarh",
@@ -4903,7 +4903,7 @@
                         "city":  {
                                      "name":  "Jhagrakhand",
                                      "localName":  null,
-                                     "districtCode":  "JHAGRAKH",
+                                     "districtCode":  "MCB",
                                      "districtName":  "Jhagrakhand",
                                      "districtTenantCode":  "cg.jhagrakhand",
                                      "regionName":  "Chhattisgarh",
@@ -4939,7 +4939,7 @@
                         "city":  {
                                      "name":  "Kasdol",
                                      "localName":  null,
-                                     "districtCode":  "KASDOL",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Kasdol",
                                      "districtTenantCode":  "cg.kasdol",
                                      "regionName":  "Chhattisgarh",
@@ -4975,7 +4975,7 @@
                         "city":  {
                                      "name":  "Keshkal",
                                      "localName":  null,
-                                     "districtCode":  "KESHKAL",
+                                     "districtCode":  "KDG",
                                      "districtName":  "Keshkal",
                                      "districtTenantCode":  "cg.keshkal",
                                      "regionName":  "Chhattisgarh",
@@ -5011,7 +5011,7 @@
                         "city":  {
                                      "name":  "Kharod",
                                      "localName":  null,
-                                     "districtCode":  "KHAROD",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Kharod",
                                      "districtTenantCode":  "cg.kharod",
                                      "regionName":  "Chhattisgarh",
@@ -5047,7 +5047,7 @@
                         "city":  {
                                      "name":  "Kharora",
                                      "localName":  null,
-                                     "districtCode":  "KHARORA",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Kharora",
                                      "districtTenantCode":  "cg.kharora",
                                      "regionName":  "Chhattisgarh",
@@ -5083,7 +5083,7 @@
                         "city":  {
                                      "name":  "Khongapani",
                                      "localName":  null,
-                                     "districtCode":  "KHONGAPA",
+                                     "districtCode":  "MCB",
                                      "districtName":  "Khongapani",
                                      "districtTenantCode":  "cg.khongapani",
                                      "regionName":  "Chhattisgarh",
@@ -5119,7 +5119,7 @@
                         "city":  {
                                      "name":  "Kirodimal Nagar",
                                      "localName":  null,
-                                     "districtCode":  "KIRODIMA",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Kirodimal Nagar",
                                      "districtTenantCode":  "cg.kirodimalnagar",
                                      "regionName":  "Chhattisgarh",
@@ -5155,7 +5155,7 @@
                         "city":  {
                                      "name":  "Konta",
                                      "localName":  null,
-                                     "districtCode":  "KONTA",
+                                     "districtCode":  "SKM",
                                      "districtName":  "Konta",
                                      "districtTenantCode":  "cg.konta",
                                      "regionName":  "Chhattisgarh",
@@ -5191,7 +5191,7 @@
                         "city":  {
                                      "name":  "Kopra",
                                      "localName":  null,
-                                     "districtCode":  "KOPRA",
+                                     "districtCode":  "GRB",
                                      "districtName":  "Kopra",
                                      "districtTenantCode":  "cg.kopra",
                                      "regionName":  "Chhattisgarh",
@@ -5227,7 +5227,7 @@
                         "city":  {
                                      "name":  "Kota",
                                      "localName":  null,
-                                     "districtCode":  "KOTA",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Kota",
                                      "districtTenantCode":  "cg.kota",
                                      "regionName":  "Chhattisgarh",
@@ -5263,7 +5263,7 @@
                         "city":  {
                                      "name":  "Kotba",
                                      "localName":  null,
-                                     "districtCode":  "KOTBA",
+                                     "districtCode":  "JAS",
                                      "districtName":  "Kotba",
                                      "districtTenantCode":  "cg.kotba",
                                      "regionName":  "Chhattisgarh",
@@ -5299,7 +5299,7 @@
                         "city":  {
                                      "name":  "Kunkuri",
                                      "localName":  null,
-                                     "districtCode":  "KUNKURI",
+                                     "districtCode":  "JAS",
                                      "districtName":  "Kunkuri",
                                      "districtTenantCode":  "cg.kunkuri",
                                      "regionName":  "Chhattisgarh",
@@ -5335,7 +5335,7 @@
                         "city":  {
                                      "name":  "Kurra",
                                      "localName":  null,
-                                     "districtCode":  "KURRA",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Kurra",
                                      "districtTenantCode":  "cg.kurra",
                                      "regionName":  "Chhattisgarh",
@@ -5371,7 +5371,7 @@
                         "city":  {
                                      "name":  "Kusmi(Bemetara)",
                                      "localName":  null,
-                                     "districtCode":  "KUSMIBEM",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Kusmi(Bemetara)",
                                      "districtTenantCode":  "cg.kusmibemetara",
                                      "regionName":  "Chhattisgarh",
@@ -5407,7 +5407,7 @@
                         "city":  {
                                      "name":  "Lailunga",
                                      "localName":  null,
-                                     "districtCode":  "LAILUNGA",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Lailunga",
                                      "districtTenantCode":  "cg.lailunga",
                                      "regionName":  "Chhattisgarh",
@@ -5443,7 +5443,7 @@
                         "city":  {
                                      "name":  "Lakhanpur",
                                      "localName":  null,
-                                     "districtCode":  "LAKHANPU",
+                                     "districtCode":  "SGJ",
                                      "districtName":  "Lakhanpur",
                                      "districtTenantCode":  "cg.lakhanpur",
                                      "regionName":  "Chhattisgarh",
@@ -5479,7 +5479,7 @@
                         "city":  {
                                      "name":  "Lal Bahadur Nagar",
                                      "localName":  null,
-                                     "districtCode":  "LALBAHAD",
+                                     "districtCode":  "RJN",
                                      "districtName":  "Lal Bahadur Nagar",
                                      "districtTenantCode":  "cg.lalbahadurnagar",
                                      "regionName":  "Chhattisgarh",
@@ -5515,7 +5515,7 @@
                         "city":  {
                                      "name":  "Lavan",
                                      "localName":  null,
-                                     "districtCode":  "LAVAN",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Lavan",
                                      "districtTenantCode":  "cg.lavan",
                                      "regionName":  "Chhattisgarh",
@@ -5551,7 +5551,7 @@
                         "city":  {
                                      "name":  "Magarlod",
                                      "localName":  null,
-                                     "districtCode":  "MAGARLOD",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Magarlod",
                                      "districtTenantCode":  "cg.magarlod",
                                      "regionName":  "Chhattisgarh",
@@ -5587,7 +5587,7 @@
                         "city":  {
                                      "name":  "Malhar",
                                      "localName":  null,
-                                     "districtCode":  "MALHAR",
+                                     "districtCode":  "BSP",
                                      "districtName":  "Malhar",
                                      "districtTenantCode":  "cg.malhar",
                                      "regionName":  "Chhattisgarh",
@@ -5623,7 +5623,7 @@
                         "city":  {
                                      "name":  "Mana Camp",
                                      "localName":  null,
-                                     "districtCode":  "MANACAMP",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Mana Camp",
                                      "districtTenantCode":  "cg.manacamp",
                                      "regionName":  "Chhattisgarh",
@@ -5659,7 +5659,7 @@
                         "city":  {
                                      "name":  "Maro",
                                      "localName":  null,
-                                     "districtCode":  "MARO",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Maro",
                                      "districtTenantCode":  "cg.maro",
                                      "regionName":  "Chhattisgarh",
@@ -5695,7 +5695,7 @@
                         "city":  {
                                      "name":  "Marwahi",
                                      "localName":  null,
-                                     "districtCode":  "MARWAHI",
+                                     "districtCode":  "GPM",
                                      "districtName":  "Marwahi",
                                      "districtTenantCode":  "cg.marwahi",
                                      "regionName":  "Chhattisgarh",
@@ -5731,7 +5731,7 @@
                         "city":  {
                                      "name":  "Nagri",
                                      "localName":  null,
-                                     "districtCode":  "NAGRI",
+                                     "districtCode":  "DMT",
                                      "districtName":  "Nagri",
                                      "districtTenantCode":  "cg.nagri",
                                      "regionName":  "Chhattisgarh",
@@ -5767,7 +5767,7 @@
                         "city":  {
                                      "name":  "Nai Ladri",
                                      "localName":  null,
-                                     "districtCode":  "NAILADRI",
+                                     "districtCode":  "MCB",
                                      "districtName":  "Nai Ladri",
                                      "districtTenantCode":  "cg.nailadri",
                                      "regionName":  "Chhattisgarh",
@@ -5803,7 +5803,7 @@
                         "city":  {
                                      "name":  "Narharpur",
                                      "localName":  null,
-                                     "districtCode":  "NARHARPU",
+                                     "districtCode":  "KKR",
                                      "districtName":  "Narharpur",
                                      "districtTenantCode":  "cg.narharpur",
                                      "regionName":  "Chhattisgarh",
@@ -5839,7 +5839,7 @@
                         "city":  {
                                      "name":  "Nariyara",
                                      "localName":  null,
-                                     "districtCode":  "NARIYARA",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Nariyara",
                                      "districtTenantCode":  "cg.nariyara",
                                      "regionName":  "Chhattisgarh",
@@ -5875,7 +5875,7 @@
                         "city":  {
                                      "name":  "Nawagarh(Bemetara)",
                                      "localName":  null,
-                                     "districtCode":  "NAWAGARH",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Nawagarh(Bemetara)",
                                      "districtTenantCode":  "cg.nawagarhbemetara",
                                      "regionName":  "Chhattisgarh",
@@ -5911,7 +5911,7 @@
                         "city":  {
                                      "name":  "Naya Baradwar",
                                      "localName":  null,
-                                     "districtCode":  "NAYABARA",
+                                     "districtCode":  "SKT",
                                      "districtName":  "Naya Baradwar",
                                      "districtTenantCode":  "cg.nayabaradwar",
                                      "regionName":  "Chhattisgarh",
@@ -5947,7 +5947,7 @@
                         "city":  {
                                      "name":  "Pakhajur",
                                      "localName":  null,
-                                     "districtCode":  "PAKHAJUR",
+                                     "districtCode":  "KKR",
                                      "districtName":  "Pakhajur",
                                      "districtTenantCode":  "cg.pakhajur",
                                      "regionName":  "Chhattisgarh",
@@ -5983,7 +5983,7 @@
                         "city":  {
                                      "name":  "Palari(Balod)",
                                      "localName":  null,
-                                     "districtCode":  "PALARIBA",
+                                     "districtCode":  "BLD",
                                      "districtName":  "Palari(Balod)",
                                      "districtTenantCode":  "cg.palaribalod",
                                      "regionName":  "Chhattisgarh",
@@ -6019,7 +6019,7 @@
                         "city":  {
                                      "name":  "Pali",
                                      "localName":  null,
-                                     "districtCode":  "PALI",
+                                     "districtCode":  "KRB",
                                      "districtName":  "Pali",
                                      "districtTenantCode":  "cg.pali",
                                      "regionName":  "Chhattisgarh",
@@ -6055,7 +6055,7 @@
                         "city":  {
                                      "name":  "Pamgarh",
                                      "localName":  null,
-                                     "districtCode":  "PAMGARH",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Pamgarh",
                                      "districtTenantCode":  "cg.pamgarh",
                                      "regionName":  "Chhattisgarh",
@@ -6091,7 +6091,7 @@
                         "city":  {
                                      "name":  "Pandatarai",
                                      "localName":  null,
-                                     "districtCode":  "PANDATAR",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Pandatarai",
                                      "districtTenantCode":  "cg.pandatarai",
                                      "regionName":  "Chhattisgarh",
@@ -6127,7 +6127,7 @@
                         "city":  {
                                      "name":  "Parpodi",
                                      "localName":  null,
-                                     "districtCode":  "PARPODI",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Parpodi",
                                      "districtTenantCode":  "cg.parpodi",
                                      "regionName":  "Chhattisgarh",
@@ -6163,7 +6163,7 @@
                         "city":  {
                                      "name":  "Patan",
                                      "localName":  null,
-                                     "districtCode":  "PATAN",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Patan",
                                      "districtTenantCode":  "cg.patan",
                                      "regionName":  "Chhattisgarh",
@@ -6199,7 +6199,7 @@
                         "city":  {
                                      "name":  "Pathariya",
                                      "localName":  null,
-                                     "districtCode":  "PATHARIY",
+                                     "districtCode":  "MUN",
                                      "districtName":  "Pathariya",
                                      "districtTenantCode":  "cg.pathariya",
                                      "regionName":  "Chhattisgarh",
@@ -6235,7 +6235,7 @@
                         "city":  {
                                      "name":  "Patna",
                                      "localName":  null,
-                                     "districtCode":  "PATNA",
+                                     "districtCode":  "KOR",
                                      "districtName":  "Patna",
                                      "districtTenantCode":  "cg.patna",
                                      "regionName":  "Chhattisgarh",
@@ -6271,7 +6271,7 @@
                         "city":  {
                                      "name":  "Pawni",
                                      "localName":  null,
-                                     "districtCode":  "PAWNI",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Pawni",
                                      "districtTenantCode":  "cg.pawni",
                                      "regionName":  "Chhattisgarh",
@@ -6307,7 +6307,7 @@
                         "city":  {
                                      "name":  "Pipariya",
                                      "localName":  null,
-                                     "districtCode":  "PIPARIYA",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Pipariya",
                                      "districtTenantCode":  "cg.pipariya",
                                      "regionName":  "Chhattisgarh",
@@ -6343,7 +6343,7 @@
                         "city":  {
                                      "name":  "Pithora",
                                      "localName":  null,
-                                     "districtCode":  "PITHORA",
+                                     "districtCode":  "MHS",
                                      "districtName":  "Pithora",
                                      "districtTenantCode":  "cg.pithora",
                                      "regionName":  "Chhattisgarh",
@@ -6379,7 +6379,7 @@
                         "city":  {
                                      "name":  "Pratappur",
                                      "localName":  null,
-                                     "districtCode":  "PRATAPPU",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Pratappur",
                                      "districtTenantCode":  "cg.pratappur",
                                      "regionName":  "Chhattisgarh",
@@ -6415,7 +6415,7 @@
                         "city":  {
                                      "name":  "Premnagar",
                                      "localName":  null,
-                                     "districtCode":  "PREMNAGA",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Premnagar",
                                      "districtTenantCode":  "cg.premnagar",
                                      "regionName":  "Chhattisgarh",
@@ -6451,7 +6451,7 @@
                         "city":  {
                                      "name":  "Pussore",
                                      "localName":  null,
-                                     "districtCode":  "PUSSORE",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Pussore",
                                      "districtTenantCode":  "cg.pussore",
                                      "regionName":  "Chhattisgarh",
@@ -6487,7 +6487,7 @@
                         "city":  {
                                      "name":  "Rahoud",
                                      "localName":  null,
-                                     "districtCode":  "RAHOUD",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Rahoud",
                                      "districtTenantCode":  "cg.rahoud",
                                      "regionName":  "Chhattisgarh",
@@ -6523,7 +6523,7 @@
                         "city":  {
                                      "name":  "Rajim",
                                      "localName":  null,
-                                     "districtCode":  "RAJIM",
+                                     "districtCode":  "GRB",
                                      "districtName":  "Rajim",
                                      "districtTenantCode":  "cg.rajim",
                                      "regionName":  "Chhattisgarh",
@@ -6559,7 +6559,7 @@
                         "city":  {
                                      "name":  "Rajpur",
                                      "localName":  null,
-                                     "districtCode":  "RAJPUR",
+                                     "districtCode":  "BRP",
                                      "districtName":  "Rajpur",
                                      "districtTenantCode":  "cg.rajpur",
                                      "regionName":  "Chhattisgarh",
@@ -6595,7 +6595,7 @@
                         "city":  {
                                      "name":  "Rohansi",
                                      "localName":  null,
-                                     "districtCode":  "ROHANSI",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Rohansi",
                                      "districtTenantCode":  "cg.rohansi",
                                      "regionName":  "Chhattisgarh",
@@ -6631,7 +6631,7 @@
                         "city":  {
                                      "name":  "Sahaspur Lohara",
                                      "localName":  null,
-                                     "districtCode":  "SAHASPUR",
+                                     "districtCode":  "KBD",
                                      "districtName":  "Sahaspur Lohara",
                                      "districtTenantCode":  "cg.sahaspurlohara",
                                      "regionName":  "Chhattisgarh",
@@ -6667,7 +6667,7 @@
                         "city":  {
                                      "name":  "Saja",
                                      "localName":  null,
-                                     "districtCode":  "SAJA",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Saja",
                                      "districtTenantCode":  "cg.saja",
                                      "regionName":  "Chhattisgarh",
@@ -6703,7 +6703,7 @@
                         "city":  {
                                      "name":  "Samoda",
                                      "localName":  null,
-                                     "districtCode":  "SAMODA",
+                                     "districtCode":  "RPR",
                                      "districtName":  "Samoda",
                                      "districtTenantCode":  "cg.samoda",
                                      "regionName":  "Chhattisgarh",
@@ -6739,7 +6739,7 @@
                         "city":  {
                                      "name":  "Saragaon",
                                      "localName":  null,
-                                     "districtCode":  "SARAGAON",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Saragaon",
                                      "districtTenantCode":  "cg.saragaon",
                                      "regionName":  "Chhattisgarh",
@@ -6775,7 +6775,7 @@
                         "city":  {
                                      "name":  "Sargaon",
                                      "localName":  null,
-                                     "districtCode":  "SARGAON",
+                                     "districtCode":  "MUN",
                                      "districtName":  "Sargaon",
                                      "districtTenantCode":  "cg.sargaon",
                                      "regionName":  "Chhattisgarh",
@@ -6811,7 +6811,7 @@
                         "city":  {
                                      "name":  "Saria",
                                      "localName":  null,
-                                     "districtCode":  "SARIA",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Saria",
                                      "districtTenantCode":  "cg.saria",
                                      "regionName":  "Chhattisgarh",
@@ -6847,7 +6847,7 @@
                         "city":  {
                                      "name":  "Sarsiwan",
                                      "localName":  null,
-                                     "districtCode":  "SARSIWAN",
+                                     "districtCode":  "SBG",
                                      "districtName":  "Sarsiwan",
                                      "districtTenantCode":  "cg.sarsiwan",
                                      "regionName":  "Chhattisgarh",
@@ -6883,7 +6883,7 @@
                         "city":  {
                                      "name":  "Shivnandanpur",
                                      "localName":  null,
-                                     "districtCode":  "SHIVNAND",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Shivnandanpur",
                                      "districtTenantCode":  "cg.shivnandanpur",
                                      "regionName":  "Chhattisgarh",
@@ -6919,7 +6919,7 @@
                         "city":  {
                                      "name":  "Shivrinarayan",
                                      "localName":  null,
-                                     "districtCode":  "SHIVRINA",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Shivrinarayan",
                                      "districtTenantCode":  "cg.shivrinarayan",
                                      "regionName":  "Chhattisgarh",
@@ -6955,7 +6955,7 @@
                         "city":  {
                                      "name":  "Sitapur",
                                      "localName":  null,
-                                     "districtCode":  "SITAPUR",
+                                     "districtCode":  "SGJ",
                                      "districtName":  "Sitapur",
                                      "districtTenantCode":  "cg.sitapur",
                                      "regionName":  "Chhattisgarh",
@@ -6991,7 +6991,7 @@
                         "city":  {
                                      "name":  "Tamnar",
                                      "localName":  null,
-                                     "districtCode":  "TAMNAR",
+                                     "districtCode":  "RGH",
                                      "districtName":  "Tamnar",
                                      "districtTenantCode":  "cg.tamnar",
                                      "regionName":  "Chhattisgarh",
@@ -7027,7 +7027,7 @@
                         "city":  {
                                      "name":  "Than Khamharia",
                                      "localName":  null,
-                                     "districtCode":  "THANKHAM",
+                                     "districtCode":  "BEM",
                                      "districtName":  "Than Khamharia",
                                      "districtTenantCode":  "cg.thankhamharia",
                                      "regionName":  "Chhattisgarh",
@@ -7063,7 +7063,7 @@
                         "city":  {
                                      "name":  "Tumgaon",
                                      "localName":  null,
-                                     "districtCode":  "TUMGAON",
+                                     "districtCode":  "MHS",
                                      "districtName":  "Tumgaon",
                                      "districtTenantCode":  "cg.tumgaon",
                                      "regionName":  "Chhattisgarh",
@@ -7099,7 +7099,7 @@
                         "city":  {
                                      "name":  "Tundra",
                                      "localName":  null,
-                                     "districtCode":  "TUNDRA",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Tundra",
                                      "districtTenantCode":  "cg.tundra",
                                      "regionName":  "Chhattisgarh",
@@ -7135,7 +7135,7 @@
                         "city":  {
                                      "name":  "Utai",
                                      "localName":  null,
-                                     "districtCode":  "UTAI",
+                                     "districtCode":  "DUR",
                                      "districtName":  "Utai",
                                      "districtTenantCode":  "cg.utai",
                                      "regionName":  "Chhattisgarh",
@@ -7171,7 +7171,7 @@
                         "city":  {
                                      "name":  "Vishrampur",
                                      "localName":  null,
-                                     "districtCode":  "VISHRAMP",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Vishrampur",
                                      "districtTenantCode":  "cg.vishrampur",
                                      "regionName":  "Chhattisgarh",
@@ -7207,7 +7207,7 @@
                         "city":  {
                                      "name":  "Wadrafnagar",
                                      "localName":  null,
-                                     "districtCode":  "WADRAFNA",
+                                     "districtCode":  "BRP",
                                      "districtName":  "Wadrafnagar",
                                      "districtTenantCode":  "cg.wadrafnagar",
                                      "regionName":  "Chhattisgarh",
@@ -7243,7 +7243,7 @@
                         "city":  {
                                      "name":  "Bhatgaon(Surajpur)",
                                      "localName":  null,
-                                     "districtCode":  "BHATGAON",
+                                     "districtCode":  "SRJ",
                                      "districtName":  "Bhatgaon(Surajpur)",
                                      "districtTenantCode":  "cg.bhatgaonsurajpur",
                                      "regionName":  "Chhattisgarh",
@@ -7279,7 +7279,7 @@
                         "city":  {
                                      "name":  "Kusmi(Balrampur)",
                                      "localName":  null,
-                                     "districtCode":  "KUSMIBAL",
+                                     "districtCode":  "BRP",
                                      "districtName":  "Kusmi(Balrampur)",
                                      "districtTenantCode":  "cg.kusmibalrampur",
                                      "regionName":  "Chhattisgarh",
@@ -7315,7 +7315,7 @@
                         "city":  {
                                      "name":  "Nawagarh(Janjgir-Champa)",
                                      "localName":  null,
-                                     "districtCode":  "NAWAGARH",
+                                     "districtCode":  "JJC",
                                      "districtName":  "Nawagarh(Janjgir-Champa)",
                                      "districtTenantCode":  "cg.nawagarhjanjgir",
                                      "regionName":  "Chhattisgarh",
@@ -7351,7 +7351,7 @@
                         "city":  {
                                      "name":  "Palari(Balodabazar)",
                                      "localName":  null,
-                                     "districtCode":  "PALARIBA",
+                                     "districtCode":  "BBT",
                                      "districtName":  "Palari(Balodabazar)",
                                      "districtTenantCode":  "cg.palaribalodabazar",
                                      "regionName":  "Chhattisgarh",
