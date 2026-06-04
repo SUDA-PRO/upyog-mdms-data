@@ -28,7 +28,7 @@
                         "city":  {
                                      "name":  "City A",
                                      "localName":  null,
-                                     "districtCode":  "CITYA",
+                                     "districtCode":  "CTY",
                                      "districtName":  "Citya",
                                      "districtTenantCode":  "cg.citya",
                                      "regionName":  null,
@@ -37,7 +37,7 @@
                                      "latitude":  31.3260152,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "1013",
+                                     "code":  "CTA",
                                      "ddrName":  "DDR A"
                                  },
                         "address":  "City A Municipal Corporation",
@@ -691,7 +691,7 @@
                         "city":  {
                                      "name":  "Jagdalpur",
                                      "localName":  null,
-                                     "districtCode":  "JAGDALPU",
+                                     "districtCode":  "BSR",
                                      "districtName":  "Jagdalpur",
                                      "districtTenantCode":  "cg.jagdalpur",
                                      "regionName":  "Chhattisgarh",
@@ -700,7 +700,7 @@
                                      "latitude":  19.0748,
                                      "shapeFileLocation":  null,
                                      "captcha":  null,
-                                     "code":  "207",
+                                     "code":  "JGD",
                                      "ddrName":  "DDR Jagdalpur"
                                  },
                         "address":  "Jagdalpur Municipal Corporation",
