@@ -512,6 +512,26 @@
       "code": "FSM_ADMIN",
       "name": "FSM Admin",
       "description": "Admin role for FSM workflows"
+    },
+    {
+      "code": "FSM_DSO",
+      "name": "FSM DSO",
+      "description": "Desludging Operator role for FSM vendor/DSO"
+    },
+    {
+      "code": "FSM_DRIVER",
+      "name": "FSM Driver",
+      "description": "Driver role for FSM vehicle operations"
+    },
+    {
+      "code": "VENDOR",
+      "name": "Vendor",
+      "description": "Vendor role for FSM desludging operators"
+    },
+    {
+      "code": "FSM_EMP",
+      "name": "FSM Employee",
+      "description": "Employee role for FSM module operations"
     }
   ]
 }
