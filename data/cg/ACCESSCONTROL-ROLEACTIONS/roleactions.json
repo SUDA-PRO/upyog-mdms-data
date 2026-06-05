@@ -35185,6 +35185,24 @@
       "actionid": 500021,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_ADMIN",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "cg"
     }
   ]
 }

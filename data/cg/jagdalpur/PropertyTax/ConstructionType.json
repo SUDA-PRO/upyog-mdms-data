@@ -5,19 +5,19 @@
   [
     {
       "id": "1",
-      "name": "Pucca",
+      "name": "RCC/Pucca",
       "code": "PUCCA",
       "active": true
     },
     {
       "id": "2",
-      "name": "Semi-Pucca",
+      "name": "Semi Pucca (Cement/Tiles)",
       "code": "SEMIPUCCA",
       "active": true
     },
     {
       "id": "3",
-      "name": "Kuccha",
+      "name": "Kuccha (Temporary)",
       "code": "KUCCHA",
       "active": true
     }

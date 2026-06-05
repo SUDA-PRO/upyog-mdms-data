@@ -18,7 +18,7 @@
                 "code": "cg.jagdalpur",
                 "children": [
                     {
-                        "id": "a1000001-0000-0000-0000-000000000001",
+                        "id": "a1000001-0000-0000-0000-000000000000",
                         "boundaryNum": 1,
                         "name": "Maharaja Pravirchandra Bhanjdev Ward (M)",
                         "localname": "Maharaja Pravirchandra Bhanjdev Ward (M)",
@@ -26,23 +26,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W01",
-                        "children": [
-                            {
-                                "id": "b1000001-0001-0000-0000-000000000001",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W01_RZ1"
-                            },
-                            {
-                                "id": "b1000001-0005-0000-0000-000000000001",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W01_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000002-0000-0000-0000-000000000002",
+                        "id": "a1000002-0000-0000-0000-000000000000",
                         "boundaryNum": 2,
                         "name": "Maharaja Vijaychandra Bhanjdev Ward (M)",
                         "localname": "Maharaja Vijaychandra Bhanjdev Ward (M)",
@@ -50,29 +38,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W02",
-                        "children": [
-                            {
-                                "id": "b1000002-0002-0000-0000-000000000002",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W02_RZ2"
-                            },
-                            {
-                                "id": "b1000002-0004-0000-0000-000000000002",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W02_RZ4"
-                            },
-                            {
-                                "id": "b1000002-0005-0000-0000-000000000002",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W02_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000003-0000-0000-0000-000000000003",
+                        "id": "a1000003-0000-0000-0000-000000000000",
                         "boundaryNum": 3,
                         "name": "Shiv Mandir Ward (M)",
                         "localname": "Shiv Mandir Ward (M)",
@@ -80,23 +50,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W03",
-                        "children": [
-                            {
-                                "id": "b1000003-0003-0000-0000-000000000003",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W03_RZ3"
-                            },
-                            {
-                                "id": "b1000003-0005-0000-0000-000000000003",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W03_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000004-0000-0000-0000-000000000004",
+                        "id": "a1000004-0000-0000-0000-000000000000",
                         "boundaryNum": 4,
                         "name": "Bhairam Dev Ward (M)",
                         "localname": "Bhairam Dev Ward (M)",
@@ -104,23 +62,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W04",
-                        "children": [
-                            {
-                                "id": "b1000004-0004-0000-0000-000000000004",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W04_RZ4"
-                            },
-                            {
-                                "id": "b1000004-0005-0000-0000-000000000004",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W04_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000005-0000-0000-0000-000000000005",
+                        "id": "a1000005-0000-0000-0000-000000000000",
                         "boundaryNum": 5,
                         "name": "Veer Savarkar Ward (M)",
                         "localname": "Veer Savarkar Ward (M)",
@@ -128,17 +74,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W05",
-                        "children": [
-                            {
-                                "id": "b1000005-0005-0000-0000-000000000005",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W05_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000006-0000-0000-0000-000000000006",
+                        "id": "a1000006-0000-0000-0000-000000000000",
                         "boundaryNum": 6,
                         "name": "Sardar Bhagat Singh Ward (M)",
                         "localname": "Sardar Bhagat Singh Ward (M)",
@@ -146,23 +86,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W06",
-                        "children": [
-                            {
-                                "id": "b1000006-0003-0000-0000-000000000006",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W06_RZ3"
-                            },
-                            {
-                                "id": "b1000006-0005-0000-0000-000000000006",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W06_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000007-0000-0000-0000-000000000007",
+                        "id": "a1000007-0000-0000-0000-000000000000",
                         "boundaryNum": 7,
                         "name": "Civil Line Ward (M)",
                         "localname": "Civil Line Ward (M)",
@@ -170,23 +98,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W07",
-                        "children": [
-                            {
-                                "id": "b1000007-0001-0000-0000-000000000007",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W07_RZ1"
-                            },
-                            {
-                                "id": "b1000007-0002-0000-0000-000000000007",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W07_RZ2"
-                            }
-                        ]
+                        "area": "2",
+                        "children": []
                     },
                     {
-                        "id": "a1000008-0000-0000-0000-000000000008",
+                        "id": "a1000008-0000-0000-0000-000000000000",
                         "boundaryNum": 8,
                         "name": "Lal Bahadur Shastri Ward (M)",
                         "localname": "Lal Bahadur Shastri Ward (M)",
@@ -194,47 +110,23 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W08",
-                        "children": [
-                            {
-                                "id": "b1000008-0002-0000-0000-000000000008",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W08_RZ2"
-                            },
-                            {
-                                "id": "b1000008-0005-0000-0000-000000000008",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W08_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000009-0000-0000-0000-000000000009",
+                        "id": "a1000009-0000-0000-0000-000000000000",
                         "boundaryNum": 9,
-                        "name": "Netaji Subhash Chandra Bose Ward (M)",
-                        "localname": "Netaji Subhash Chandra Bose Ward (M)",
+                        "name": "Netaji Subhash Ward (M)",
+                        "localname": "Netaji Subhash Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W09",
-                        "children": [
-                            {
-                                "id": "b1000009-0002-0000-0000-000000000009",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W09_RZ2"
-                            },
-                            {
-                                "id": "b1000009-0004-0000-0000-000000000009",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W09_RZ4"
-                            }
-                        ]
+                        "area": "2",
+                        "children": []
                     },
                     {
-                        "id": "a1000010-0000-0000-0000-000000000010",
+                        "id": "a1000010-0000-0000-0000-000000000000",
                         "boundaryNum": 10,
                         "name": "Sadar Ward (M)",
                         "localname": "Sadar Ward (M)",
@@ -242,35 +134,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W10",
-                        "children": [
-                            {
-                                "id": "b1000010-0001-0000-0000-000000000010",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W10_RZ1"
-                            },
-                            {
-                                "id": "b1000010-0002-0000-0000-000000000010",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W10_RZ2"
-                            },
-                            {
-                                "id": "b1000010-0003-0000-0000-000000000010",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W10_RZ3"
-                            },
-                            {
-                                "id": "b1000010-0004-0000-0000-000000000010",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W10_RZ4"
-                            }
-                        ]
+                        "area": "1",
+                        "children": []
                     },
                     {
-                        "id": "a1000011-0000-0000-0000-000000000011",
+                        "id": "a1000011-0000-0000-0000-000000000000",
                         "boundaryNum": 11,
                         "name": "Pratap Dev Ward (M)",
                         "localname": "Pratap Dev Ward (M)",
@@ -278,47 +146,23 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W11",
-                        "children": [
-                            {
-                                "id": "b1000011-0001-0000-0000-000000000011",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W11_RZ1"
-                            },
-                            {
-                                "id": "b1000011-0002-0000-0000-000000000011",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W11_RZ2"
-                            }
-                        ]
+                        "area": "1",
+                        "children": []
                     },
                     {
-                        "id": "a1000012-0000-0000-0000-000000000012",
+                        "id": "a1000012-0000-0000-0000-000000000000",
                         "boundaryNum": 12,
-                        "name": "Ravindranath Taigor Ward (M)",
-                        "localname": "Ravindranath Taigor Ward (M)",
+                        "name": "Ravindranath Tagore Ward (M)",
+                        "localname": "Ravindranath Tagore Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W12",
-                        "children": [
-                            {
-                                "id": "b1000012-0003-0000-0000-000000000012",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W12_RZ3"
-                            },
-                            {
-                                "id": "b1000012-0005-0000-0000-000000000012",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W12_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000013-0000-0000-0000-000000000013",
+                        "id": "a1000013-0000-0000-0000-000000000000",
                         "boundaryNum": 13,
                         "name": "Balaji Ward (M)",
                         "localname": "Balaji Ward (M)",
@@ -326,77 +170,23 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W13",
-                        "children": [
-                            {
-                                "id": "b1000013-0001-0000-0000-000000000013",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W13_RZ1"
-                            },
-                            {
-                                "id": "b1000013-0002-0000-0000-000000000013",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W13_RZ2"
-                            },
-                            {
-                                "id": "b1000013-0003-0000-0000-000000000013",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W13_RZ3"
-                            },
-                            {
-                                "id": "b1000013-0004-0000-0000-000000000013",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W13_RZ4"
-                            },
-                            {
-                                "id": "b1000013-0005-0000-0000-000000000013",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W13_RZ5"
-                            }
-                        ]
+                        "area": "1",
+                        "children": []
                     },
                     {
-                        "id": "a1000014-0000-0000-0000-000000000014",
+                        "id": "a1000014-0000-0000-0000-000000000000",
                         "boundaryNum": 14,
-                        "name": "Maharani Praful Kumari Devi Ward (M)",
-                        "localname": "Maharani Praful Kumari Devi Ward (M)",
+                        "name": "Maharani Prafulkumari Devi Ward (M)",
+                        "localname": "Maharani Prafulkumari Devi Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W14",
-                        "children": [
-                            {
-                                "id": "b1000014-0001-0000-0000-000000000014",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W14_RZ1"
-                            },
-                            {
-                                "id": "b1000014-0002-0000-0000-000000000014",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W14_RZ2"
-                            },
-                            {
-                                "id": "b1000014-0003-0000-0000-000000000014",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W14_RZ3"
-                            },
-                            {
-                                "id": "b1000014-0004-0000-0000-000000000014",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W14_RZ4"
-                            }
-                        ]
+                        "area": "2",
+                        "children": []
                     },
                     {
-                        "id": "a1000015-0000-0000-0000-000000000015",
+                        "id": "a1000015-0000-0000-0000-000000000000",
                         "boundaryNum": 15,
                         "name": "Motilal Nehru Ward (M)",
                         "localname": "Motilal Nehru Ward (M)",
@@ -404,35 +194,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W15",
-                        "children": [
-                            {
-                                "id": "b1000015-0001-0000-0000-000000000015",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W15_RZ1"
-                            },
-                            {
-                                "id": "b1000015-0002-0000-0000-000000000015",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W15_RZ2"
-                            },
-                            {
-                                "id": "b1000015-0003-0000-0000-000000000015",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W15_RZ3"
-                            },
-                            {
-                                "id": "b1000015-0004-0000-0000-000000000015",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W15_RZ4"
-                            }
-                        ]
+                        "area": "1",
+                        "children": []
                     },
                     {
-                        "id": "a1000016-0000-0000-0000-000000000016",
+                        "id": "a1000016-0000-0000-0000-000000000000",
                         "boundaryNum": 16,
                         "name": "Indira Ward (M)",
                         "localname": "Indira Ward (M)",
@@ -440,41 +206,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W16",
-                        "children": [
-                            {
-                                "id": "b1000016-0001-0000-0000-000000000016",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W16_RZ1"
-                            },
-                            {
-                                "id": "b1000016-0002-0000-0000-000000000016",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W16_RZ2"
-                            },
-                            {
-                                "id": "b1000016-0003-0000-0000-000000000016",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W16_RZ3"
-                            },
-                            {
-                                "id": "b1000016-0004-0000-0000-000000000016",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W16_RZ4"
-                            },
-                            {
-                                "id": "b1000016-0005-0000-0000-000000000016",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W16_RZ5"
-                            }
-                        ]
+                        "area": "2",
+                        "children": []
                     },
                     {
-                        "id": "a1000017-0000-0000-0000-000000000017",
+                        "id": "a1000017-0000-0000-0000-000000000000",
                         "boundaryNum": 17,
                         "name": "Ramaiya Ward (M)",
                         "localname": "Ramaiya Ward (M)",
@@ -482,23 +218,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W17",
-                        "children": [
-                            {
-                                "id": "b1000017-0001-0000-0000-000000000017",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W17_RZ1"
-                            },
-                            {
-                                "id": "b1000017-0002-0000-0000-000000000017",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W17_RZ2"
-                            }
-                        ]
+                        "area": "2",
+                        "children": []
                     },
                     {
-                        "id": "a1000018-0000-0000-0000-000000000018",
+                        "id": "a1000018-0000-0000-0000-000000000000",
                         "boundaryNum": 18,
                         "name": "Dalpat Sagar Ward (M)",
                         "localname": "Dalpat Sagar Ward (M)",
@@ -506,95 +230,47 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W18",
-                        "children": [
-                            {
-                                "id": "b1000018-0002-0000-0000-000000000018",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W18_RZ2"
-                            },
-                            {
-                                "id": "b1000018-0003-0000-0000-000000000018",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W18_RZ3"
-                            },
-                            {
-                                "id": "b1000018-0004-0000-0000-000000000018",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W18_RZ4"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000019-0000-0000-0000-000000000019",
+                        "id": "a1000019-0000-0000-0000-000000000000",
                         "boundaryNum": 19,
-                        "name": "Pt. Dindayal Upadhyay Ward (M)",
-                        "localname": "Pt. Dindayal Upadhyay Ward (M)",
+                        "name": "Dindayal Ward (M)",
+                        "localname": "Dindayal Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W19",
-                        "children": [
-                            {
-                                "id": "b1000019-0004-0000-0000-000000000019",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W19_RZ4"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000020-0000-0000-0000-000000000020",
+                        "id": "a1000020-0000-0000-0000-000000000000",
                         "boundaryNum": 20,
-                        "name": "Maa Danteshwari Ward (M)",
-                        "localname": "Maa Danteshwari Ward (M)",
+                        "name": "Danteshwari Ward (M)",
+                        "localname": "Danteshwari Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W20",
-                        "children": [
-                            {
-                                "id": "b1000020-0001-0000-0000-000000000020",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W20_RZ1"
-                            },
-                            {
-                                "id": "b1000020-0004-0000-0000-000000000020",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W20_RZ4"
-                            },
-                            {
-                                "id": "b1000020-0005-0000-0000-000000000020",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W20_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000021-0000-0000-0000-000000000021",
+                        "id": "a1000021-0000-0000-0000-000000000000",
                         "boundaryNum": 21,
-                        "name": "Dr. Rajendra Prasad Ward (M)",
-                        "localname": "Dr. Rajendra Prasad Ward (M)",
+                        "name": "Rajendra Prasad Ward (M)",
+                        "localname": "Rajendra Prasad Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W21",
-                        "children": [
-                            {
-                                "id": "b1000021-0004-0000-0000-000000000021",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W21_RZ4"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000022-0000-0000-0000-000000000022",
+                        "id": "a1000022-0000-0000-0000-000000000000",
                         "boundaryNum": 22,
                         "name": "Mahatma Gandhi Ward (M)",
                         "localname": "Mahatma Gandhi Ward (M)",
@@ -602,35 +278,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W22",
-                        "children": [
-                            {
-                                "id": "b1000022-0001-0000-0000-000000000022",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W22_RZ1"
-                            },
-                            {
-                                "id": "b1000022-0003-0000-0000-000000000022",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W22_RZ3"
-                            },
-                            {
-                                "id": "b1000022-0004-0000-0000-000000000022",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W22_RZ4"
-                            },
-                            {
-                                "id": "b1000022-0005-0000-0000-000000000022",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W22_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000023-0000-0000-0000-000000000023",
+                        "id": "a1000023-0000-0000-0000-000000000000",
                         "boundaryNum": 23,
                         "name": "Ganganagar Ward (M)",
                         "localname": "Ganganagar Ward (M)",
@@ -638,41 +290,23 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W23",
-                        "children": [
-                            {
-                                "id": "b1000023-0004-0000-0000-000000000023",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W23_RZ4"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000024-0000-0000-0000-000000000024",
+                        "id": "a1000024-0000-0000-0000-000000000000",
                         "boundaryNum": 24,
-                        "name": "Pt. Jawahar Lal Nehru Nagar Ward (M)",
-                        "localname": "Pt. Jawahar Lal Nehru Nagar Ward (M)",
+                        "name": "Jawahar Lal Nehru Nagar Ward (M)",
+                        "localname": "Jawahar Lal Nehru Nagar Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W24",
-                        "children": [
-                            {
-                                "id": "b1000024-0004-0000-0000-000000000024",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W24_RZ4"
-                            },
-                            {
-                                "id": "b1000024-0005-0000-0000-000000000024",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W24_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000025-0000-0000-0000-000000000025",
+                        "id": "a1000025-0000-0000-0000-000000000000",
                         "boundaryNum": 25,
                         "name": "Shanti Nagar Ward (M)",
                         "localname": "Shanti Nagar Ward (M)",
@@ -680,53 +314,23 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W25",
-                        "children": [
-                            {
-                                "id": "b1000025-0002-0000-0000-000000000025",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W25_RZ2"
-                            },
-                            {
-                                "id": "b1000025-0003-0000-0000-000000000025",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W25_RZ3"
-                            },
-                            {
-                                "id": "b1000025-0004-0000-0000-000000000025",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W25_RZ4"
-                            },
-                            {
-                                "id": "b1000025-0005-0000-0000-000000000025",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W25_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000026-0000-0000-0000-000000000026",
+                        "id": "a1000026-0000-0000-0000-000000000000",
                         "boundaryNum": 26,
-                        "name": "Mother Teresa Ward (M)",
-                        "localname": "Mother Teresa Ward (M)",
+                        "name": "Thakur Anukul Dev Ward (M)",
+                        "localname": "Thakur Anukul Dev Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W26",
-                        "children": [
-                            {
-                                "id": "b1000026-0005-0000-0000-000000000026",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W26_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000027-0000-0000-0000-000000000027",
+                        "id": "a1000027-0000-0000-0000-000000000000",
                         "boundaryNum": 27,
                         "name": "Mata Santoshi Ward (M)",
                         "localname": "Mata Santoshi Ward (M)",
@@ -734,23 +338,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W27",
-                        "children": [
-                            {
-                                "id": "b1000027-0003-0000-0000-000000000027",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W27_RZ3"
-                            },
-                            {
-                                "id": "b1000027-0004-0000-0000-000000000027",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W27_RZ4"
-                            }
-                        ]
+                        "area": "3",
+                        "children": []
                     },
                     {
-                        "id": "a1000028-0000-0000-0000-000000000028",
+                        "id": "a1000028-0000-0000-0000-000000000000",
                         "boundaryNum": 28,
                         "name": "Guru Ghasidas Ward (M)",
                         "localname": "Guru Ghasidas Ward (M)",
@@ -758,41 +350,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W28",
-                        "children": [
-                            {
-                                "id": "b1000028-0001-0000-0000-000000000028",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W28_RZ1"
-                            },
-                            {
-                                "id": "b1000028-0002-0000-0000-000000000028",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W28_RZ2"
-                            },
-                            {
-                                "id": "b1000028-0003-0000-0000-000000000028",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W28_RZ3"
-                            },
-                            {
-                                "id": "b1000028-0004-0000-0000-000000000028",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W28_RZ4"
-                            },
-                            {
-                                "id": "b1000028-0005-0000-0000-000000000028",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W28_RZ5"
-                            }
-                        ]
+                        "area": "3",
+                        "children": []
                     },
                     {
-                        "id": "a1000029-0000-0000-0000-000000000029",
+                        "id": "a1000029-0000-0000-0000-000000000000",
                         "boundaryNum": 29,
                         "name": "Dr. Bhimrao Ambedkar Ward (M)",
                         "localname": "Dr. Bhimrao Ambedkar Ward (M)",
@@ -800,23 +362,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W29",
-                        "children": [
-                            {
-                                "id": "b1000029-0004-0000-0000-000000000029",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W29_RZ4"
-                            },
-                            {
-                                "id": "b1000029-0005-0000-0000-000000000029",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W29_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000030-0000-0000-0000-000000000030",
+                        "id": "a1000030-0000-0000-0000-000000000000",
                         "boundaryNum": 30,
                         "name": "Swami Vivekanand Ward (M)",
                         "localname": "Swami Vivekanand Ward (M)",
@@ -824,283 +374,119 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W30",
-                        "children": [
-                            {
-                                "id": "b1000030-0004-0000-0000-000000000030",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W30_RZ4"
-                            },
-                            {
-                                "id": "b1000030-0005-0000-0000-000000000030",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W30_RZ5"
-                            }
-                        ]
+                        "area": "5",
+                        "children": []
                     },
                     {
-                        "id": "a1000031-0000-0000-0000-000000000031",
+                        "id": "a1000031-0000-0000-0000-000000000000",
                         "boundaryNum": 31,
-                        "name": "Thakur Anukul Dev Ward (M)",
-                        "localname": "Thakur Anukul Dev Ward (M)",
+                        "name": "Sundarlal Sharma Ward (M)",
+                        "localname": "Sundarlal Sharma Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W31",
-                        "children": [
-                            {
-                                "id": "b1000031-0003-0000-0000-000000000031",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W31_RZ3"
-                            },
-                            {
-                                "id": "b1000031-0004-0000-0000-000000000031",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W31_RZ4"
-                            },
-                            {
-                                "id": "b1000031-0005-0000-0000-000000000031",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W31_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000032-0000-0000-0000-000000000032",
+                        "id": "a1000032-0000-0000-0000-000000000000",
                         "boundaryNum": 32,
-                        "name": "Pt. Sundarlal Sharma Ward (M)",
-                        "localname": "Pt. Sundarlal Sharma Ward (M)",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "JAGD_W32",
-                        "children": [
-                            {
-                                "id": "b1000032-0003-0000-0000-000000000032",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W32_RZ3"
-                            },
-                            {
-                                "id": "b1000032-0004-0000-0000-000000000032",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W32_RZ4"
-                            },
-                            {
-                                "id": "b1000032-0005-0000-0000-000000000032",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W32_RZ5"
-                            }
-                        ]
-                    },
-                    {
-                        "id": "a1000033-0000-0000-0000-000000000033",
-                        "boundaryNum": 33,
                         "name": "Rajiv Gandhi Ward (M)",
                         "localname": "Rajiv Gandhi Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W33",
-                        "children": [
-                            {
-                                "id": "b1000033-0004-0000-0000-000000000033",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W33_RZ4"
-                            }
-                        ]
+                        "code": "JAGD_W32",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000034-0000-0000-0000-000000000034",
-                        "boundaryNum": 34,
+                        "id": "a1000033-0000-0000-0000-000000000000",
+                        "boundaryNum": 33,
                         "name": "Sanjay Gandhi Ward (M)",
                         "localname": "Sanjay Gandhi Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W34",
-                        "children": [
-                            {
-                                "id": "b1000034-0003-0000-0000-000000000034",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W34_RZ3"
-                            },
-                            {
-                                "id": "b1000034-0004-0000-0000-000000000034",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W34_RZ4"
-                            }
-                        ]
+                        "code": "JAGD_W33",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000035-0000-0000-0000-000000000035",
-                        "boundaryNum": 35,
-                        "name": "Chhatrapati Shivaji Ward (M)",
-                        "localname": "Chhatrapati Shivaji Ward (M)",
+                        "id": "a1000034-0000-0000-0000-000000000000",
+                        "boundaryNum": 34,
+                        "name": "Shivaji Ward (M)",
+                        "localname": "Shivaji Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W35",
-                        "children": [
-                            {
-                                "id": "b1000035-0001-0000-0000-000000000035",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W35_RZ1"
-                            },
-                            {
-                                "id": "b1000035-0002-0000-0000-000000000035",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W35_RZ2"
-                            },
-                            {
-                                "id": "b1000035-0003-0000-0000-000000000035",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W35_RZ3"
-                            },
-                            {
-                                "id": "b1000035-0004-0000-0000-000000000035",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W35_RZ4"
-                            },
-                            {
-                                "id": "b1000035-0005-0000-0000-000000000035",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W35_RZ5"
-                            }
-                        ]
+                        "code": "JAGD_W34",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000036-0000-0000-0000-000000000036",
-                        "boundaryNum": 36,
+                        "id": "a1000035-0000-0000-0000-000000000000",
+                        "boundaryNum": 35,
                         "name": "Gurugovind Singh Ward (M)",
                         "localname": "Gurugovind Singh Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W36",
-                        "children": [
-                            {
-                                "id": "b1000036-0002-0000-0000-000000000036",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W36_RZ2"
-                            },
-                            {
-                                "id": "b1000036-0003-0000-0000-000000000036",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W36_RZ3"
-                            },
-                            {
-                                "id": "b1000036-0004-0000-0000-000000000036",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W36_RZ4"
-                            }
-                        ]
+                        "code": "JAGD_W35",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000037-0000-0000-0000-000000000037",
-                        "boundaryNum": 37,
+                        "id": "a1000036-0000-0000-0000-000000000000",
+                        "boundaryNum": 36,
                         "name": "Lokmanya Tilak Ward (M)",
                         "localname": "Lokmanya Tilak Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W37",
-                        "children": [
-                            {
-                                "id": "b1000037-0004-0000-0000-000000000037",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W37_RZ4"
-                            }
-                        ]
+                        "code": "JAGD_W36",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000038-0000-0000-0000-000000000038",
-                        "boundaryNum": 38,
+                        "id": "a1000037-0000-0000-0000-000000000000",
+                        "boundaryNum": 37,
                         "name": "Atal Bihari Vajpayi Ward (M)",
                         "localname": "Atal Bihari Vajpayi Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W38",
-                        "area": "JAGDLP_Z4_MR_PUCCA",
-                        "children": [
-                            {
-                                "id": "b1000038-0003-0000-0000-000000000038",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W38_RZ3"
-                            },
-                            {
-                                "id": "b1000038-0004-0000-0000-000000000038",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W38_RZ4",
-                                "area":"JAGDLP_Z4_MR_PUCCA"
-                            }
-                        ]
+                        "code": "JAGD_W37",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000039-0000-0000-0000-000000000039",
+                        "id": "a1000038-0000-0000-0000-000000000000",
+                        "boundaryNum": 38,
+                        "name": "Baliram Kashyap Ward (M)",
+                        "localname": "Baliram Kashyap Ward (M)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "JAGD_W38",
+                        "area": "4",
+                        "children": []
+                    },
+                    {
+                        "id": "a1000039-0000-0000-0000-000000000000",
                         "boundaryNum": 39,
-                        "name": "Dr. Shyama Prasad Mukharji Ward (M)",
-                        "localname": "Dr. Shyama Prasad Mukharji Ward (M)",
+                        "name": "Dr. Shyama Prasad Ward (M)",
+                        "localname": "Dr. Shyama Prasad Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W39",
-                        "children": [
-                            {
-                                "id": "b1000039-0001-0000-0000-000000000039",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W39_RZ1"
-                            },
-                            {
-                                "id": "b1000039-0002-0000-0000-000000000039",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W39_RZ2"
-                            },
-                            {
-                                "id": "b1000039-0003-0000-0000-000000000039",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W39_RZ3"
-                            },
-                            {
-                                "id": "b1000039-0004-0000-0000-000000000039",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W39_RZ4"
-                            },
-                            {
-                                "id": "b1000039-0005-0000-0000-000000000039",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W39_RZ5"
-                            }
-                        ]
+                        "area": "3",
+                        "children": []
                     },
                     {
-                        "id": "a1000040-0000-0000-0000-000000000040",
+                        "id": "a1000040-0000-0000-0000-000000000000",
                         "boundaryNum": 40,
                         "name": "Dr. Abdul Kalam Ward (M)",
                         "localname": "Dr. Abdul Kalam Ward (M)",
@@ -1108,41 +494,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W40",
-                        "children": [
-                            {
-                                "id": "b1000040-0001-0000-0000-000000000040",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W40_RZ1"
-                            },
-                            {
-                                "id": "b1000040-0002-0000-0000-000000000040",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W40_RZ2"
-                            },
-                            {
-                                "id": "b1000040-0003-0000-0000-000000000040",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W40_RZ3"
-                            },
-                            {
-                                "id": "b1000040-0004-0000-0000-000000000040",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W40_RZ4"
-                            },
-                            {
-                                "id": "b1000040-0005-0000-0000-000000000040",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W40_RZ5"
-                            }
-                        ]
+                        "area": "3",
+                        "children": []
                     },
                     {
-                        "id": "a1000041-0000-0000-0000-000000000041",
+                        "id": "a1000041-0000-0000-0000-000000000000",
                         "boundaryNum": 41,
                         "name": "Chandrashekhar Azad Ward (M)",
                         "localname": "Chandrashekhar Azad Ward (M)",
@@ -1150,41 +506,11 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W41",
-                        "children": [
-                            {
-                                "id": "b1000041-0001-0000-0000-000000000041",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W41_RZ1"
-                            },
-                            {
-                                "id": "b1000041-0002-0000-0000-000000000041",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W41_RZ2"
-                            },
-                            {
-                                "id": "b1000041-0003-0000-0000-000000000041",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W41_RZ3"
-                            },
-                            {
-                                "id": "b1000041-0004-0000-0000-000000000041",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W41_RZ4"
-                            },
-                            {
-                                "id": "b1000041-0005-0000-0000-000000000041",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W41_RZ5"
-                            }
-                        ]
+                        "area": "3",
+                        "children": []
                     },
                     {
-                        "id": "a1000042-0000-0000-0000-000000000042",
+                        "id": "a1000042-0000-0000-0000-000000000000",
                         "boundaryNum": 42,
                         "name": "Mahendra Karma Ward (M)",
                         "localname": "Mahendra Karma Ward (M)",
@@ -1192,182 +518,80 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "JAGD_W42",
-                        "children": [
-                            {
-                                "id": "b1000042-0001-0000-0000-000000000042",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W42_RZ1"
-                            },
-                            {
-                                "id": "b1000042-0002-0000-0000-000000000042",
-                                "name": "Rate Zone 2",
-                                "label": "RateZone",
-                                "code": "JAGD_W42_RZ2"
-                            },
-                            {
-                                "id": "b1000042-0003-0000-0000-000000000042",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W42_RZ3"
-                            },
-                            {
-                                "id": "b1000042-0004-0000-0000-000000000042",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W42_RZ4"
-                            },
-                            {
-                                "id": "b1000042-0005-0000-0000-000000000042",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W42_RZ5"
-                            }
-                        ]
+                        "area": "3",
+                        "children": []
                     },
                     {
-                        "id": "a1000043-0000-0000-0000-000000000043",
+                        "id": "a1000043-0000-0000-0000-000000000000",
                         "boundaryNum": 43,
-                        "name": "Baliram Kashyap Ward (M)",
-                        "localname": "Baliram Kashyap Ward (M)",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "JAGD_W43",
-                        "children": [
-                            {
-                                "id": "b1000043-0004-0000-0000-000000000043",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W43_RZ4"
-                            },
-                            {
-                                "id": "b1000043-0005-0000-0000-000000000043",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W43_RZ5"
-                            }
-                        ]
-                    },
-                    {
-                        "id": "a1000044-0000-0000-0000-000000000044",
-                        "boundaryNum": 44,
                         "name": "Madanmohan Malviya Ward (M)",
                         "localname": "Madanmohan Malviya Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W44",
-                        "children": [
-                            {
-                                "id": "b1000044-0001-0000-0000-000000000044",
-                                "name": "Rate Zone 1",
-                                "label": "RateZone",
-                                "code": "JAGD_W44_RZ1"
-                            },
-                            {
-                                "id": "b1000044-0003-0000-0000-000000000044",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W44_RZ3"
-                            },
-                            {
-                                "id": "b1000044-0004-0000-0000-000000000044",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W44_RZ4"
-                            },
-                            {
-                                "id": "b1000044-0005-0000-0000-000000000044",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W44_RZ5"
-                            }
-                        ]
+                        "code": "JAGD_W43",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000045-0000-0000-0000-000000000045",
-                        "boundaryNum": 45,
+                        "id": "a1000044-0000-0000-0000-000000000000",
+                        "boundaryNum": 44,
                         "name": "Shahid Gundadhur Ward (M)",
                         "localname": "Shahid Gundadhur Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W45",
-                        "children": [
-                            {
-                                "id": "b1000045-0004-0000-0000-000000000045",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W45_RZ4"
-                            }
-                        ]
+                        "code": "JAGD_W44",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000046-0000-0000-0000-000000000046",
-                        "boundaryNum": 46,
+                        "id": "a1000045-0000-0000-0000-000000000000",
+                        "boundaryNum": 45,
                         "name": "Sardar Vallabh Bhai Patel Ward (M)",
                         "localname": "Sardar Vallabh Bhai Patel Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W46",
-                        "children": [
-                            {
-                                "id": "b1000046-0005-0000-0000-000000000046",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W46_RZ5"
-                            }
-                        ]
+                        "code": "JAGD_W45",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000047-0000-0000-0000-000000000047",
-                        "boundaryNum": 47,
+                        "id": "a1000046-0000-0000-0000-000000000000",
+                        "boundaryNum": 46,
                         "name": "Maharana Pratap Ward (M)",
                         "localname": "Maharana Pratap Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JAGD_W47",
-                        "children": [
-                            {
-                                "id": "b1000047-0004-0000-0000-000000000047",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W47_RZ4"
-                            }
-                        ]
+                        "code": "JAGD_W46",
+                        "area": "4",
+                        "children": []
                     },
                     {
-                        "id": "a1000048-0000-0000-0000-000000000048",
-                        "boundaryNum": 48,
+                        "id": "a1000047-0000-0000-0000-000000000000",
+                        "boundaryNum": 47,
                         "name": "Kushabhau Thakre Ward (M)",
                         "localname": "Kushabhau Thakre Ward (M)",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
+                        "code": "JAGD_W47",
+                        "area": "4",
+                        "children": []
+                    },
+                    {
+                        "id": "a1000048-0000-0000-0000-000000000000",
+                        "boundaryNum": 48,
+                        "name": "Valmiki Ward (M)",
+                        "localname": "Valmiki Ward (M)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
                         "code": "JAGD_W48",
-                        "children": [
-                            {
-                                "id": "b1000048-0003-0000-0000-000000000048",
-                                "name": "Rate Zone 3",
-                                "label": "RateZone",
-                                "code": "JAGD_W48_RZ3"
-                            },
-                            {
-                                "id": "b1000048-0004-0000-0000-000000000048",
-                                "name": "Rate Zone 4",
-                                "label": "RateZone",
-                                "code": "JAGD_W48_RZ4"
-                            },
-                            {
-                                "id": "b1000048-0005-0000-0000-000000000048",
-                                "name": "Rate Zone 5",
-                                "label": "RateZone",
-                                "code": "JAGD_W48_RZ5"
-                            }
-                        ]
+                        "area": "4",
+                        "children": []
                     }
                 ]
             }
