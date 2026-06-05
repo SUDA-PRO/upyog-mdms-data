@@ -533,6 +533,13 @@
       "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
+    "RoadType": {
+      "masterName": "RoadType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "FireCess": {
       "masterName": "FireCess",
       "isStateLevel": true,
@@ -622,6 +629,20 @@
       "masterName": "CancerCess",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "DiscountType": {
+      "isStateLevel": true,
+      "masterName": "DiscountType",
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ChargeSlabs": {
+      "isStateLevel": false,
+      "masterName": "ChargeSlabs",
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "NOC": {

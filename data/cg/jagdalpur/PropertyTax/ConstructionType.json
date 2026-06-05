@@ -1,0 +1,25 @@
+﻿{
+  "tenantId": "cg.jagdalpur",
+  "moduleName": "PropertyTax",
+  "ConstructionType":
+  [
+    {
+      "id": "1",
+      "name": "RCC/Pucca",
+      "code": "PUCCA",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Semi Pucca (Cement/Tiles)",
+      "code": "SEMIPUCCA",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Kuccha (Temporary)",
+      "code": "KUCCHA",
+      "active": true
+    }
+  ]
+}

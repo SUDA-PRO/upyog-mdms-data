@@ -1,0 +1,37 @@
+﻿{
+    "tenantId":  "cg.kusmibalrampur",
+    "moduleName":  "egov-location",
+    "TenantBoundary":  [
+                           {
+                               "hierarchyType":  {
+                                                     "code":  "REVENUE",
+                                                     "name":  "REVENUE"
+                                                 },
+                               "boundary":  {
+                                                "id":  1,
+                                                "boundaryNum":  1,
+                                                "name":  "Kusmi(Balrampur)",
+                                                "localname":  "Kusmi(Balrampur)",
+                                                "longitude":  null,
+                                                "latitude":  null,
+                                                "label":  "City",
+                                                "code":  "cg.kusmibalrampur",
+                                                "children":  [
+                                                                 {
+                                                                     "id":  "5ab16a0c-76ec-4e89-ba4d-4d847e73bead",
+                                                                     "localname":  "Ward 1",
+                                                                     "latitude":  null,
+                                                                     "label":  "Ward",
+                                                                     "boundaryNum":  1,
+                                                                     "name":  "Ward 1",
+                                                                     "children":  [
+
+                                                                                  ],
+                                                                     "code":  "KUSM_W1",
+                                                                     "longitude":  null
+                                                                 }
+                                                             ]
+                                            }
+                           }
+                       ]
+}

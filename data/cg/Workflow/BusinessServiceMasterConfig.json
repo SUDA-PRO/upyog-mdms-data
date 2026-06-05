@@ -1,0 +1,46 @@
+﻿{
+    "tenantId": "cg",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+      {
+        "businessService": "NewTL",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+	  {
+        "businessService": "BPA",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+	  {
+        "businessService": "PT.CREATE",
+        "active": "true",
+        "isStatelevel": "false"
+      },
+      {
+        "businessService": "PGR",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+	{
+        "businessService": "BPA-PAP",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+      {
+        "businessService": "PT.MUTATION",
+        "active": "true",
+        "isStatelevel": "false"
+      },
+      {
+        "businessService": "PT.UPDATE",
+        "active": "true",
+        "isStatelevel": "false"
+      },
+      {
+        "businessService": "ASMT",
+        "active": "true",
+        "isStatelevel": "false"
+      }
+    ]
+  }

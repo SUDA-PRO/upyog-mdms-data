@@ -1,0 +1,181 @@
+{
+  "tenantId": "cg.jagdalpur",
+  "moduleName": "PropertyTax",
+  "ChargeSlabs": [
+    {
+      "name": "Zone 1 Main Road Pucca",
+      "code": "JAGDLP_Z1_MR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 1 Main Road Semi-Pucca",
+      "code": "JAGDLP_Z1_MR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 1 Main Road Kutcha",
+      "code": "JAGDLP_Z1_MR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 1 Other Road Pucca",
+      "code": "JAGDLP_Z1_OR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 1 Other Road Semi-Pucca",
+      "code": "JAGDLP_Z1_OR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 1 Other Road Kutcha",
+      "code": "JAGDLP_Z1_OR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Main Road Pucca",
+      "code": "JAGDLP_Z2_MR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Main Road Semi-Pucca",
+      "code": "JAGDLP_Z2_MR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Main Road Kutcha",
+      "code": "JAGDLP_Z2_MR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Other Road Pucca",
+      "code": "JAGDLP_Z2_OR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Other Road Semi-Pucca",
+      "code": "JAGDLP_Z2_OR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Other Road Kutcha",
+      "code": "JAGDLP_Z2_OR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Main Road Pucca",
+      "code": "JAGDLP_Z3_MR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Main Road Semi-Pucca",
+      "code": "JAGDLP_Z3_MR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Main Road Kutcha",
+      "code": "JAGDLP_Z3_MR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Other Road Pucca",
+      "code": "JAGDLP_Z3_OR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Other Road Semi-Pucca",
+      "code": "JAGDLP_Z3_OR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Other Road Kutcha",
+      "code": "JAGDLP_Z3_OR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Main Road Pucca",
+      "code": "JAGDLP_Z4_MR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Main Road Semi-Pucca",
+      "code": "JAGDLP_Z4_MR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Main Road Kutcha",
+      "code": "JAGDLP_Z4_MR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Other Road Pucca",
+      "code": "JAGDLP_Z4_OR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Other Road Semi-Pucca",
+      "code": "JAGDLP_Z4_OR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Other Road Kutcha",
+      "code": "JAGDLP_Z4_OR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Main Road Pucca",
+      "code": "JAGDLP_Z5_MR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Main Road Semi-Pucca",
+      "code": "JAGDLP_Z5_MR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Main Road Kutcha",
+      "code": "JAGDLP_Z5_MR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Other Road Pucca",
+      "code": "JAGDLP_Z5_OR_PUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Other Road Semi-Pucca",
+      "code": "JAGDLP_Z5_OR_SEMIPUCCA",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Other Road Kutcha",
+      "code": "JAGDLP_Z5_OR_KUTCHA",
+      "active": true
+    },
+    {
+      "name": "Zone 1 Vacant Land",
+      "code": "JAGDLP_Z1_VAC",
+      "active": true
+    },
+    {
+      "name": "Zone 2 Vacant Land",
+      "code": "JAGDLP_Z2_VAC",
+      "active": true
+    },
+    {
+      "name": "Zone 3 Vacant Land",
+      "code": "JAGDLP_Z3_VAC",
+      "active": true
+    },
+    {
+      "name": "Zone 4 Vacant Land",
+      "code": "JAGDLP_Z4_VAC",
+      "active": true
+    },
+    {
+      "name": "Zone 5 Vacant Land",
+      "code": "JAGDLP_Z5_VAC",
+      "active": true
+    }
+  ]
+}

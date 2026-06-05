@@ -1,0 +1,75 @@
+{
+  "tenantId": "cg",
+  "moduleName": "DataSecurity",
+  "Roles": [
+    {
+      "roleCode": "CITIZEN",
+      "isDefault": true,
+      "attributeAccessList": []
+    },
+    {
+      "roleCode": "EMPLOYEE",
+      "isDefault": false,
+      "attributeAccessList": [
+        {
+          "model": "User",
+          "name": "mobileNumber",
+          "visibility": "PLAIN"
+        },
+        {
+          "model": "User",
+          "name": "name",
+          "visibility": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "PT_CEMP",
+      "isDefault": false,
+      "attributeAccessList": [
+        {
+          "model": "User",
+          "name": "mobileNumber",
+          "visibility": "PLAIN"
+        },
+        {
+          "model": "User",
+          "name": "name",
+          "visibility": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "PT_ADMIN",
+      "isDefault": false,
+      "attributeAccessList": [
+        {
+          "model": "User",
+          "name": "mobileNumber",
+          "visibility": "PLAIN"
+        },
+        {
+          "model": "User",
+          "name": "name",
+          "visibility": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "SUPERUSER",
+      "isDefault": false,
+      "attributeAccessList": [
+        {
+          "model": "User",
+          "name": "mobileNumber",
+          "visibility": "PLAIN"
+        },
+        {
+          "model": "User",
+          "name": "name",
+          "visibility": "PLAIN"
+        }
+      ]
+    }
+  ]
+}
