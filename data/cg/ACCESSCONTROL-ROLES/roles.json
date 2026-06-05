@@ -507,6 +507,11 @@
       "code": "ASSET_ALLOCATOR",
       "name": "Asset Allocator",
       "description": "Allocator role for asset assignment workflows"
+    },
+    {
+      "code": "FSM_ADMIN",
+      "name": "FSM Admin",
+      "description": "Admin role for FSM workflows"
     }
   ]
 }
