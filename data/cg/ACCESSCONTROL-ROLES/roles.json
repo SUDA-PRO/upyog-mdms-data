@@ -477,6 +477,36 @@
     "code": "COMMISSIONER",
     "name": "Commissioner",
     "description": "Commissioner"
-  }
+  },
+  {
+      "code": "AssetCreator",
+      "name": "Asset Creator",
+      "description": "Creator role for asset registration and updates"
+    },
+    {
+      "code": "Asset Administrator",
+      "name": "Asset Administrator",
+      "description": "Administrator role for asset master and reports access"
+    },
+    {
+      "code": "ASSET_INITIATOR",
+      "name": "Asset Initiator",
+      "description": "Initiator role for asset workflows"
+    },
+    {
+      "code": "ASSET_VERIFIER",
+      "name": "Asset Verifier",
+      "description": "Verifier role for asset workflows"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "Asset Approver",
+      "description": "Approver role for asset workflows"
+    },
+    {
+      "code": "ASSET_ALLOCATOR",
+      "name": "Asset Allocator",
+      "description": "Allocator role for asset assignment workflows"
+    }
   ]
 }
