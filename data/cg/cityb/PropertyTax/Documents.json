@@ -56,6 +56,10 @@
           {
             "code": "OWNER.ADDRESSPROOF.PASSPORT",
             "active": false
+          },
+          {
+            "code": "OWNER.ADDRESSPROOF.REGISTRY",
+            "active": true
           }
         ],
         "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
