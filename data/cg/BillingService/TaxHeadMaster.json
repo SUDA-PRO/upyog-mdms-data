@@ -112,6 +112,16 @@
     },
     {
       "category": "TAX",
+      "service": "PT",
+      "name": "Pt arrear",
+      "code": "PT_ARREAR",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "9",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
       "service": "TL",
       "name": "tl tax",
       "code": "TL_TAX",

@@ -19245,6 +19245,24 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "PT_CEMP",
+      "actionid": 704,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 705,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 704,
       "actioncode": "",
