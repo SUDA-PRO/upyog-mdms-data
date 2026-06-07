@@ -1,0 +1,39 @@
+﻿{
+    "tenantId": "cg.dhamtari",
+    "moduleName": "BPA",
+    "OverHangs": [
+        {
+            "id": 1,
+            "state": "cg",
+            "city": "dhamtari",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "permissible": 0.75,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "cg",
+            "city": "dhamtari",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "permissible": 2.75,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "cg",
+            "city": "dhamtari",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "permissible": 1.75,
+            "active": true
+        }
+    ]
+}

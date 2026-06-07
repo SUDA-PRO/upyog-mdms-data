@@ -1,0 +1,72 @@
+{
+    "tenantId": "cg.dhamtari",
+    "moduleName": "BPA",
+    "RainWaterHarvesting": [
+        {
+            "id": 1,
+            "fromPlotArea": 150,
+            "toPlotArea": 999999,
+            "state": "cg",
+            "city": "dhamtari",
+            "occupancy": "residential",
+            "riskType": "low",
+            "requiredRwhCapacity": 110,
+            "active": true
+        },
+        {
+            "id": 2,
+            "fromPlotArea": 150,
+            "toPlotArea": 999999,
+            "state": "cg",
+            "city": "dhamtari",
+            "occupancy": "residential",
+            "riskType": "medium",
+            "requiredRwhCapacity": 110,
+            "active": true
+        },
+        {
+            "id": 3,
+            "fromPlotArea": 150,
+            "toPlotArea": 999999,
+            "state": "cg",
+            "city": "dhamtari",
+            "occupancy": "residential",
+            "riskType": "high",
+            "requiredRwhCapacity": 110,
+            "active": true
+        },
+        {
+            "id": 4,
+            "fromPlotArea": 150,
+            "toPlotArea": 999999,
+            "state": "cg",
+            "city": "dhamtari",
+            "occupancy": "commercial",
+            "riskType": "low",
+            "requiredRwhCapacity": 110,
+            "active": true
+        },
+        {
+            "id": 5,
+            "fromPlotArea": 150,
+            "toPlotArea": 999999,
+            "state": "cg",
+            "city": "dhamtari",
+            "occupancy": "commercial",
+            "riskType": "medium",
+            "requiredRwhCapacity": 110,
+            "active": true
+        },
+        {
+            "id": 6,
+            "fromPlotArea": 150,
+            "toPlotArea": 999999,
+            "state": "cg",
+            "city": "dhamtari",
+            "occupancy": "commercial",
+            "riskType": "high",
+            "requiredRwhCapacity": 110,
+            "active": true
+        }
+    ]
+}
