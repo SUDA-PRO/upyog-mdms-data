@@ -1,0 +1,138 @@
+{
+    "tenantId": "cg.dhamtari",
+    "moduleName": "BPA",
+    "Parking": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "subOccupancy": "Apartment/Group Housing",
+            "riskType": "low",
+            "areaRequired": 200,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "residential",
+            "subOccupancy": "Apartment/Group Housing",
+            "riskType": "medium",
+            "areaRequired": 200,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "residential",
+            "subOccupancy": "Apartment/Group Housing",
+            "riskType": "high",
+            "areaRequired": 200,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "commercial",
+            "subOccupancy": "Commercial",
+            "riskType": "low",
+            "areaRequired": 150,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "commercial",
+            "subOccupancy": "Commercial",
+            "riskType": "medium",
+            "areaRequired": 150,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "commercial",
+            "subOccupancy": "Commercial",
+            "riskType": "high",
+            "areaRequired": 150,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "industrial",
+            "subOccupancy": "Industrial",
+            "riskType": "low",
+            "areaRequired": 400,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 8,
+            "occupancy": "industrial",
+            "subOccupancy": "Industrial",
+            "riskType": "medium",
+            "areaRequired": 400,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 9,
+            "occupancy": "industrial",
+            "subOccupancy": "Industrial",
+            "riskType": "high",
+            "areaRequired": 400,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 10,
+            "occupancy": "institutional",
+            "subOccupancy": "Academic",
+            "riskType": "low",
+            "areaRequired": 70,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 11,
+            "occupancy": "institutional",
+            "subOccupancy": "Academic",
+            "riskType": "medium",
+            "areaRequired": 70,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        },
+        {
+            "id": 12,
+            "occupancy": "institutional",
+            "subOccupancy": "Academic",
+            "riskType": "high",
+            "areaRequired": 70,
+            "carparkingType": "Open",
+            "state": "cg",
+            "city": "dhamtari",
+            "active": true
+        }
+    ]
+}
