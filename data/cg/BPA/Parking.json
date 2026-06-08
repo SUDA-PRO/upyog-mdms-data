@@ -4,46 +4,35 @@
     "Parking": [
         {
             "id": 1,
-            "fromPlotArea": 100,
-            "toPlotArea": 150,
+            "fromPlotArea": 0,
+            "toPlotArea": 199,
             "occupancy": "residential",
             "riskType": null,
-            "isOpenParking": true,
-            "noOfParking": 1,
-            "permissible": 26.5,
+            "isOpenParking": false,
+            "noOfParking": 0,
+            "permissible": 0,
             "active": true
         },
         {
-            "id": 1,
-            "fromPlotArea": 150,
-            "toPlotArea": 200,
-            "occupancy": "residential",
-            "riskType": null,
-            "isOpenParking": true,
-            "noOfParking": 1,
-            "permissible": 20,
-            "active": true
-        },
-        {
-            "id": 1,
+            "id": 2,
             "fromPlotArea": 200,
-            "toPlotArea": 500,
+            "toPlotArea": 499,
             "occupancy": "residential",
             "riskType": null,
-            "isStiltParking": true,
-            "noOfParking": 3,
-            "permissible": 32.5,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 22.5,
             "active": true
         },
         {
-            "id": 1,
+            "id": 3,
             "fromPlotArea": 500,
             "toPlotArea": 999999,
             "occupancy": "residential",
             "riskType": null,
-            "isBasementParking": true,
-            "noOfParking": 3,
-            "permissible": 38.5,
+            "isStiltParking": true,
+            "noOfParking": 2,
+            "permissible": 32.5,
             "active": true
         }
     ]
