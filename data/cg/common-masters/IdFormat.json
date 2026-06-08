@@ -463,15 +463,15 @@
             "idname": "nks.rain_harvesting_charges.receipt.id"
         },
         {
-            "format": "PG-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+            "format": "PT[DISTRICT][CITY][cy:ddMMyy][SEQ_EG_PT_ACK:4]",
             "idname": "pt.acknowledgementnumber"
         },
         {
-            "format": "PG-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "PT[DISTRICT][CITY][cy:ddMMyy][SEQ_EG_PT_ASSM:4]",
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PG-PT-[CITY.CODE]-[SEQ_EG_PT_PTID]",
+            "format": "CG[DISTRICT][CITY][SEQ_EG_PT_PTID:7]",
             "idname": "pt.propertyid"
         },
         {

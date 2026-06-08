@@ -19245,6 +19245,24 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "PT_CEMP",
+      "actionid": 704,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 705,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 704,
       "actioncode": "",
@@ -32267,6 +32285,12 @@
     {
       "rolecode": "ASSET_INITIATOR",
       "actionid": 3035,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "cg"
     },

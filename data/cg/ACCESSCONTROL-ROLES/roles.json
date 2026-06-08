@@ -477,6 +477,61 @@
     "code": "COMMISSIONER",
     "name": "Commissioner",
     "description": "Commissioner"
-  }
+  },
+  {
+      "code": "AssetCreator",
+      "name": "Asset Creator",
+      "description": "Creator role for asset registration and updates"
+    },
+    {
+      "code": "Asset Administrator",
+      "name": "Asset Administrator",
+      "description": "Administrator role for asset master and reports access"
+    },
+    {
+      "code": "ASSET_INITIATOR",
+      "name": "Asset Initiator",
+      "description": "Initiator role for asset workflows"
+    },
+    {
+      "code": "ASSET_VERIFIER",
+      "name": "Asset Verifier",
+      "description": "Verifier role for asset workflows"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "Asset Approver",
+      "description": "Approver role for asset workflows"
+    },
+    {
+      "code": "ASSET_ALLOCATOR",
+      "name": "Asset Allocator",
+      "description": "Allocator role for asset assignment workflows"
+    },
+    {
+      "code": "FSM_ADMIN",
+      "name": "FSM Admin",
+      "description": "Admin role for FSM workflows"
+    },
+    {
+      "code": "FSM_DSO",
+      "name": "FSM DSO",
+      "description": "Desludging Operator role for FSM vendor/DSO"
+    },
+    {
+      "code": "FSM_DRIVER",
+      "name": "FSM Driver",
+      "description": "Driver role for FSM vehicle operations"
+    },
+    {
+      "code": "VENDOR",
+      "name": "Vendor",
+      "description": "Vendor role for FSM desludging operators"
+    },
+    {
+      "code": "FSM_EMP",
+      "name": "FSM Employee",
+      "description": "Employee role for FSM module operations"
+    }
   ]
 }
