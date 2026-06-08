@@ -11,7 +11,7 @@
             "riskType": null,
             "occupancy": "residential",
             "permissible": 1,
-            "active": true
+            "active": false
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "riskType": null,
             "occupancy": "commercial",
             "permissible": 2,
-            "active": true
+            "active": false
         },
         {
             "id": 3,
@@ -33,7 +33,7 @@
             "riskType": null,
             "occupancy": "industrial",
             "permissible": 3,
-            "active": true
+            "active": false
         }
     ]
 }
