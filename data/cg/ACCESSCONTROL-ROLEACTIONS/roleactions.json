@@ -32289,6 +32289,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "MDMS_ADMIN",
       "actionid": 3004,
       "actioncode": "",
