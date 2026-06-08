@@ -1,4 +1,4 @@
-﻿{
+{
     "tenantId": "cg",
     "moduleName": "BPA",
     "AdditionalFeature": [
@@ -6,9 +6,8 @@
             "id": 1,
             "occupancy": "residential",
             "additionalFeatureMinRequiredFloorHeight": 2.75,
-            "additionalFeatureMaxPermissibleFloorHeight": 4.40,
+            "additionalFeatureMaxPermissibleFloorHeight": 4.4,
             "additionalFeatureStiltFloor": 2.5,
-
             "additionalFeatureRoadWidthA": 2.4,
             "additionalFeatureRoadWidthB": 2.44,
             "additionalFeatureRoadWidthC": 3.6,
@@ -18,30 +17,25 @@
             "additionalFeatureNewRoadWidthA": 6.1,
             "additionalFeatureNewRoadWidthB": 9.1,
             "additionalFeatureNewRoadWidthC": 12.2,
-
             "additionalFeatureRoadWidthAcceptedBC": 7,
             "additionalFeatureRoadWidthAcceptedCD": 10,
             "additionalFeatureRoadWidthAcceptedDE": 10,
             "additionalFeatureRoadWidthAcceptedEF": 12,
             "additionalFeatureRoadWidthNewAcceptedAB": 12,
             "additionalFeatureRoadWidthNewAcceptedBC": 19,
-
             "additionalFeatureFloorsAcceptedBC": 2,
             "additionalFeatureFloorsAcceptedCD": 3,
             "additionalFeatureFloorsAcceptedDE": 3,
             "additionalFeatureFloorsAcceptedEF": 4,
             "additionalFeatureFloorsNewAcceptedAB": 4,
             "additionalFeatureFloorsNewAcceptedBC": 6,
-
             "additionalFeatureBasementPlotArea": 300,
             "additionalFeatureBasementAllowed": 1,
             "additionalFeatureBarrierValue": 2000,
-
             "afGreenBuildingValueA": 500,
             "afGreenBuildingValueB": 1000,
             "afGreenBuildingValueC": 2000,
             "afGreenBuildingValueD": 5000,
-
             "active": true
         },
         {
@@ -50,7 +44,6 @@
             "additionalFeatureMinRequiredFloorHeight": 2,
             "additionalFeatureMaxPermissibleFloorHeight": 3.5,
             "additionalFeatureStiltFloor": 2.5,
-
             "additionalFeatureRoadWidthA": 2.4,
             "additionalFeatureRoadWidthB": 2.44,
             "additionalFeatureRoadWidthC": 3.6,
@@ -60,25 +53,21 @@
             "additionalFeatureNewRoadWidthA": 6.1,
             "additionalFeatureNewRoadWidthB": 9.1,
             "additionalFeatureNewRoadWidthC": 12.2,
-
             "additionalFeatureRoadWidthAcceptedBC": 7,
             "additionalFeatureRoadWidthAcceptedCD": 10,
             "additionalFeatureRoadWidthAcceptedDE": 10,
             "additionalFeatureRoadWidthAcceptedEF": 12,
             "additionalFeatureRoadWidthNewAcceptedAB": 12,
             "additionalFeatureRoadWidthNewAcceptedBC": 19,
-
             "additionalFeatureFloorsAcceptedBC": 2,
             "additionalFeatureFloorsAcceptedCD": 3,
             "additionalFeatureFloorsAcceptedDE": 3,
             "additionalFeatureFloorsAcceptedEF": 4,
             "additionalFeatureFloorsNewAcceptedAB": 4,
             "additionalFeatureFloorsNewAcceptedBC": 6,
-
             "additionalFeatureBasementPlotArea": 300,
             "additionalFeatureBasementAllowed": 1,
             "additionalFeatureBarrierValue": 2000,
-
             "afGreenBuildingValueA": 500,
             "afGreenBuildingValueB": 1000,
             "afGreenBuildingValueC": 2000,
@@ -89,9 +78,8 @@
             "id": 3,
             "occupancy": "industrial",
             "additionalFeatureMinRequiredFloorHeight": 3,
-            "additionalFeatureMaxPermissibleFloorHeight": 2.40,
+            "additionalFeatureMaxPermissibleFloorHeight": 2.4,
             "additionalFeatureStiltFloor": 2.5,
-
             "additionalFeatureRoadWidthA": 2.4,
             "additionalFeatureRoadWidthB": 2.44,
             "additionalFeatureRoadWidthC": 3.6,
@@ -101,25 +89,21 @@
             "additionalFeatureNewRoadWidthA": 6.1,
             "additionalFeatureNewRoadWidthB": 9.1,
             "additionalFeatureNewRoadWidthC": 12.2,
-
             "additionalFeatureRoadWidthAcceptedBC": 7,
             "additionalFeatureRoadWidthAcceptedCD": 10,
             "additionalFeatureRoadWidthAcceptedDE": 10,
             "additionalFeatureRoadWidthAcceptedEF": 12,
             "additionalFeatureRoadWidthNewAcceptedAB": 12,
             "additionalFeatureRoadWidthNewAcceptedBC": 19,
-
             "additionalFeatureFloorsAcceptedBC": 2,
             "additionalFeatureFloorsAcceptedCD": 3,
             "additionalFeatureFloorsAcceptedDE": 3,
             "additionalFeatureFloorsAcceptedEF": 4,
             "additionalFeatureFloorsNewAcceptedAB": 4,
             "additionalFeatureFloorsNewAcceptedBC": 6,
-
             "additionalFeatureBasementPlotArea": 300,
             "additionalFeatureBasementAllowed": 1,
             "additionalFeatureBarrierValue": 2000,
-
             "afGreenBuildingValueA": 500,
             "afGreenBuildingValueB": 1000,
             "afGreenBuildingValueC": 2000,
