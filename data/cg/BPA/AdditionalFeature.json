@@ -37,10 +37,10 @@
             "additionalFeatureBasementAllowed": 1,
             "additionalFeatureBarrierValue": 2000,
 
-            "afGreenBuildingValueA": 100,
-            "afGreenBuildingValueB": 500,
-            "afGreenBuildingValueC": 1000,
-            "afGreenBuildingValueD": 3000,
+            "afGreenBuildingValueA": 500,
+            "afGreenBuildingValueB": 1000,
+            "afGreenBuildingValueC": 2000,
+            "afGreenBuildingValueD": 5000,
 
             "active": true
         },
@@ -79,10 +79,10 @@
             "additionalFeatureBasementAllowed": 1,
             "additionalFeatureBarrierValue": 2000,
 
-            "afGreenBuildingValueA": 100,
-            "afGreenBuildingValueB": 500,
-            "afGreenBuildingValueC": 1000,
-            "afGreenBuildingValueD": 3000,
+            "afGreenBuildingValueA": 500,
+            "afGreenBuildingValueB": 1000,
+            "afGreenBuildingValueC": 2000,
+            "afGreenBuildingValueD": 5000,
             "active": true
         },
         {
@@ -120,10 +120,10 @@
             "additionalFeatureBasementAllowed": 1,
             "additionalFeatureBarrierValue": 2000,
 
-            "afGreenBuildingValueA": 100,
-            "afGreenBuildingValueB": 500,
-            "afGreenBuildingValueC": 1000,
-            "afGreenBuildingValueD": 3000,
+            "afGreenBuildingValueA": 500,
+            "afGreenBuildingValueB": 1000,
+            "afGreenBuildingValueC": 2000,
+            "afGreenBuildingValueD": 5000,
             "active": true
         }
     ]
