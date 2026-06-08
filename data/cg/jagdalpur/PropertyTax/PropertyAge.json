@@ -4,8 +4,8 @@
     "PropertyAge":
     [
         {
-          "name": "less than 10 year",
-          "code": "<10year",
+          "name": "less than 15 year",
+          "code": "<15year",
           "active": true
         },
         {
