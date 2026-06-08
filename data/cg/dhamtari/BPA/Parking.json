@@ -3,6 +3,21 @@
     "moduleName": "BPA",
     "Parking": [
         {
+            "id": 0,
+            "fromPlotArea": 0,
+            "toPlotArea": 199,
+            "state": "cg",
+            "city": "dhamtari",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "residential",
+            "riskType": "vlow",
+            "isOpenParking": true,
+            "noOfParking": 0,
+            "permissible": 0,
+            "active": true
+        },
+        {
             "id": 1,
             "fromPlotArea": 0,
             "toPlotArea": 199,
