@@ -431,6 +431,396 @@
       "uniqueKeys": [
         "$.question"
       ]
+    },
+    "NocTypeMapping": {
+      "masterName": "NocTypeMapping",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "StakeholderConfig": {
+      "masterName": "StakeholderConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "BuildingPermitConfig": {
+      "masterName": "BuildingPermitConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "OCBuildingPermitConfig": {
+      "masterName": "OCBuildingPermitConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "EdcrConfig": {
+      "masterName": "EdcrConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "OCEdcrConfig": {
+      "masterName": "OCEdcrConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "InspectionReportConfig": {
+      "masterName": "InspectionReportConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "homePageUrlLinks": {
+      "masterName": "homePageUrlLinks",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "TownPlanningScheme": {
+      "masterName": "TownPlanningScheme",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "ProposedLandUse": {
+      "masterName": "ProposedLandUse",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "BPAApplicationMapping": {
+      "masterName": "BPAApplicationMapping",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "RatingValue": {
+      "masterName": "RatingValue",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "Far": {
+      "masterName": "Far",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Coverage": {
+      "masterName": "Coverage",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "FrontSetBack": {
+      "masterName": "FrontSetBack",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RearSetBack": {
+      "masterName": "RearSetBack",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "SideYardService": {
+      "masterName": "SideYardService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Parking": {
+      "masterName": "Parking",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RoadWidth": {
+      "masterName": "RoadWidth",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "BuildingHeight": {
+      "masterName": "BuildingHeight",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Balcony": {
+      "masterName": "Balcony",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Basement": {
+      "masterName": "Basement",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Bathroom": {
+      "masterName": "Bathroom",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "BathroomWaterClosets": {
+      "masterName": "BathroomWaterClosets",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "BlockDistancesService": {
+      "masterName": "BlockDistancesService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Chimney": {
+      "masterName": "Chimney",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Doors": {
+      "masterName": "Doors",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "ExitWidth": {
+      "masterName": "ExitWidth",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "FireStair": {
+      "masterName": "FireStair",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "FireTenderMovement": {
+      "masterName": "FireTenderMovement",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "GovtBuildingDistance": {
+      "masterName": "GovtBuildingDistance",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "GuardRoom": {
+      "masterName": "GuardRoom",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "HeadRoom": {
+      "masterName": "HeadRoom",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "InteriorOpenSpaceService": {
+      "masterName": "InteriorOpenSpaceService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Kitchen": {
+      "masterName": "Kitchen",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Landing": {
+      "masterName": "Landing",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "LandUse": {
+      "masterName": "LandUse",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Lift": {
+      "masterName": "Lift",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "MezzanineFloorService": {
+      "masterName": "MezzanineFloorService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "MonumentDistance": {
+      "masterName": "MonumentDistance",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "NonHabitationalDoors": {
+      "masterName": "NonHabitationalDoors",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "NoOfRiser": {
+      "masterName": "NoOfRiser",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "OverHangs": {
+      "masterName": "OverHangs",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "OverheadElectricalLineService": {
+      "masterName": "OverheadElectricalLineService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Parapet": {
+      "masterName": "Parapet",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "PassageService": {
+      "masterName": "PassageService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Plantation": {
+      "masterName": "Plantation",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "PlantationGreenStrip": {
+      "masterName": "PlantationGreenStrip",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "PlinthHeight": {
+      "masterName": "PlinthHeight",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "PlotArea": {
+      "masterName": "PlotArea",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "PorticoService": {
+      "masterName": "PorticoService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RainWaterHarvesting": {
+      "masterName": "RainWaterHarvesting",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RampService": {
+      "masterName": "RampService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RequiredTread": {
+      "masterName": "RequiredTread",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RequiredWidth": {
+      "masterName": "RequiredWidth",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RiserHeight": {
+      "masterName": "RiserHeight",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RiverDistance": {
+      "masterName": "RiverDistance",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RoofTank": {
+      "masterName": "RoofTank",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RoomArea": {
+      "masterName": "RoomArea",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RoomWiseDoorArea": {
+      "masterName": "RoomWiseDoorArea",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "RoomWiseVentilation": {
+      "masterName": "RoomWiseVentilation",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Sanitation": {
+      "masterName": "Sanitation",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "SegregatedToilet": {
+      "masterName": "SegregatedToilet",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "SepticTank": {
+      "masterName": "SepticTank",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Solar": {
+      "masterName": "Solar",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "SpiralStair": {
+      "masterName": "SpiralStair",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "StairCover": {
+      "masterName": "StairCover",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "StoreRoom": {
+      "masterName": "StoreRoom",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "TerraceUtilityService": {
+      "masterName": "TerraceUtilityService",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Toilet": {
+      "masterName": "Toilet",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "TravelDistanceToExit": {
+      "masterName": "TravelDistanceToExit",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "VehicleRamp": {
+      "masterName": "VehicleRamp",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Ventilation": {
+      "masterName": "Ventilation",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "Verandah": {
+      "masterName": "Verandah",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "WaterClosets": {
+      "masterName": "WaterClosets",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "WaterTankCapacity": {
+      "masterName": "WaterTankCapacity",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "AdditionalFeature": {
+      "masterName": "AdditionalFeature",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    },
+    "EdcrRulesFeatures": {
+      "masterName": "EdcrRulesFeatures",
+      "isStateLevel": false,
+      "uniqueKeys": []
     }
   },
   "inventory": {
