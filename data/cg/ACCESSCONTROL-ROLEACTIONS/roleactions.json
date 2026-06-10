@@ -30190,6 +30190,12 @@
     },
     {
       "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
       "actionid": 2890,
       "actioncode": "",
       "tenantId": "cg"
