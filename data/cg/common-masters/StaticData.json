@@ -7,7 +7,7 @@
                 "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
                 "helpline": 
                 { 
-                  "contactOne": "01124617543"
+                  "contactOne": "0771-2221955"
                 },
                 "serviceCenter": "4th Floor, D-Block, Indravati Bhawan, Atal Nagar, Raipur, Chhattisgarh – 492018",
                 "staticDataOne": "7-10",
@@ -18,7 +18,7 @@
             "TL" : {
                 "helpline": 
                 { 
-                  "contactOne": "01124617543"
+                  "contactOne": "0771-2221955"
                 },
                 "serviceCenter": "4th Floor, D-Block, Indravati Bhawan, Atal Nagar, Raipur, Chhattisgarh – 492018",
                 "viewMapLocation": "https://maps.app.goo.gl/Uo7ykLvUN2Lhndn88"
@@ -27,7 +27,7 @@
             "MCOLLECT" : {
                 "helpline": 
                 { 
-                  "contactOne": "01124617543"
+                  "contactOne": "0771-2221955"
                 },
                 "serviceCenter": "4th Floor, D-Block, Indravati Bhawan, Atal Nagar, Raipur, Chhattisgarh – 492018",
                 "viewMapLocation": "https://maps.app.goo.gl/Uo7ykLvUN2Lhndn88"
@@ -35,7 +35,7 @@
             "PGR" : {
                 "helpline": 
                 { 
-                  "contactOne": "01124617543"
+                  "contactOne": "0771-2221955"
                 },
               "serviceCenter": "4th Floor, D-Block, Indravati Bhawan, Atal Nagar, Raipur, Chhattisgarh – 492018",
               "viewMapLocation": "https://maps.app.goo.gl/Uo7ykLvUN2Lhndn88"
@@ -43,7 +43,7 @@
           "OBPS" : {
                 "helpline": 
                 { 
-                  "contactOne": "01124617543"
+                  "contactOne": "0771-2221955"
                 },
               "serviceCenter": "4th Floor, D-Block, Indravati Bhawan, Atal Nagar, Raipur, Chhattisgarh – 492018",
               "validity": "1",
@@ -53,7 +53,7 @@
           "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
                 "helpline": 
                 { 
-                  "contactOne": "01124617543"                
+                  "contactOne": "0771-2221955"                
                 },
               "serviceCenter": "4th Floor, D-Block, Indravati Bhawan, Atal Nagar, Raipur, Chhattisgarh – 492018",
               "staticDataOne": "30",
