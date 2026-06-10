@@ -30202,7 +30202,31 @@
     },
     {
       "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 2892,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
       "actionid": 2893,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 2895,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 3035,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 1730,
       "actioncode": "",
       "tenantId": "cg"
     },
