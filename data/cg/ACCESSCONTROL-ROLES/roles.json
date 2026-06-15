@@ -268,6 +268,11 @@
       "description": "Approver for Water Supply applications"
     },
     {
+      "code": "PLUMBER",
+      "name": "Plumber",
+      "description": "Plumber who executes the physical water connection work"
+    },
+    {
       "code": "TC_DOC_VERIFIER",
       "name": "Tree Cutting Document Verifier",
       "description": "Document Verifier for Tree Cutting applications"
