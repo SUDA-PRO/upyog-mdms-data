@@ -12,7 +12,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "low",
-            "permissible": 100,
+            "permissible": 70,
             "active": true
         },
         {
@@ -38,7 +38,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "low",
-            "permissible": 70,
+            "permissible": 60,
             "active": true
         },
         {
@@ -688,7 +688,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "medium",
-            "permissible": 100,
+            "permissible": 70,
             "active": true
         },
         {
@@ -714,7 +714,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "medium",
-            "permissible": 70,
+            "permissible": 60,
             "active": true
         },
         {
@@ -1364,7 +1364,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "high",
-            "permissible": 100,
+            "permissible": 70,
             "active": true
         },
         {
@@ -1390,7 +1390,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "high",
-            "permissible": 70,
+            "permissible": 60,
             "active": true
         },
         {
