@@ -532,6 +532,41 @@
       "code": "FSM_EMP",
       "name": "FSM Employee",
       "description": "Employee role for FSM module operations"
+    },
+    {
+      "code": "FSM_CREATOR_EMP",
+      "name": "FSM Creator Employee",
+      "description": "Employee role to create FSM applications on behalf of citizens"
+    },
+    {
+      "code": "FSM_EDITOR_EMP",
+      "name": "FSM Editor Employee",
+      "description": "Employee role to submit FSM applications and assign DSO"
+    },
+    {
+      "code": "FSM_COLLECTOR",
+      "name": "FSM Collector",
+      "description": "Employee role to collect FSM application fee payments"
+    },
+    {
+      "code": "FSM_EMP_FSTPO",
+      "name": "FSM FSTP Operator",
+      "description": "Plant operator role to mark FSM disposal as completed at FSTP"
+    },
+    {
+      "code": "FSM_DASHBOARD_VIEWER",
+      "name": "FSM Dashboard Viewer",
+      "description": "Role to view FSM dashboards and reports"
+    },
+    {
+      "code": "FSM_REPORT_VIEWER",
+      "name": "FSM Report Viewer",
+      "description": "Role to view FSM reports"
+    },
+    {
+      "code": "FSM_VIEW_EMP",
+      "name": "FSM View Employee",
+      "description": "Employee role with read-only view access to FSM applications"
     }
   ]
 }
