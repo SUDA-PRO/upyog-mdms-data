@@ -14378,8 +14378,8 @@
           {
             "id": 1,
             "boundaryNum": 1,
-            "name": "GP 1",
-            "localname": "GP1",
+            "name": "Gram Panchayat 1",
+            "localname": "Gram Panchayat 1",
             "longitude": null,
             "latitude": null,
             "label": "GP",
@@ -14420,8 +14420,8 @@
           {
             "id": 4,
             "boundaryNum": 1,
-            "name": "GP 2",
-            "localname": "GP2",
+            "name": "Gram Panchayat 2",
+            "localname": "Gram Panchayat 2",
             "longitude": null,
             "latitude": null,
             "label": "GP",
@@ -14462,12 +14462,8 @@
           {
             "id": 7,
             "boundaryNum": 1,
-            "name": "Other",
-            "localname": "Other",
-            "longitude": null,
-            "latitude": null,
-            "label": "GP",
-            "code": "OTH1",
+            "name": "Others",
+            "localname": "Others",
             "children": []
           }
         ]
