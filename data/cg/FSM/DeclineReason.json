@@ -1,25 +1,25 @@
 ﻿{
     "tenantId": "cg",
-    "moduleName": "Vehicle",
-    "FSTPORejectionReason": [
+    "moduleName": "FSM",
+    "DeclineReason": [
         {
-            "name": "Approach Road to FSTP is inaccessible",
-            "code": "FSTP_INACCESS",
+            "name": "Vehicle not available",
+            "code": "VEHICLE_NOT_AVAILABLE",
             "active": true
         },
         {
-            "name": "Over Utilization of the FSTP Capacity (>100% Capacity Utilization)",
-            "code": "OVER_UTILIZE",
+            "name": "Septic tank / pit not accessible",
+            "code": "PIT_INACCESSIBLE",
             "active": true
         },
         {
-            "name": "FSTP under maintenance",
-            "code": "UNDER_MAINTENANCE",
+            "name": "Location outside service area",
+            "code": "OUTSIDE_SERVICE_AREA",
             "active": true
         },
         {
-            "name": "Vehicle breakdown on the way to FSTP",
-            "code": "VEHICLE_BREAKDOWN",
+            "name": "Insufficient application details",
+            "code": "INSUFFICIENT_DETAILS",
             "active": true
         },
         {
